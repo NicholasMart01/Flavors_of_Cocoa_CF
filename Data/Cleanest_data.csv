@@ -1,0 +1,1935 @@
+,Company(Maker),Specific_Bean_Origin_or_Bar_Name,REF,Review_Date,Cocoa_Percent,Company_Location,Rating,Bean_Type,Broad Bean_Origin,Quality,Review_Year
+0,A. Morin,Agua Grande,1876,2016,63.0,France,3.75,Missing,Sao Tome,Above Average,11.0
+1,A. Morin,Kpime,1676,2015,70.0,France,2.75,Missing,Togo,Below Average,10.0
+2,A. Morin,Atsane,1676,2015,70.0,France,3.0,Missing,Togo,Average,10.0
+3,A. Morin,Akata,1680,2015,70.0,France,3.5,Missing,Togo,Average,10.0
+4,A. Morin,Quilla,1704,2015,70.0,France,3.5,Missing,Peru,Average,10.0
+5,A. Morin,Carenero,1315,2014,70.0,France,2.75,Criollo,Venezuela,Below Average,9.0
+6,A. Morin,Cuba,1315,2014,70.0,France,3.5,Missing,Cuba,Average,9.0
+7,A. Morin,Sur del Lago,1315,2014,70.0,France,3.5,Criollo,Venezuela,Average,9.0
+8,A. Morin,Puerto Cabello,1319,2014,70.0,France,3.75,Criollo,Venezuela,Above Average,9.0
+9,A. Morin,Pablino,1319,2014,70.0,France,4.0,Missing,Peru,Above Average,9.0
+10,A. Morin,Panama,1011,2013,70.0,France,2.75,Missing,Panama,Below Average,8.0
+11,A. Morin,Madagascar,1011,2013,70.0,France,3.0,Criollo,Madagascar,Average,8.0
+12,A. Morin,Brazil,1011,2013,70.0,France,3.25,Missing,Brazil,Average,8.0
+13,A. Morin,Equateur,1011,2013,70.0,France,3.75,Missing,Ecuador,Above Average,8.0
+14,A. Morin,Colombie,1015,2013,70.0,France,2.75,Missing,Colombia,Below Average,8.0
+15,A. Morin,Birmanie,1015,2013,70.0,France,3.0,Missing,Burma,Average,8.0
+16,A. Morin,Papua New Guinea,1015,2013,70.0,France,3.25,Missing,Papua New Guinea,Average,8.0
+17,A. Morin,Chuao,1015,2013,70.0,France,4.0,Trinitario,Venezuela,Above Average,8.0
+18,A. Morin,Piura,1019,2013,70.0,France,3.25,Missing,Peru,Average,8.0
+19,A. Morin,Chanchamayo Province,1019,2013,70.0,France,3.5,Missing,Peru,Average,8.0
+20,A. Morin,Chanchamayo Province,1019,2013,63.0,France,4.0,Missing,Peru,Above Average,8.0
+21,A. Morin,Bolivia,797,2012,70.0,France,3.5,Missing,Bolivia,Average,7.0
+22,A. Morin,Peru,797,2012,63.0,France,3.75,Missing,Peru,Above Average,7.0
+23,Acalli,"Chulucanas, El Platanal",1462,2015,70.0,United States,3.75,Missing,Peru,Above Average,10.0
+24,Acalli,"Tumbes, Norandino",1470,2015,70.0,United States,3.75,Criollo,Peru,Above Average,10.0
+25,Adi,Vanua Levu,705,2011,60.0,Fiji,2.75,Trinitario,Fiji,Below Average,6.0
+26,Adi,"Vanua Levu, Toto-A",705,2011,80.0,Fiji,3.25,Trinitario,Fiji,Average,6.0
+27,Adi,Vanua Levu,705,2011,88.0,Fiji,3.5,Trinitario,Fiji,Average,6.0
+28,Adi,"Vanua Levu, Ami-Ami-CA",705,2011,72.0,Fiji,3.5,Trinitario,Fiji,Average,6.0
+29,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,Below Average,4.0
+30,Aequare (Gianduja),"Los Rios, Quevedo, Arriba",370,2009,70.0,Ecuador,3.0,Forastero (Arriba),Ecuador,Average,4.0
+31,Ah Cacao,Tabasco,316,2009,70.0,Mexico,3.0,Criollo,Mexico,Average,4.0
+32,Akesson's (Pralus),"Bali (west), Sukrama Family, Melaya area",636,2011,75.0,Switzerland,3.75,Trinitario,Indonesia,Above Average,6.0
+33,Akesson's (Pralus),"Madagascar, Ambolikapiky P.",502,2010,75.0,Switzerland,2.75,Criollo,Madagascar,Below Average,5.0
+34,Akesson's (Pralus),"Monte Alegre, D. Badero",508,2010,75.0,Switzerland,2.75,Forastero,Brazil,Below Average,5.0
+35,Alain Ducasse,Trinite,1215,2014,65.0,France,2.75,Trinitario,Trinidad,Below Average,9.0
+36,Alain Ducasse,Vietnam,1215,2014,75.0,France,2.75,Trinitario,Vietnam,Below Average,9.0
+37,Alain Ducasse,Madagascar,1215,2014,75.0,France,3.0,Trinitario,Madagascar,Average,9.0
+38,Alain Ducasse,Chuao,1061,2013,75.0,France,2.5,Trinitario,Venezuela,Below Average,8.0
+39,Alain Ducasse,"Piura, Perou",1173,2013,75.0,France,2.5,Missing,Peru,Below Average,8.0
+40,Alexandre,"Winak Coop, Napo",1944,2017,70.0,Netherlands,3.5,Forastero (Nacional),Ecuador,Average,12.0
+41,Alexandre,"La Dalia, Matagalpa",1944,2017,70.0,Netherlands,3.5,Criollo,Nicaragua,Average,12.0
+42,Alexandre,"La Dalia, Matagalpa",1944,2017,70.0,Netherlands,3.5,Trinitario,Nicaragua,Average,12.0
+43,Alexandre,Tien Giang,1944,2017,70.0,Netherlands,3.5,Trinitario,Vietnam,Average,12.0
+44,Alexandre,"Makwale Village, Kyela",1944,2017,70.0,Netherlands,3.5,Forastero,Tanzania,Average,12.0
+45,Altus aka Cao Artisan,Momotombo,1728,2016,60.0,United States,2.75,Missing,Nicaragua,Below Average,11.0
+46,Altus aka Cao Artisan,Acopagro,1728,2016,60.0,United States,3.0,Missing,Peru,Average,11.0
+47,Altus aka Cao Artisan,CIAAB Coop,1732,2016,60.0,United States,2.5,Missing,Bolivia,Below Average,11.0
+48,Altus aka Cao Artisan,Villa Andina,1732,2016,60.0,United States,2.5,Missing,Peru,Below Average,11.0
+49,Altus aka Cao Artisan,Gruppo Salinas,1732,2016,60.0,United States,2.75,Missing,Ecuador,Below Average,11.0
+50,Altus aka Cao Artisan,Sur del Lago,1125,2013,60.0,United States,2.5,Missing,Venezuela,Below Average,8.0
+51,Altus aka Cao Artisan,Conacado,1125,2013,60.0,United States,3.0,Trinitario,Dominican Republic,Average,8.0
+52,Altus aka Cao Artisan,Bolivia,1129,2013,80.0,United States,3.25,Missing,Bolivia,Average,8.0
+53,Altus aka Cao Artisan,Bolivia,1133,2013,60.0,United States,3.0,Missing,Bolivia,Average,8.0
+54,Altus aka Cao Artisan,Peru,1133,2013,60.0,United States,3.25,Missing,Peru,Average,8.0
+55,Amano,Morobe,725,2011,70.0,United States,4.0,Missing,Papua New Guinea,Above Average,6.0
+56,Amano,Dos Rios,470,2010,70.0,United States,3.75,Missing,Dominican Republic,Above Average,5.0
+57,Amano,Guayas,470,2010,70.0,United States,4.0,Missing,Ecuador,Above Average,5.0
+58,Amano,Chuao,544,2010,70.0,United States,3.0,Trinitario,Venezuela,Average,5.0
+59,Amano,Montanya,363,2009,70.0,United States,3.0,Missing,Venezuela,Average,4.0
+60,Amano,"Bali, Jembrana",304,2008,70.0,United States,2.75,Missing,Indonesia,Below Average,3.0
+61,Amano,Madagascar,129,2007,70.0,United States,3.5,Trinitario,Madagascar,Average,2.0
+62,Amano,Cuyagua,147,2007,70.0,United States,3.0,Missing,Venezuela,Average,2.0
+63,Amano,Ocumare,175,2007,70.0,United States,3.75,Criollo,Venezuela,Above Average,2.0
+64,Amatller (Simon Coll),Ghana,322,2009,70.0,Spain,3.0,Forastero,Ghana,Average,4.0
+65,Amatller (Simon Coll),Ecuador,327,2009,70.0,Spain,2.75,Missing,Ecuador,Below Average,4.0
+66,Amatller (Simon Coll),Ecuador,464,2009,85.0,Spain,2.75,Missing,Ecuador,Below Average,4.0
+67,Amatller (Simon Coll),Ghana,464,2009,85.0,Spain,3.0,Forastero,Ghana,Average,4.0
+68,Amazona,"LamasdelChanka, San Martin, Oro Verde coop",1145,2013,72.0,Peru,3.25,Missing,Peru,Average,8.0
+69,Amazona,"Bellavista Gran Pajeten, San Martin",1145,2013,73.0,Peru,3.5,Trinitario,Peru,Average,8.0
+70,Ambrosia,Belize,1494,2015,64.0,Canada,3.0,Trinitario,Belize,Average,10.0
+71,Ambrosia,Madagascar,1494,2015,66.0,Canada,3.25,Trinitario,Madagascar,Average,10.0
+72,Ambrosia,Dominican Republic,1498,2015,75.0,Canada,3.25,Missing,Dominican Republic,Average,10.0
+73,Ambrosia,Papua New Guinea,1498,2015,63.0,Canada,3.25,Missing,Papua New Guinea,Average,10.0
+74,Ambrosia,Venezuela,1498,2015,70.0,Canada,3.25,Missing,Venezuela,Average,10.0
+75,Ambrosia,Peru,1498,2015,68.0,Canada,3.5,Missing,Peru,Average,10.0
+76,Amedei,"Piura, Blanco de Criollo",979,2012,70.0,Italy,3.75,Missing,Peru,Above Average,7.0
+77,Amedei,Porcelana,111,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,Above Average,2.0
+78,Amedei,Nine,111,2007,75.0,Italy,4.0,Blend,Missing,Above Average,2.0
+79,Amedei,Chuao,111,2007,70.0,Italy,5.0,Trinitario,Venezuela,Above Average,2.0
+80,Amedei,Ecuador,123,2007,70.0,Italy,3.0,Trinitario,Ecuador,Average,2.0
+81,Amedei,Jamaica,123,2007,70.0,Italy,3.0,Trinitario,Jamaica,Average,2.0
+82,Amedei,Grenada,123,2007,70.0,Italy,3.5,Trinitario,Grenada,Average,2.0
+83,Amedei,Venezuela,123,2007,70.0,Italy,3.75,Trinitario (85% Criollo),Venezuela,Above Average,2.0
+84,Amedei,Madagascar,123,2007,70.0,Italy,4.0,Trinitario (85% Criollo),Madagascar,Above Average,2.0
+85,Amedei,Trinidad,129,2007,70.0,Italy,3.5,Trinitario,Trinidad,Average,2.0
+86,Amedei,Toscano Black,170,2007,63.0,Italy,3.5,Blend,Missing,Average,2.0
+87,Amedei,Toscano Black,40,2006,70.0,Italy,5.0,Blend,Missing,Above Average,1.0
+88,Amedei,Toscano Black,75,2006,66.0,Italy,4.0,Blend,Missing,Above Average,1.0
+89,AMMA,Catongo,1065,2013,75.0,Brazil,3.25,Forastero (Catongo),Brazil,Average,8.0
+90,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,85.0,Brazil,2.75,Forastero (Parazinho),Brazil,Below Average,5.0
+91,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,50.0,Brazil,3.75,Forastero (Parazinho),Brazil,Above Average,5.0
+92,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,75.0,Brazil,3.75,Forastero (Parazinho),Brazil,Above Average,5.0
+93,AMMA,"Monte Alegre, 3 diff. plantations",572,2010,60.0,Brazil,4.0,Forastero (Parazinho),Brazil,Above Average,5.0
+94,Anahata,Elvesia,1259,2014,75.0,United States,3.0,Missing,Dominican Republic,Average,9.0
+95,Animas,Alto Beni,1852,2016,75.0,United States,3.5,Missing,Bolivia,Average,11.0
+96,Ara,Madagascar,1375,2014,75.0,France,3.0,Trinitario,Madagascar,Average,9.0
+97,Ara,Chiapas,1379,2014,72.0,France,2.5,Missing,Mexico,Below Average,9.0
+98,Ara,Equateur,1379,2014,75.0,France,2.75,Missing,Ecuador,Below Average,9.0
+99,Ara,Trincheras,1379,2014,75.0,France,3.0,Missing,Venezuela,Average,9.0
+100,Arete,San Juan,1724,2016,70.0,United States,3.5,Trinitario,Trinidad,Average,11.0
+101,Arete,Kokoa Kamili,1724,2016,70.0,United States,3.75,Missing,Tanzania,Above Average,11.0
+102,Arete,Tien Giang,1900,2016,73.0,United States,3.5,Trinitario,Vietnam,Average,11.0
+103,Arete,Hacienda Victoria,1904,2016,70.0,United States,3.25,Missing,Ecuador,Average,11.0
+104,Arete,Costa Esmeraldas,1904,2016,70.0,United States,3.25,Missing,Ecuador,Average,11.0
+105,Arete,Lachua,1904,2016,70.0,United States,3.5,Missing,Guatemala,Average,11.0
+106,Arete,Rugoso,1904,2016,70.0,United States,3.75,Missing,Nicaragua,Above Average,11.0
+107,Arete,"La Masica, FHIA",1908,2016,70.0,United States,3.5,Missing,Honduras,Average,11.0
+108,Arete,"Coto Brus, Terciopelo",1908,2016,70.0,United States,4.0,Missing,Costa Rica,Above Average,11.0
+109,Arete,Phantom,1924,2016,70.0,United States,4.0,Forastero (Nacional),Peru,Above Average,11.0
+110,Arete,Elvesia,1928,2016,70.0,United States,3.75,Missing,Dominican Republic,Above Average,11.0
+111,Arete,Matasawalevu,1928,2016,70.0,United States,3.25,Missing,Fiji,Average,11.0
+112,Arete,Lam Dong,1928,2016,73.0,United States,3.25,Missing,Vietnam,Average,11.0
+113,Arete,Fazenda Camboa,1534,2015,70.0,United States,3.5,Missing,Brazil,Average,10.0
+114,Arete,Nacional,1534,2015,68.0,United States,3.5,Forastero (Nacional),Peru,Average,10.0
+115,Arete,"Puerto Quito, heirloom",1534,2015,70.0,United States,3.75,Forastero (Nacional),Ecuador,Above Average,10.0
+116,Arete,Oko Caribe,1598,2015,70.0,United States,3.5,Missing,Dominican Republic,Average,10.0
+117,Arete,Maya Mountain,1598,2015,70.0,United States,3.75,Trinitario,Belize,Above Average,10.0
+118,Arete,Chuno,1598,2015,70.0,United States,4.0,Criollo,Nicaragua,Above Average,10.0
+119,Arete,Chuno,1598,2015,70.0,United States,4.0,Trinitario,Nicaragua,Above Average,10.0
+120,Arete,Fazenda Camboa,1602,2015,75.0,United States,2.75,Missing,Brazil,Below Average,10.0
+121,Arete,Guatemala,1602,2015,70.0,United States,3.25,Missing,Guatemala,Average,10.0
+122,Arete,Camino Verde,1602,2015,75.0,United States,3.5,Missing,Ecuador,Average,10.0
+123,Artisan du Chocolat,"Trinidad, Heritage, Limited ed.",1193,2013,72.0,United Kingdom,3.25,Trinitario,Trinidad,Average,8.0
+124,Artisan du Chocolat,"Colombia, Casa Luker",947,2012,72.0,United Kingdom,3.75,Missing,Colombia,Above Average,7.0
+125,Artisan du Chocolat,Haiti,729,2011,72.0,United Kingdom,4.0,Missing,Haiti,Above Average,6.0
+126,Artisan du Chocolat,Panama,745,2011,72.0,United Kingdom,2.75,Missing,Panama,Below Average,6.0
+127,Artisan du Chocolat,Venezuela,486,2010,100.0,United Kingdom,1.75,Missing,Venezuela,Below Average,5.0
+128,Artisan du Chocolat,Jamaica,531,2010,72.0,United Kingdom,3.75,Trinitario,Jamaica,Above Average,5.0
+129,Artisan du Chocolat,Costa Rica,600,2010,72.0,United Kingdom,3.25,Missing,Costa Rica,Average,5.0
+130,Artisan du Chocolat,Ba Ria Vung Tau Province,600,2010,72.0,United Kingdom,3.25,Trinitario,Vietnam,Average,5.0
+131,Artisan du Chocolat,Bali,600,2010,72.0,United Kingdom,3.5,Missing,Indonesia,Average,5.0
+132,Artisan du Chocolat,"Ocumare, Venezuela",355,2009,75.0,United Kingdom,2.5,Criollo,Venezuela,Below Average,4.0
+133,Artisan du Chocolat,"Ocumare, Venezuela",355,2009,75.0,United Kingdom,2.5,Trinitario,Venezuela,Below Average,4.0
+134,Artisan du Chocolat,Java,355,2009,72.0,United Kingdom,2.75,Trinitario,Indonesia,Below Average,4.0
+135,Artisan du Chocolat,Brazil Rio Doce,363,2009,72.0,United Kingdom,1.75,Missing,Brazil,Below Average,4.0
+136,Artisan du Chocolat,Madagascar,363,2009,80.0,United Kingdom,3.0,Criollo,Madagascar,Average,4.0
+137,Artisan du Chocolat,Madagascar,363,2009,80.0,United Kingdom,3.0,Trinitario,Madagascar,Average,4.0
+138,Artisan du Chocolat,Peru,363,2009,75.0,United Kingdom,3.0,Criollo,Peru,Average,4.0
+139,Artisan du Chocolat,Dominican Republic,363,2009,72.0,United Kingdom,3.25,Trinitario,Dominican Republic,Average,4.0
+140,Artisan du Chocolat,Congo,300,2008,72.0,United Kingdom,3.75,Forastero,Congo,Above Average,3.0
+141,Artisan du Chocolat (Casa Luker),"Orinoqua Region, Arauca",1181,2013,72.0,United Kingdom,2.75,Trinitario,Colombia,Below Average,8.0
+142,Askinosie,Mababa,1780,2016,68.0,United States,3.75,Trinitario,Tanzania,Above Average,11.0
+143,Askinosie,"Tenende, Uwate",647,2011,72.0,United States,3.75,Trinitario,Tanzania,Above Average,6.0
+144,Askinosie,Cortes,661,2011,70.0,United States,3.75,Trinitario,Honduras,Above Average,6.0
+145,Askinosie,Davao,331,2009,77.0,United States,3.75,Trinitario,Philippines,Above Average,4.0
+146,Askinosie,Xoconusco,141,2007,75.0,United States,2.5,Trinitario,Mexico,Below Average,2.0
+147,Askinosie,San Jose del Tambo,175,2007,70.0,United States,3.0,Forastero (Arriba),Ecuador,Average,2.0
+148,Bahen & Co.,Houseblend,1474,2015,80.0,Australia,3.25,Missing,Missing,Average,10.0
+149,Bahen & Co.,Papua New Guinea,1474,2015,70.0,Australia,3.5,Missing,Papua New Guinea,Average,10.0
+150,Bahen & Co.,Sambirano,995,2012,70.0,Australia,3.0,Trinitario,Madagascar,Average,7.0
+151,Bahen & Co.,Bahia,999,2012,70.0,Australia,2.5,Missing,Brazil,Below Average,7.0
+152,Bahen & Co.,Houseblend,999,2012,70.0,Australia,2.5,Blend,Missing,Below Average,7.0
+153,Bakau,"Bambamarca, 2015",1454,2015,70.0,Peru,2.75,Missing,Peru,Below Average,10.0
+154,Bakau,"Huallabamba, 2015",1454,2015,70.0,Peru,3.5,Missing,Peru,Average,10.0
+155,Bar Au Chocolat,Bahia,1554,2015,70.0,United States,3.5,Missing,Brazil,Average,10.0
+156,Bar Au Chocolat,Maranon Canyon,1295,2014,70.0,United States,4.0,Forastero (Nacional),Peru,Above Average,9.0
+157,Bar Au Chocolat,Duarte Province,983,2012,70.0,United States,3.25,Missing,Dominican Republic,Average,7.0
+158,Bar Au Chocolat,Chiapas,983,2012,70.0,United States,3.5,Missing,Mexico,Average,7.0
+159,Bar Au Chocolat,Sambirano,983,2012,70.0,United States,3.75,Trinitario,Madagascar,Above Average,7.0
+160,Baravelli's,single estate,955,2012,80.0,Wales,2.75,Missing,Costa Rica,Below Average,7.0
+161,Batch,"Dominican Republic, Batch 3",1840,2016,65.0,United States,3.5,Missing,Dominican Republic,Average,11.0
+162,Batch,Brazil,1868,2016,70.0,United States,3.75,Missing,Brazil,Above Average,11.0
+163,Batch,Ecuador,1880,2016,65.0,United States,3.25,Missing,Ecuador,Average,11.0
+164,Beau Cacao,"Asajaya E, NW Borneo, b. #132/4500",1948,2017,73.0,United Kingdom,3.0,Missing,Malaysia,Average,12.0
+165,Beau Cacao,"Serian E., NW Borneo, b. #134/3800",1948,2017,72.0,United Kingdom,3.25,Missing,Malaysia,Average,12.0
+166,Beehive,"Brazil, Batch 20316",1784,2016,80.0,United States,2.75,Missing,Brazil,Below Average,11.0
+167,Beehive,"Dominican Republic, Batch 31616",1784,2016,70.0,United States,2.75,Missing,Dominican Republic,Below Average,11.0
+168,Beehive,"Ecuador, Batch 31516",1784,2016,70.0,United States,2.75,Missing,Ecuador,Below Average,11.0
+169,Beehive,Ecuador,1788,2016,90.0,United States,2.75,Missing,Ecuador,Below Average,11.0
+170,Belcolade,Costa Rica,586,2010,64.0,Belgium,2.75,Missing,Costa Rica,Below Average,5.0
+171,Belcolade,Papua New Guinea,586,2010,64.0,Belgium,2.75,Missing,Papua New Guinea,Below Average,5.0
+172,Belcolade,Peru,586,2010,64.0,Belgium,2.75,Missing,Peru,Below Average,5.0
+173,Belcolade,Ecuador,586,2010,71.0,Belgium,3.5,Missing,Ecuador,Average,5.0
+174,Bellflower,"Kakao Kamili, Kilombero Valley",1800,2016,70.0,United States,3.5,Criollo,Tanzania,Average,11.0
+175,Bellflower,"Kakao Kamili, Kilombero Valley",1800,2016,70.0,United States,3.5,Trinitario,Tanzania,Average,11.0
+176,Bellflower,"Alto Beni, Palos Blanco",1804,2016,70.0,United States,3.25,Missing,Bolivia,Average,11.0
+177,Bellflower,"Oko Caribe, Duarte P.",1864,2016,70.0,United States,3.5,Missing,Dominican Republic,Average,11.0
+178,Belyzium,"Belize south, low fermentation",1768,2016,83.0,Germany,2.75,Trinitario,Belize,Below Average,11.0
+179,Belyzium,Belize south,1768,2016,78.0,Germany,3.0,Trinitario,Belize,Average,11.0
+180,Belyzium,Belize south,1768,2016,83.0,Germany,3.5,Trinitario,Belize,Average,11.0
+181,Benoit Nihant,Baracoa,1141,2013,74.0,Belgium,3.5,Trinitario,Cuba,Average,8.0
+182,Benoit Nihant,Chuao,1141,2013,74.0,Belgium,3.5,Criollo,Venezuela,Average,8.0
+183,Benoit Nihant,Cuyagua Village,1141,2013,74.0,Belgium,3.5,Criollo,Venezuela,Average,8.0
+184,Benoit Nihant,Rio Peripa H.,1141,2013,73.0,Belgium,4.0,Trinitario,Ecuador,Above Average,8.0
+185,Benoit Nihant,"Bali, Sukrama Bros. Farm, Melaya, 62hr C",757,2011,72.0,Belgium,4.0,Trinitario,Indonesia,Above Average,6.0
+186,Benoit Nihant,"Somia Plantation, Sambirano, 70hr C",773,2011,72.0,Belgium,3.75,Trinitario,Madagascar,Above Average,6.0
+187,Bernachon,Nature,797,2012,55.0,France,2.75,Missing,Missing,Below Average,7.0
+188,Beschle (Felchlin),Madagascar,636,2011,64.0,Switzerland,3.0,Trinitario,Madagascar,Average,6.0
+189,Beschle (Felchlin),Maracaibo,636,2011,88.0,Switzerland,3.0,Criollo,Venezuela,Average,6.0
+190,Beschle (Felchlin),"Indigena Amazonia, Grand Cru, Quizas",636,2011,72.0,Switzerland,3.5,Missing,Venezuela,Average,6.0
+191,Beschle (Felchlin),Ecuador,636,2011,72.0,Switzerland,4.0,Missing,Ecuador,Above Average,6.0
+192,Beschle (Felchlin),"Carenero S., Barlovento, Grand Cru",508,2010,70.0,Switzerland,3.25,Trinitario,Venezuela,Average,5.0
+193,Beschle (Felchlin),"Porcelana, Premier Cru, Quizas No. 1",508,2010,74.0,Switzerland,3.25,Criollo (Porcelana),Venezuela,Average,5.0
+194,Beschle (Felchlin),"Java, Grand Cru",508,2010,64.0,Switzerland,3.5,Missing,Indonesia,Average,5.0
+195,Beschle (Felchlin),"Ocumare, Premier Cru, Quizas No. 2",508,2010,72.0,Switzerland,3.5,Missing,Venezuela,Average,5.0
+196,Bisou,"Nicaragua, American style",1482,2015,76.0,United States,2.5,Missing,Nicaragua,Below Average,10.0
+197,Bisou,"San Andres, American style",1486,2015,76.0,United States,2.5,Missing,Costa Rica,Below Average,10.0
+198,Bisou,"San Andres, silk",1486,2015,78.0,United States,2.5,Missing,Costa Rica,Below Average,10.0
+199,Bisou,Belize,1486,2015,86.0,United States,3.25,Trinitario,Belize,Average,10.0
+200,Bittersweet Origins,Ghana,963,2012,72.0,United States,3.5,Forastero,Ghana,Average,7.0
+201,Bittersweet Origins,"Bali, Singaraja",478,2010,75.0,United States,3.25,Missing,Indonesia,Average,5.0
+202,Bittersweet Origins,2009 Hapa Nibby,502,2010,70.0,United States,3.75,Blend,Dominican Republic,Above Average,5.0
+203,Bittersweet Origins,2009 Hapa Nibby,502,2010,70.0,United States,3.75,Blend,Bali,Above Average,5.0
+204,Bittersweet Origins,"Bali, Singaraja",558,2010,65.0,United States,2.75,Missing,Indonesia,Below Average,5.0
+205,Bittersweet Origins,"Sambirano, 2009",565,2010,70.0,United States,3.0,Trinitario,Madagascar,Average,5.0
+206,Bittersweet Origins,"Ocumare, prototype",565,2010,78.0,United States,3.0,Criollo,Venezuela,Average,5.0
+207,Bittersweet Origins,Puerto Plata,414,2009,75.0,United States,3.0,Missing,Dominican Republic,Average,4.0
+208,Bittersweet Origins,Puerto Plata,414,2009,65.0,United States,3.5,Missing,Dominican Republic,Average,4.0
+209,Bittersweet Origins,Sambirano,423,2009,75.0,United States,3.25,Trinitario,Madagascar,Average,4.0
+210,Bittersweet Origins,Sambirano,431,2009,65.0,United States,3.5,Trinitario,Madagascar,Average,4.0
+211,Bittersweet Origins,Sambirano,233,2008,71.0,United States,3.0,Trinitario,Madagascar,Average,3.0
+212,Bittersweet Origins,Bocas del Toro,233,2008,75.0,United States,3.5,Missing,Panama,Average,3.0
+213,Bittersweet Origins,Puerto Plata,233,2008,68.0,United States,3.75,Missing,Dominican Republic,Above Average,3.0
+214,Bittersweet Origins,Ankasa,256,2008,70.0,United States,3.0,Forastero,Ghana,Average,3.0
+215,Black Mountain,La Red,256,2008,70.0,United States,2.75,Missing,Dominican Republic,Below Average,3.0
+216,Black Mountain,Carenero Superior,256,2008,70.0,United States,2.75,Trinitario,Venezuela,Below Average,3.0
+217,Black Mountain,Matiguas,256,2008,70.0,United States,3.0,Missing,Nicaragua,Average,3.0
+218,Black River (A. Morin),Blue Mountain Region,1331,2014,70.0,United Kingdom,2.75,Trinitario,Jamaica,Below Average,9.0
+219,Blanxart,"Congo, Grand Cru",1046,2013,82.0,Spain,3.5,Forastero,Congo,Average,8.0
+220,Blanxart,Organic Dark,322,2009,72.0,Spain,2.75,Missing,Missing,Below Average,4.0
+221,Blue Bandana,"Akesson's E., Sambirano V.",1740,2016,82.0,United States,3.5,Trinitario,Madagascar,Average,11.0
+222,Blue Bandana,Lachua,1752,2016,75.0,United States,2.75,Missing,Guatemala,Below Average,11.0
+223,Blue Bandana,Kokoa Kamili,1752,2016,75.0,United States,3.5,Missing,Tanzania,Average,11.0
+224,Blue Bandana,Zorzal Reserva,1756,2016,75.0,United States,3.0,Missing,Dominican Republic,Average,11.0
+225,Blue Bandana,Guatemala,911,2012,70.0,United States,3.5,Missing,Guatemala,Average,7.0
+226,Blue Bandana,Madagascar,911,2012,70.0,United States,3.75,Trinitario,Madagascar,Above Average,7.0
+227,Bonnat,Selva Maya,1912,2016,75.0,France,3.5,Missing,Mexico,Average,11.0
+228,Bonnat,Kaori,1339,2014,75.0,France,4.0,Missing,Brazil,Above Average,9.0
+229,Bonnat,"Los Colorados, Santo Domingo, Equateur",1418,2014,75.0,France,3.25,Missing,Dominican Republic,Average,9.0
+230,Bonnat,Surfin,1418,2014,65.0,France,3.75,Missing,Venezula,Above Average,9.0
+231,Bonnat,Surfin,1418,2014,65.0,France,3.75,Missing,Africa,Above Average,9.0
+232,Bonnat,Surfin,1418,2014,65.0,France,3.75,Missing,Brasil,Above Average,9.0
+233,Bonnat,Surfin,1418,2014,65.0,France,3.75,Missing,Peru,Above Average,9.0
+234,Bonnat,Surfin,1418,2014,65.0,France,3.75,Missing,Mexico,Above Average,9.0
+235,Bonnat,Maragnam,1038,2013,75.0,France,3.5,Missing,Brazil,Average,8.0
+236,Bonnat,Gabon,1042,2013,75.0,France,3.25,Missing,Gabon,Average,8.0
+237,Bonnat,Cuba,629,2011,75.0,France,3.5,Trinitario,Cuba,Average,6.0
+238,Bonnat,"Cusco, Cacao Cusco",629,2011,75.0,France,3.5,Missing,Peru,Average,6.0
+239,Bonnat,Piura Blanco,629,2011,75.0,France,3.5,Forastero (Nacional),Peru,Average,6.0
+240,Bonnat,Libanio,629,2011,75.0,France,3.75,Missing,Brazil,Above Average,6.0
+241,Bonnat,Haiti,629,2011,75.0,France,4.0,Missing,Haiti,Above Average,6.0
+242,Bonnat,"Madagascar, 100% criollo",629,2011,75.0,France,4.0,Criollo,Madagascar,Above Average,6.0
+243,Bonnat,Juliana,672,2011,75.0,France,3.5,Missing,Brazil,Average,6.0
+244,Bonnat,Jamaique,761,2011,75.0,France,3.25,Trinitario,Jamaica,Average,6.0
+245,Bonnat,Ivory Coast,331,2009,75.0,France,3.0,Missing,Ivory Coast,Average,4.0
+246,Bonnat,"Porcelana, Apotequil",336,2009,75.0,France,2.75,Criollo,Peru,Below Average,4.0
+247,Bonnat,"Porcelana, Tabasco, Marfil de Blanco",336,2009,75.0,France,3.0,Criollo,Mexico,Average,4.0
+248,Bonnat,"Xoconusco, cacao Real",395,2009,75.0,France,3.0,Criollo,Mexico,Average,4.0
+249,Bonnat,"Porcelana, Venezuela",199,2008,75.0,France,4.0,Criollo (Porcelana),Venezuela,Above Average,3.0
+250,Bonnat,Equateur,123,2007,75.0,France,2.5,Forastero (Arriba),Ecuador,Below Average,2.0
+251,Bonnat,Trinite,24,2006,75.0,France,3.75,Trinitario,Carribean,Above Average,1.0
+252,Bonnat,"Ocumare, Puerto Cabello",32,2006,75.0,France,4.0,Missing,Venezuela,Above Average,1.0
+253,Bonnat,"Maracaibo, El Rosario",48,2006,75.0,France,4.0,Criollo,Venezuela,Above Average,1.0
+254,Bonnat,Madagascar,75,2006,75.0,France,4.0,Trinitario,Madagascar,Above Average,1.0
+255,Bonnat,One Hundred,81,2006,100.0,France,1.5,Missing,Missing,Below Average,1.0
+256,Bonnat,Ceylan,81,2006,75.0,France,3.0,Missing,Sri Lanka,Average,1.0
+257,Bonnat,Chuao,81,2006,75.0,France,4.0,Trinitario,Venezuela,Above Average,1.0
+258,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",316,2009,77.0,Ecuador,3.25,Forastero (Arriba),Ecuador,Average,4.0
+259,Bouga Cacao (Tulicorp),"El Oro, Hacienda de Oro",341,2009,100.0,Ecuador,1.5,Forastero (Arriba),Ecuador,Below Average,4.0
+260,Bowler Man,Maya Mountain,1267,2014,70.0,United States,2.75,Trinitario,Belize,Below Average,9.0
+261,Bowler Man,Conacado,1271,2014,70.0,United States,2.75,Missing,Dominican Republic,Below Average,9.0
+262,Brasstown aka It's Chocolate,"Guasare, Zulia Prov.",1868,2016,70.0,United States,3.5,Criollo,Venezuela,Average,11.0
+263,Brasstown aka It's Chocolate,"O'payo, Waslala",1868,2016,70.0,United States,3.75,Missing,Nicaragua,Above Average,11.0
+264,Brasstown aka It's Chocolate,Conacado,1462,2015,68.0,United States,3.75,Missing,Dominican Republic,Above Average,10.0
+265,Brasstown aka It's Chocolate,Maya Mountain,1255,2014,70.0,United States,3.75,Trinitario,Belize,Above Average,9.0
+266,Brasstown aka It's Chocolate,Chuao,1355,2014,70.0,United States,4.0,Trinitario,Venezuela,Above Average,9.0
+267,Brasstown aka It's Chocolate,Cooproagro,1125,2013,72.0,United States,3.0,Trinitario,Dominican Republic,Average,8.0
+268,Brasstown aka It's Chocolate,"Camino Verde, Guayas",1125,2013,70.0,United States,3.25,Missing,Ecuador,Average,8.0
+269,Brasstown aka It's Chocolate,Ghana,1129,2013,75.0,United States,3.5,Forastero,Ghana,Average,8.0
+270,Brasstown aka It's Chocolate,"Chuao, Mantuano blend",1129,2013,85.0,United States,3.5,Trinitario,Venezuela,Average,8.0
+271,Brazen,Elvesia P.,1514,2015,60.0,United States,3.0,Missing,Dominican Republic,Average,10.0
+272,Brazen,Elvesia P.,1514,2015,80.0,United States,3.25,Missing,Dominican Republic,Average,10.0
+273,Brazen,"Alta Verapaz, 2014",1514,2015,70.0,United States,3.5,Missing,Guatemala,Average,10.0
+274,Brazen,Ambolikapiky P.,1518,2015,80.0,United States,2.75,Missing,Madagascar,Below Average,10.0
+275,Brazen,Maya Mountain,1518,2015,80.0,United States,3.25,Trinitario,Belize,Average,10.0
+276,Brazen,Ambolikapkly P.,1518,2015,60.0,United States,3.25,Missing,Madagascar,Average,10.0
+277,Breeze Mill,Jamaica,1149,2013,70.0,United States,3.0,Trinitario,Jamaica,Average,8.0
+278,Bright,Somia Plantation,1231,2014,72.0,Australia,3.0,Trinitario,Madagascar,Average,9.0
+279,Bright,Marabel Farms,1231,2014,70.0,Australia,3.5,Missing,Dominican Republic,Average,9.0
+280,Bright,"Camino Verde, Balao, Guayas",1231,2014,72.0,Australia,3.5,Missing,Ecuador,Average,9.0
+281,Bright,Gran Couva,1235,2014,68.0,Australia,2.75,Trinitario,Trinidad,Below Average,9.0
+282,Britarev,Ecuador,1638,2015,70.0,Russia,3.25,Missing,Ecuador,Average,10.0
+283,Bronx Grrl Chocolate,Dominican Republic,1181,2013,68.0,United States,2.75,Missing,Dominican Republic,Below Average,8.0
+284,Burnt Fork Bend,Trinidad,1299,2014,72.0,United States,3.25,Trinitario,Trinidad,Average,9.0
+285,Burnt Fork Bend,Mindo,1299,2014,72.0,United States,3.5,Missing,Ecuador,Average,9.0
+286,Burnt Fork Bend,Belize,1303,2014,72.0,United States,3.25,Trinitario,Belize,Average,9.0
+287,Burnt Fork Bend,Blend,1303,2014,72.0,United States,3.25,Blend,Missing,Average,9.0
+288,Burnt Fork Bend,"Ecuador, Bob Bar",1323,2014,60.0,United States,2.5,Missing,Ecuador,Below Average,9.0
+289,Cacao Arabuco,Puerto Rico,1606,2015,70.0,Puerto Rico,2.5,Missing,Puerto Rico,Below Average,10.0
+290,Cacao Atlanta,Tumbes,1215,2014,75.0,United States,2.5,Criollo,Peru,Below Average,9.0
+291,Cacao Atlanta,"Dominican Republic, ""Love Bar""",502,2010,75.0,United States,2.5,Missing,Dominican Republic,Below Average,5.0
+292,Cacao Atlanta,Dominican Republic w/ nibs,502,2010,75.0,United States,2.75,Missing,Dominican Republic,Below Average,5.0
+293,Cacao Atlanta,Patanemo,600,2010,75.0,United States,2.25,Missing,Venezuela,Below Average,5.0
+294,Cacao Barry,Grand 'Anse,1716,2016,65.0,France,3.5,Trinitario,Haiti,Average,11.0
+295,Cacao Barry,Grand 'Anse,1716,2016,65.0,France,3.5,Criollo,Haiti,Average,11.0
+296,Cacao Barry,Santo Domingo,586,2010,70.0,France,3.0,Missing,Dominican Republic,Average,5.0
+297,Cacao Barry,Tanzania,300,2008,75.0,France,2.0,Missing,Tanzania,Below Average,3.0
+298,Cacao Barry,Venezuela,141,2007,72.0,France,2.0,Missing,Venezuela,Below Average,2.0
+299,Cacao Barry,Mexico,147,2007,66.0,France,3.0,Missing,Mexico,Average,2.0
+300,Cacao de Origen,Chuao,1688,2015,77.0,Venezuela,3.5,Trinitario,Venezuela,Average,10.0
+301,Cacao de Origen,Rio Caribe,1692,2015,75.0,Venezuela,3.25,Trinitario,Venezuela,Average,10.0
+302,Cacao de Origen,Agua Fria; Sucre region,1391,2014,75.0,Venezuela,2.5,Missing,Venezuela,Below Average,9.0
+303,Cacao de Origen,Macuare; Miranda; Chloe formula,1391,2014,74.0,Venezuela,3.25,Missing,Venezuela,Average,9.0
+304,Cacao de Origen,"Chuao, Aragua region",1391,2014,75.0,Venezuela,3.5,Trinitario,Venezuela,Average,9.0
+305,Cacao de Origen,"Chuao, Aragua region",1395,2014,70.0,Venezuela,3.75,Trinitario,Venezuela,Above Average,9.0
+306,Cacao de Origin,Hacienda la Trinidad,1668,2015,74.0,Venezuela,3.25,Missing,Venezuela,Average,10.0
+307,Cacao Hunters,Macondo,1816,2016,71.0,Colombia,3.75,Missing,Colombia,Above Average,11.0
+308,Cacao Hunters,Perla Negra,1816,2016,74.0,Colombia,3.75,Missing,Colombia,Above Average,11.0
+309,Cacao Hunters,Arhuacos,1662,2015,72.0,Colombia,3.75,Missing,Colombia,Above Average,10.0
+310,Cacao Hunters,Sierra Nevada,1430,2014,64.0,Colombia,3.5,Missing,Colombia,Average,9.0
+311,Cacao Hunters,Tumaco,1430,2014,70.0,Colombia,3.5,Missing,Colombia,Average,9.0
+312,Cacao Hunters,"Boyaca, Aprocampa Coop, Pauna",1434,2014,69.0,Colombia,2.75,Missing,Colombia,Below Average,9.0
+313,Cacao Hunters,Arauca,1434,2014,70.0,Colombia,3.25,Missing,Colombia,Average,9.0
+314,Cacao Market,"Jutiapa, lot 050916D",1860,2016,70.0,United States,3.5,Trinitario,Honduras,Average,11.0
+315,Cacao Prieto,"Criollo, Dominican Republic",991,2012,72.0,United States,3.75,Criollo,Dominican Republic,Above Average,7.0
+316,Cacao Prieto,"Dominican Republicm, rustic",641,2011,72.0,United States,3.0,Missing,Dominican Republic,Average,6.0
+317,Cacao Prieto,Dominican Republic,641,2011,66.0,United States,3.75,Missing,Dominican Republic,Above Average,6.0
+318,Cacao Prieto,"Dominican Republic, rustic",647,2011,65.0,United States,3.25,Missing,Dominican Republic,Average,6.0
+319,Cacao Sampaka,"Mahali, Kasai",1908,2016,70.0,Spain,3.5,Criollo,Congo,Average,11.0
+320,Cacao Sampaka,Madagascar,508,2010,71.0,Spain,3.5,Trinitario,Madagascar,Average,5.0
+321,Cacao Sampaka,Ecuador,523,2010,71.0,Spain,3.75,Missing,Ecuador,Above Average,5.0
+322,Cacao Sampaka,Papua,523,2010,71.0,Spain,4.0,Missing,Papua New Guinea,Above Average,5.0
+323,Cacao Sampaka,Grenada,537,2010,71.0,Spain,3.25,Trinitario,Grenada,Average,5.0
+324,Cacao Sampaka,Venezuela,537,2010,71.0,Spain,3.5,Missing,Venezuela,Average,5.0
+325,Cacao Sampaka,Venezuela,537,2010,77.0,Spain,3.5,Missing,Venezuela,Average,5.0
+326,Cacao Sampaka,"Porcelana, Tabasco, La Joya",336,2009,70.0,Spain,4.0,Criollo,Mexico,Above Average,4.0
+327,Cacao Sampaka,"Xoconusco, Chiapas",346,2009,70.0,Spain,4.0,Criollo,Mexico,Above Average,4.0
+328,Cacao Store,Madagascar,1684,2015,70.0,Japan,3.0,Trinitario,Madagascar,Average,10.0
+329,Cacao Store,Peru,1684,2015,70.0,Japan,3.25,Missing,Peru,Average,10.0
+330,Cacao Store,Vietnam,1684,2015,70.0,Japan,3.5,Trinitario,Vietnam,Average,10.0
+331,Cacaosuyo (Theobroma Inversiones),Piura,1173,2013,70.0,Peru,3.25,Missing,Peru,Average,8.0
+332,Cacaoyere (Ecuatoriana),Amazonia,237,2008,63.0,Ecuador,3.5,Forastero (Arriba),Ecuador,Average,3.0
+333,Cacaoyere (Ecuatoriana),Esmeraldas,237,2008,71.0,Ecuador,3.5,Forastero (Arriba),Ecuador,Average,3.0
+334,Cacaoyere (Ecuatoriana),Bolivar,245,2008,82.0,Ecuador,2.5,Forastero (Arriba),Ecuador,Below Average,3.0
+335,Cacaoyere (Ecuatoriana),Pichincha,259,2008,91.0,Ecuador,1.5,Forastero (Arriba),Ecuador,Below Average,3.0
+336,Callebaut,Grenade,296,2008,60.0,Belgium,2.75,Trinitario,Grenada,Below Average,3.0
+337,Callebaut,Baking,141,2007,70.0,Belgium,1.0,Missing,Ecuador,Below Average,2.0
+338,C-Amaro,Cuba,1442,2014,75.0,Italy,2.5,Missing,Cuba,Below Average,9.0
+339,C-Amaro,Dominican Republic,1442,2014,72.0,Italy,3.0,Missing,Dominican Republic,Average,9.0
+340,C-Amaro,"Lago di Como, Blu",1442,2014,70.0,Italy,3.5,Blend,Missing,Average,9.0
+341,C-Amaro,Ecuador,1185,2013,100.0,Italy,3.5,Missing,Ecuador,Average,8.0
+342,C-Amaro,Venezuela,809,2012,80.0,Italy,3.0,Missing,Venezuela,Average,7.0
+343,C-Amaro,Sao Tome,749,2011,78.0,Italy,2.25,Forastero,Sao Tome,Below Average,6.0
+344,C-Amaro,Trinidad,765,2011,70.0,Italy,2.5,Trinitario,Trinidad,Below Average,6.0
+345,Cao,Porcelana,1804,2016,75.0,United States,2.5,Criollo,Venezuela,Below Average,11.0
+346,Cao,Tanzania,1804,2016,73.0,United States,2.75,Missing,Tanzania,Below Average,11.0
+347,Cao,"Porcelana, Batch 5163",1804,2016,70.0,United States,3.0,Criollo,Venezuela,Average,11.0
+348,Cao,Bolivia,1808,2016,75.0,United States,3.0,Missing,Bolivia,Average,11.0
+349,Cao,Brazil,1808,2016,70.0,United States,3.25,Trinitario,Brazil,Average,11.0
+350,Caoni (Tulicorp),Esmeraldas,237,2008,77.0,Ecuador,2.0,Forastero (Arriba),Ecuador,Below Average,3.0
+351,Caoni (Tulicorp),Manabi,237,2008,77.0,Ecuador,2.5,Forastero (Arriba),Ecuador,Below Average,3.0
+352,Caoni (Tulicorp),Los Rios,245,2008,77.0,Ecuador,2.75,Forastero (Arriba),Ecuador,Below Average,3.0
+353,Caoni (Tulicorp),Manabi,266,2008,55.0,Ecuador,3.0,Forastero (Arriba),Ecuador,Average,3.0
+354,Caoni (Tulicorp),Los Rios,269,2008,55.0,Ecuador,3.25,Forastero (Arriba),Ecuador,Average,3.0
+355,Caoni (Tulicorp),Esmeraldas,269,2008,55.0,Ecuador,3.5,Forastero (Arriba),Ecuador,Average,3.0
+356,Captain Pembleton,"Saidor Estate, Madang P.",1263,2014,70.0,New Zealand,3.5,Trinitario,Papua New Guinea,Average,9.0
+357,Captain Pembleton,Kulili Estate,1263,2014,70.0,New Zealand,3.75,Missing,Papua New Guinea,Above Average,9.0
+358,Caribeans,"Antigua, Special Reserve",1582,2015,72.0,Costa Rica,3.5,Missing,Guatemala,Average,10.0
+359,Caribeans,"Talamanca, Raul-Kekoldo community",1586,2015,72.0,Costa Rica,3.25,Missing,Costa Rica,Average,10.0
+360,Caribeans,Anselmo Paraiso Estate,1586,2015,72.0,Costa Rica,3.5,Missing,Costa Rica,Average,10.0
+361,Caribeans,Costa Rica,841,2012,72.0,Costa Rica,3.0,Forastero,Costa Rica,Average,7.0
+362,Caribeans,Costa Rica,845,2012,80.0,Costa Rica,2.75,Forastero,Costa Rica,Below Average,7.0
+363,Carlotta Chocolat,Arauca,1884,2016,65.0,Colombia,3.0,Trinitario,Colombia,Average,11.0
+364,Carlotta Chocolat,Tumaco,1888,2016,65.0,Colombia,3.25,Trinitario,Colombia,Average,11.0
+365,Carlotta Chocolat,Cordoba,1888,2016,65.0,Colombia,3.25,Trinitario,Colombia,Average,11.0
+366,Carlotta Chocolat,Huila,1888,2016,65.0,Colombia,3.5,Trinitario,Colombia,Average,11.0
+367,Carlotta Chocolat,Cesar,1888,2016,65.0,Colombia,3.5,CCN51,Colombia,Average,11.0
+368,Castronovo,"Maya Mtn, Batch 454, Heirloom",1724,2016,72.0,United States,4.0,Trinitario,Belize,Above Average,11.0
+369,Castronovo,"the lost city, gracias a dias, batch 362",1570,2015,72.0,United States,3.5,Trinitario,Honduras,Average,10.0
+370,Castronovo,"Duarte, Batch 360",1570,2015,70.0,United States,3.75,Criollo,Dominican Republic,Above Average,10.0
+371,Castronovo,"Duarte, Batch 360",1570,2015,70.0,United States,3.75,Trinitario,Dominican Republic,Above Average,10.0
+372,Castronovo,"Piaroa, Amazonas, Batch 350",1574,2015,72.0,United States,3.5,Missing,Venezuela,Average,10.0
+373,Castronovo,Sierra Nevada,1347,2014,72.0,United States,3.5,Criollo,Colombia,Average,9.0
+374,Castronovo,Sierra Nevada,1347,2014,72.0,United States,3.5,Trinitario,Colombia,Average,9.0
+375,Castronovo,Arauca,1371,2014,76.0,United States,3.5,Criollo,Colombia,Average,9.0
+376,Castronovo,Arauca,1371,2014,76.0,United States,3.5,Trinitario,Colombia,Average,9.0
+377,Castronovo,Elvesia P.,1407,2014,70.0,United States,2.75,Trinitario,Dominican Republic,Below Average,9.0
+378,Castronovo,Bolivia,1101,2013,70.0,United States,3.0,Trinitario,Bolivia,Average,8.0
+379,Castronovo,Conacado,1101,2013,73.0,United States,3.5,Trinitario,Dominican Republic,Average,8.0
+380,Castronovo,San Martin,1105,2013,70.0,United States,2.5,Criollo,Peru,Below Average,8.0
+381,Castronovo,"Guaniamo, Amazonas",1105,2013,70.0,United States,3.25,Missing,Venezuela,Average,8.0
+382,Castronovo,Nicaragua,1109,2013,72.0,United States,3.25,Trinitario,Nicaragua,Average,8.0
+383,Castronovo,Tumbes,1153,2013,70.0,United States,2.75,Criollo,Peru,Below Average,8.0
+384,Castronovo,Guaniamo,1153,2013,72.0,United States,3.0,Missing,Venezuela,Average,8.0
+385,Cello,Ecuador,1247,2014,70.0,United States,2.5,Missing,Ecuador,Below Average,9.0
+386,Cello,Peru,1247,2014,70.0,United States,2.75,Missing,Peru,Below Average,9.0
+387,Cello,Venezuela,1251,2014,70.0,United States,2.75,Missing,Venezuela,Below Average,9.0
+388,Cello,Bolivia,1251,2014,70.0,United States,3.0,Missing,Bolivia,Average,9.0
+389,Cemoi,Equateur,404,2009,72.0,France,2.75,Missing,Ecuador,Below Average,4.0
+390,Chaleur B,Uganda,1426,2014,70.0,Canada,2.75,Forastero,Uganda,Below Average,9.0
+391,Charm School,Maya Mtn,1900,2016,70.0,United States,3.25,Missing,Belize,Average,11.0
+392,Chchukululu (Tulicorp),Arriba,486,2010,55.0,Ecuador,2.75,Forastero (Arriba),Ecuador,Below Average,5.0
+393,Chchukululu (Tulicorp),Los Rios,252,2008,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,Average,3.0
+394,Chequessett,la Amistad,1235,2014,70.0,United States,3.5,Missing,Costa Rica,Average,9.0
+395,Chloe Chocolat,Blend No. 1,672,2011,70.0,France,3.5,Missing,Missing,Average,6.0
+396,Chocablog,Ecuador,1454,2015,70.0,United Kingdom,3.25,Missing,Ecuador,Average,10.0
+397,Choco Del Sol,Maya Mountain w/ nibs,1407,2014,75.0,Germany,3.0,Trinitario,Belize,Average,9.0
+398,Choco Del Sol,Maya Mountain,1407,2014,82.0,Germany,3.25,Trinitario,Belize,Average,9.0
+399,Choco Dong,"Mekong Delta, early 2014 Harvest",1696,2015,70.0,South Korea,2.75,Trinitario,Vietnam,Below Average,10.0
+400,Choco Dong,"Tawau, Oct. 2015 Harvest",1696,2015,70.0,South Korea,3.5,Trinitario,Malaysia,Average,10.0
+401,Chocolarder,Peru,1482,2015,65.0,United Kingdom,2.5,Criollo,Peru,Below Average,10.0
+402,Chocolarder,Peru + nibs,1482,2015,65.0,United Kingdom,2.75,Criollo,Peru,Below Average,10.0
+403,Chocolarder,Dominican Republic,1514,2015,80.0,United Kingdom,2.5,Missing,Dominican Republic,Below Average,10.0
+404,Chocola'te,Madagascar,647,2011,70.0,United States,3.75,Trinitario,Madagascar,Above Average,6.0
+405,Chocola'te,Venezuela,647,2011,68.0,United States,3.75,Missing,Venezuela,Above Average,6.0
+406,Chocolate Alchemist-Philly,"Tumbes, ""Zarumilla""",1772,2016,90.0,United States,2.5,Missing,Peru,Below Average,11.0
+407,Chocolate Alchemist-Philly,"Philly Blend, 5 plantations",1772,2016,80.0,United States,2.5,Missing,Missing,Below Average,11.0
+408,Chocolate Con Amor,Wild Bolivian,1760,2016,70.0,United States,2.5,Missing,Bolivia,Below Average,11.0
+409,Chocolate Con Amor,Uganda,1760,2016,70.0,United States,2.75,Missing,Uganda,Below Average,11.0
+410,Chocolate Con Amor,Dominican Republic,1764,2016,60.0,United States,3.0,Missing,Dominican Republic,Average,11.0
+411,Chocolate Con Amor,Dominican Republic,1764,2016,75.0,United States,3.0,Missing,Dominican Republic,Average,11.0
+412,Chocolate Con Amor,Ocumare,1764,2016,80.0,United States,3.0,Criollo (Ocumare),Venezuela,Average,11.0
+413,Chocolate Con Amor,Ecuador,1764,2016,70.0,United States,3.25,Missing,Ecuador,Average,11.0
+414,Chocolate Con Amor,Nicaragua,1768,2016,80.0,United States,2.75,Missing,Nicaragua,Below Average,11.0
+415,Chocolate Conspiracy,Peru,1259,2014,74.0,United States,2.75,Missing,Peru,Below Average,9.0
+416,Chocolate Makers,Tres Hombres,1530,2015,75.0,Amsterdam,3.25,Trinitario,Dominican Republic,Average,10.0
+417,Chocolate Makers,"Congo, Gorilla bar",1530,2015,68.0,Amsterdam,3.5,Forastero,Congo,Average,10.0
+418,Chocolate Makers,"Peru, Awagum bar",1530,2015,80.0,Amsterdam,3.75,Criollo,Peru,Above Average,10.0
+419,"Chocolate Tree, The",Maranon,1582,2015,69.0,Scotland,3.75,Forastero (Nacional),Peru,Above Average,10.0
+420,"Chocolate Tree, The",Carenero Superior,1582,2015,80.0,Scotland,3.75,Trinitario,Venezuela,Above Average,10.0
+421,"Chocolate Tree, The",Peru,1121,2013,70.0,Scotland,3.75,Forastero (Nacional),Peru,Above Average,8.0
+422,"Chocolate Tree, The",Ecuador,919,2012,82.0,Scotland,2.5,Forastero (Arriba),Ecuador,Below Average,7.0
+423,"Chocolate Tree, The",Peru,919,2012,68.0,Scotland,2.75,Criollo,Peru,Below Average,7.0
+424,"Chocolate Tree, The",Madagascar,919,2012,72.0,Scotland,3.25,Criollo,Madagascar,Average,7.0
+425,Chocolats Privilege,Xoconusco,1219,2014,70.0,Canada,2.5,Criollo,Mexico,Below Average,9.0
+426,ChocoReko,Patanemo,1454,2015,77.0,Japan,3.0,Criollo,Venezuela,Average,10.0
+427,Chocosol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",682,2011,65.0,Canada,3.25,Missing,Mexico,Average,6.0
+428,Chocovic,Xoconusco,478,2010,71.0,Spain,3.25,Criollo,Mexico,Average,5.0
+429,Chocovic,Sambirano,478,2010,71.0,Spain,3.5,Trinitario,Madagascar,Average,5.0
+430,Chocovic,Kendari,439,2009,60.0,Spain,3.25,Missing,Missing,Average,4.0
+431,Chocovic,Tarakan,439,2009,75.0,Spain,3.25,Missing,Missing,Average,4.0
+432,Chocovic,Ocumare,209,2008,71.0,Spain,3.5,Criollo,Venezuela,Average,3.0
+433,Chocovic,"Bolivar, Guaranda",117,2007,71.0,Spain,2.5,Forastero (Arriba),Ecuador,Below Average,2.0
+434,Chocovic,Guyave,117,2007,71.0,Spain,2.5,Trinitario,Grenada,Below Average,2.0
+435,Chocovic,Maragda,117,2007,70.0,Spain,3.0,Blend,Missing,Average,2.0
+436,Chocovivo,Tabasco,1522,2015,65.0,United States,2.5,Trinitario,Mexico,Below Average,10.0
+437,Chocovivo,Tabasco,1522,2015,75.0,United States,2.5,Trinitario,Mexico,Below Average,10.0
+438,Choklat,Ocumare,377,2009,80.0,Canada,2.5,Criollo,Venezuela,Below Average,4.0
+439,Choklat,"Porcelana, Tabasco",377,2009,70.0,Canada,2.75,Criollo,Mexico,Below Average,4.0
+440,Choklat,Brazilian,377,2009,70.0,Canada,3.0,Missing,Brazil,Average,4.0
+441,Choklat,Brazilian,377,2009,80.0,Canada,3.0,Missing,Brazil,Average,4.0
+442,Choklat,Ocumare,377,2009,70.0,Canada,3.0,Criollo,Venezuela,Average,4.0
+443,Chokolat Elot (Girard),Guadeloupe,1149,2013,42.0,Martinique,2.75,Missing,Martinique,Below Average,8.0
+444,Choocsol,"Chiapas, Lacandon Jungle, Oaxacom Mtn",1832,2016,75.0,Canada,3.25,Missing,Mexico,Average,11.0
+445,Christopher Morel (Felchlin),"Maranon Canyon, Fortunato No. 4",666,2011,68.0,Canada,3.75,Forastero (Nacional),Peru,Above Average,6.0
+446,Chuao Chocolatier,Choroni,445,2009,61.0,United States,3.0,Criollo,Venezuela,Average,4.0
+447,Chuao Chocolatier (Pralus),Chuao,486,2010,77.0,United States,2.75,Trinitario,Venezuela,Below Average,5.0
+448,Claudio Corallo,Terreiro Velho P.,470,2010,73.5,Sao Tome,3.75,Forastero,Sao Tome,Above Average,5.0
+449,Claudio Corallo,Terreiro Velho P.,470,2010,73.5,Sao Tome,3.75,Forastero,Principe,Above Average,5.0
+450,Claudio Corallo,Terreiro Velho P. w/ sugar crystals,209,2008,80.0,Sao Tome,3.0,Forastero,Sao Tome,Average,3.0
+451,Claudio Corallo,Terreiro Velho P. w/ sugar crystals,209,2008,80.0,Sao Tome,3.0,Forastero,Principe,Average,3.0
+452,Claudio Corallo,Terreiro Velho P.,227,2008,75.0,Sao Tome,4.0,Forastero,Sao Tome,Above Average,3.0
+453,Claudio Corallo,Terreiro Velho P.,227,2008,75.0,Sao Tome,4.0,Forastero,Principe,Above Average,3.0
+454,Claudio Corallo,Principe,252,2008,100.0,Sao Tome,1.0,Forastero,Sao Tome,Below Average,3.0
+455,Claudio Corallo,Principe,252,2008,100.0,Sao Tome,1.0,Forastero,Principe,Below Average,3.0
+456,Cloudforest,"Camino Verde P., Balao, Guayas, 2014",1486,2015,73.0,United States,3.5,Missing,Ecuador,Average,10.0
+457,Coleman & Davis,Sambirano,1646,2015,75.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+458,Compania de Chocolate (Salgado),Sur del Lago,579,2010,70.0,Argentina,3.25,Missing,Venezuela,Average,5.0
+459,Compania de Chocolate (Salgado),Carenero Superior,292,2008,80.0,Argentina,2.75,Trinitario,Venezuela,Below Average,3.0
+460,Compania de Chocolate (Salgado),Moxos,292,2008,72.0,Argentina,3.25,Missing,Bolivia,Average,3.0
+461,Compania de Chocolate (Salgado),Ocumare,292,2008,70.0,Argentina,3.75,Criollo,Venezuela,Above Average,3.0
+462,Compania de Chocolate (Salgado),Esmeraldas,296,2008,88.0,Argentina,2.75,Forastero (Nacional),Ecuador,Below Average,3.0
+463,Condor,Camino Verde,1630,2015,76.0,United States,3.5,Missing,Ecuador,Average,10.0
+464,Confluence,"Tien Giang, 2015, batch 10-2-16",1916,2016,78.0,United States,2.75,Trinitario,Vietnam,Below Average,11.0
+465,Coppeneur,"Ecuador, Puristique",1169,2013,65.0,Germany,3.25,Forastero (Nacional),Ecuador,Average,8.0
+466,Coppeneur,Ghana Puristique,813,2012,85.0,Germany,3.5,Forastero,Ghana,Average,7.0
+467,Coppeneur,Ecuador Puristique,817,2012,100.0,Germany,1.5,Missing,Ecuador,Below Average,7.0
+468,Coppeneur,Uba Budo,821,2012,72.0,Germany,3.75,Forastero,Sao Tome,Above Average,7.0
+469,Coppeneur,Uba Budo,821,2012,72.0,Germany,3.75,Forastero,Principe,Above Average,7.0
+470,Coppeneur,Madagascar,959,2012,70.0,Germany,3.5,Trinitario,Madagascar,Average,7.0
+471,Coppeneur,Grenada,470,2010,72.0,Germany,3.25,Trinitario,Grenada,Average,5.0
+472,Coppeneur,Chuao,478,2010,70.0,Germany,3.0,Trinitario,Venezuela,Average,5.0
+473,Coppeneur,"Los Rios, H. Iara",558,2010,72.0,Germany,2.5,Nacional,Ecuador,Below Average,5.0
+474,Coppeneur,Trinidad,558,2010,72.0,Germany,3.0,Trinitario,Trinidad,Average,5.0
+475,Coppeneur,Jamaica,558,2010,72.0,Germany,3.25,Trinitario,Jamaica,Average,5.0
+476,Coppeneur,Ocumare 61,558,2010,72.0,Germany,3.25,Criollo (Ocumare 61),Venezuela,Average,5.0
+477,Coppeneur,"Porcelana, Apotequil",341,2009,72.0,Germany,3.0,Criollo,Peru,Average,4.0
+478,Coppeneur,"Porcelana, Apotequil",445,2009,62.0,Germany,3.25,Criollo,Peru,Average,4.0
+479,Coppeneur,Chuao 100hr,451,2009,70.0,Germany,3.5,Criollo,Venezuela,Average,4.0
+480,Coppeneur,Chuao 100hr,451,2009,70.0,Germany,3.5,Trinitario,Venezuela,Average,4.0
+481,Coppeneur,Chuao 70hr,451,2009,70.0,Germany,3.75,Criollo,Venezuela,Above Average,4.0
+482,Coppeneur,Chuao 70hr,451,2009,70.0,Germany,3.75,Trinitario,Venezuela,Above Average,4.0
+483,Coppeneur,"Porcelana, Tabasco, Mexico",220,2008,72.0,Germany,3.0,Criollo,Mexico,Average,3.0
+484,Coppeneur,"Porcelana, Venezuela",220,2008,72.0,Germany,3.0,Criollo (Porcelana),Venezuela,Average,3.0
+485,Coppeneur,"Sambirano, Menava P.",196,2007,72.0,Germany,3.0,Trinitario,Madagascar,Average,2.0
+486,Cote d' Or (Kraft),Sensations Intense,48,2006,70.0,Belgium,1.0,Missing,Missing,Below Average,1.0
+487,Cravve,New Ireland,1283,2014,70.0,Australia,2.5,Forastero,Papua New Guinea,Below Average,9.0
+488,Cravve,"Vanuatu, batch 2410",1335,2014,83.0,Australia,2.75,Trinitario,Vanuatu,Below Average,9.0
+489,Cravve,"Tanzania, batch a1",971,2012,75.0,Australia,3.25,Forastero,Tanzania,Average,7.0
+490,Cravve,"Bahia, batch a1213",975,2012,65.0,Australia,3.25,Trinitario,Brazil,Average,7.0
+491,Cravve,"Namau Village, N. Taileva P., batch a2812",975,2012,67.0,Australia,3.25,Trinitario,Fiji,Average,7.0
+492,Cravve,Vanuatu,975,2012,64.0,Australia,3.25,Trinitario,Vanuatu,Average,7.0
+493,Cravve,Djual Island,975,2012,75.0,Australia,3.5,Forastero,Papua New Guinea,Average,7.0
+494,Creo,"""heirloom"", Arriba Nacional",1736,2016,85.0,United States,3.25,Forastero (Nacional),Ecuador,Average,11.0
+495,Creo,"""heirloom"", Arriba Nacional",1736,2016,73.0,United States,3.75,Forastero (Nacional),Ecuador,Above Average,11.0
+496,Daintree,Goodman Estate,1654,2015,70.0,Australia,2.75,Missing,Australia,Below Average,10.0
+497,Daintree,"Daintree Estates, N. Queensland",785,2011,70.0,Australia,3.25,Missing,Australia,Average,6.0
+498,Dalloway,"Dominican Republic, batch 7",1928,2017,72.0,United States,2.75,Missing,Dominican Republic,Below Average,12.0
+499,Damson,Robson Estate,1610,2015,70.0,United Kingdom,3.0,Trinitario,Trinidad,Average,10.0
+500,Damson,Los Rios,1610,2015,70.0,United Kingdom,3.5,Missing,Ecuador,Average,10.0
+501,Damson,Crayfish Bay aka Non Pariel Estate,1666,2015,70.0,United Kingdom,2.25,Missing,Grenada,Below Average,10.0
+502,Damson,O'Payo,1666,2015,70.0,United Kingdom,2.75,Missing,Nicaragua,Below Average,10.0
+503,Dandelion,"Zorzal Reserva, 2015 H., Kerchner",1816,2016,70.0,United States,3.75,Missing,Missing,Above Average,11.0
+504,Dandelion,"Maya Mtn., Break Bar- Snark",1446,2015,70.0,United States,3.0,Trinitario,Belize,Average,10.0
+505,Dandelion,Maya Mountain,1219,2014,70.0,United States,3.5,Trinitario,Belize,Average,9.0
+506,Dandelion,"Camino Verde P., Balao, Guayas, 2013",1295,2014,70.0,United States,3.5,Missing,Ecuador,Average,9.0
+507,Dandelion,Buto,1303,2014,70.0,United States,2.75,Missing,Liberia,Below Average,9.0
+508,Dandelion,"San Francisco de Macoris, Cibao region",1387,2014,70.0,United States,3.75,Missing,Dominican Republic,Above Average,9.0
+509,Dandelion,"Cumboto, farmer Jose Lugo",1026,2013,70.0,United States,2.75,Missing,Venezuela,Below Average,8.0
+510,Dandelion,Patanemo,1026,2013,70.0,United States,3.25,Missing,Venezuela,Average,8.0
+511,Dandelion,"Mantuano, 2012",1085,2013,70.0,United States,3.5,Missing,Venezuela,Average,8.0
+512,Dandelion,Papua New Guinea,1153,2013,70.0,United States,3.5,Missing,Papua New Guinea,Average,8.0
+513,Dandelion,Upala,805,2012,70.0,United States,3.0,Missing,Costa Rica,Average,7.0
+514,Dandelion,Colombian,805,2012,70.0,United States,3.25,Missing,Colombia,Average,7.0
+515,Dandelion,"Elvesia, 2011",915,2012,70.0,United States,3.75,Missing,Dominican Republic,Above Average,7.0
+516,Dandelion,Dominican Republic,654,2011,70.0,United States,3.25,Missing,Dominican Republic,Average,6.0
+517,Dandelion,Madagascar,654,2011,70.0,United States,3.25,Trinitario,Madagascar,Average,6.0
+518,Dandelion,Tanzania,654,2011,70.0,United States,3.25,Missing,Tanzania,Average,6.0
+519,Danta,Los Ujuxtes,1223,2014,82.0,Guatemala,3.25,Missing,Guatemala,Average,9.0
+520,Danta,Chuao,987,2012,75.0,Guatemala,3.0,Trinitario,Venezuela,Average,7.0
+521,Danta,Los Ujuxtes,987,2012,70.0,Guatemala,3.75,Missing,Guatemala,Above Average,7.0
+522,Danta,Sambirano,987,2012,70.0,Guatemala,3.75,Trinitario,Madagascar,Above Average,7.0
+523,Danta,Las Acacias E.,987,2012,70.0,Guatemala,4.0,Criollo,Guatemala,Above Average,7.0
+524,Danta,"Oscuro, Finca Chimelb",991,2012,70.0,Guatemala,3.25,Missing,Guatemala,Average,7.0
+525,Danta,Los Ujuxtes,661,2011,60.0,Guatemala,3.5,Missing,Guatemala,Average,6.0
+526,Danta,Las Acacias E.,423,2009,75.0,Guatemala,3.0,Criollo,Guatemala,Average,4.0
+527,Danta,Las Acacias E.,423,2009,60.0,Guatemala,3.25,Criollo,Guatemala,Average,4.0
+528,DAR,"Venezuela, batch 122",1920,2016,72.0,United States,2.75,Missing,Venezuela,Below Average,11.0
+529,DAR,Vietnam,1920,2016,72.0,United States,3.0,Trinitario,Vietnam,Average,11.0
+530,DAR,"DUO, batch 002",1920,2016,70.0,United States,3.25,Missing,Ecuador,Average,11.0
+531,DAR,"DUO, batch 002",1920,2016,70.0,United States,3.25,Missing,Costa Rica,Average,11.0
+532,Dark Forest,Bolivia,1708,2016,75.0,United States,3.25,Missing,Bolivia,Average,11.0
+533,Dark Forest,Madagascar,1550,2015,70.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+534,Dark Forest,Ocumare,1550,2015,70.0,United States,3.25,Missing,Venezuela,Average,10.0
+535,Dark Forest,Tanzania,1554,2015,70.0,United States,3.0,Missing,Tanzania,Average,10.0
+536,Dark Forest,Ecuador,1554,2015,70.0,United States,3.25,Missing,Ecuador,Average,10.0
+537,Davis,Ghana,1093,2013,70.0,United States,2.5,Forastero,Ghana,Below Average,8.0
+538,Davis,Rainforest,1093,2013,70.0,United States,2.75,Missing,Dominican Republic,Below Average,8.0
+539,Davis,Venezuela,1093,2013,70.0,United States,2.75,Missing,Venezuela,Below Average,8.0
+540,Davis,West Africa,907,2012,58.0,United States,3.25,Forastero,West Africa,Average,7.0
+541,De Mendes,"Nativo, Varzea",1462,2015,72.0,Brazil,3.5,Missing,Brazil,Average,10.0
+542,De Mendes,"Selvagem, Jari",1462,2015,65.0,Brazil,3.5,Missing,Brazil,Average,10.0
+543,De Villiers,Bundibugyo District,1832,2016,70.0,South Africa,2.5,Forastero,Uganda,Below Average,11.0
+544,De Villiers,"Sambirano Valley, batch 2477",1832,2016,70.0,South Africa,3.0,Missing,Madagascar,Average,11.0
+545,Dean and Deluca (Belcolade),Madagascar,170,2007,66.0,United States,2.5,Trinitario,Madagascar,Below Average,2.0
+546,Dean and Deluca (Belcolade),Costa Rica,175,2007,64.0,United States,3.0,Missing,Costa Rica,Average,2.0
+547,Dean and Deluca (Belcolade),Ecuador,175,2007,71.0,United States,3.0,Missing,Ecuador,Average,2.0
+548,Dean and Deluca (Belcolade),Ghana,175,2007,60.0,United States,3.0,Forastero,Ghana,Average,2.0
+549,Dean and Deluca (Belcolade),Papua New Guinea,180,2007,64.0,United States,3.0,Missing,Papua New Guinea,Average,2.0
+550,Dean and Deluca (Belcolade),Peru,180,2007,64.0,United States,3.0,Missing,Peru,Average,2.0
+551,Debauve & Gallais (Michel Cluizel),Papua New Guinea,423,2009,64.0,France,3.0,Missing,Papua New Guinea,Average,4.0
+552,Debauve & Gallais (Michel Cluizel),Venezuela,263,2008,66.0,France,3.75,Missing,Venezuela,Above Average,3.0
+553,Desbarres,"Kilombero, batch 41",1916,2016,72.0,Canada,2.5,Missing,Tanzania,Below Average,11.0
+554,DeVries,Bolivian,241,2008,80.0,United States,2.75,Missing,Bolivia,Below Average,3.0
+555,DeVries,Costa Rica,166,2007,77.0,United States,3.5,Trinitario,Costa Rica,Average,2.0
+556,DeVries,Dominican Republic,166,2007,77.0,United States,3.5,Missing,Dominican Republic,Average,2.0
+557,Dick Taylor,Lanquin Estate,1952,2017,70.0,United States,3.75,Missing,Guatemala,Above Average,12.0
+558,Dick Taylor,Tien Giang,1864,2016,78.0,United States,3.5,Trinitario,Vietnam,Average,11.0
+559,Dick Taylor,"Alto Beni, Wild Harvest, Limited Ed.",1634,2015,70.0,United States,3.75,Missing,Bolivia,Above Average,10.0
+560,Dick Taylor,Elvesia,1235,2014,74.0,United States,3.5,Missing,Dominican Republic,Average,9.0
+561,Dick Taylor,"Ecuador, Choc. Garage Exclusive",1034,2013,70.0,United States,3.25,Missing,Ecuador,Average,8.0
+562,Dick Taylor,Camino Verde,1193,2013,76.0,United States,3.5,Missing,Ecuador,Average,8.0
+563,Dick Taylor,Bolivia,895,2012,75.0,United States,2.75,Missing,Bolivia,Below Average,7.0
+564,Dick Taylor,Belize,955,2012,72.0,United States,2.75,Trinitario,Belize,Below Average,7.0
+565,Dick Taylor,Sambirano,661,2011,80.0,United States,2.75,Trinitario,Madagascar,Below Average,6.0
+566,Dick Taylor,Sambirano,661,2011,72.0,United States,3.0,Trinitario,Madagascar,Average,6.0
+567,Dick Taylor,Mantuano,682,2011,75.0,United States,2.75,Criollo,Venezuela,Below Average,6.0
+568,Dick Taylor,La Red,769,2011,74.0,United States,3.0,Missing,Dominican Republic,Average,6.0
+569,Dick Taylor,Ecuador,769,2011,70.0,United States,3.25,Missing,Ecuador,Average,6.0
+570,Doble & Bignall,Puerto Cabello,1688,2015,85.0,United Kingdom,3.0,Missing,Venezuela,Average,10.0
+571,Doble & Bignall,"Panama, Raven",1371,2014,72.0,United Kingdom,3.25,Missing,Panama,Average,9.0
+572,Doble & Bignall,"Puerto Cabello, Mantuano",1371,2014,72.0,United Kingdom,3.25,Trinitario,Venezuela,Average,9.0
+573,Doble & Bignall,Johe,1407,2014,72.0,United Kingdom,3.5,Criollo,Nicaragua,Average,9.0
+574,Doble & Bignall,Johe,1407,2014,72.0,United Kingdom,3.5,Trinitario,Nicaragua,Average,9.0
+575,Dole (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,70.0,United States,3.75,Missing,United States,Above Average,4.0
+576,Dolfin (Belcolade),Africa,304,2008,88.0,Belgium,3.0,Forastero,West Africa,Average,3.0
+577,Dolfin (Belcolade),Noir,63,2006,70.0,Belgium,1.5,Missing,Missing,Below Average,1.0
+578,Domori,Hacienda Victoria,1672,2015,70.0,Italy,3.75,Missing,Ecuador,Above Average,10.0
+579,Domori,Ocumare 77,1672,2015,70.0,Italy,3.75,Criollo (Ocumare 77),Venezuela,Above Average,10.0
+580,Domori,"IL100, H. San Jose",1109,2013,100.0,Italy,3.0,Criollo,Venezuela,Average,8.0
+581,Domori,Morogoro,863,2012,70.0,Italy,3.5,Missing,Tanzania,Average,7.0
+582,Domori,Guasare,863,2012,70.0,Italy,3.75,Criollo,Venezuela,Above Average,7.0
+583,Domori,"Canoabo, Hacienda San Jose",693,2011,70.0,Italy,3.5,Criollo,Venezuela,Average,6.0
+584,Domori,"Chuao, Hacienda San Jose",470,2010,70.0,Italy,3.0,Trinitario,Venezuela,Average,5.0
+585,Domori,"Carupano, H. San Jose",227,2008,70.0,Italy,3.0,Trinitario,Venezuela,Average,3.0
+586,Domori,Teyuna,272,2008,70.0,Italy,3.0,Missing,Colombia,Average,3.0
+587,Domori,Blend No. 1,272,2008,78.0,Italy,3.5,Blend,Missing,Average,3.0
+588,Domori,Ilblend,272,2008,70.0,Italy,3.75,Blend,Missing,Above Average,3.0
+589,Domori,Porcelana,111,2007,70.0,Italy,4.0,Criollo (Porcelana),Venezuela,Above Average,2.0
+590,Domori,"Ocumare 61, Puertomar",129,2007,75.0,Italy,3.25,Criollo (Ocumare 61),Venezuela,Average,2.0
+591,Domori,Granella,135,2007,60.0,Italy,3.25,Trinitario,Venezuela,Average,2.0
+592,Domori,Madagascar,135,2007,70.0,Italy,3.5,Trinitario,Madagascar,Average,2.0
+593,Domori,Madagared,192,2007,70.0,Italy,3.5,Criollo,Madagascar,Average,2.0
+594,Domori,"Java, Javablond",192,2007,70.0,Italy,3.75,Criollo,Indonesia,Above Average,2.0
+595,Domori,Ecuador,192,2007,70.0,Italy,4.0,Forastero (Arriba),Ecuador,Above Average,2.0
+596,Domori,"Ocumare 67, Puertofino",192,2007,70.0,Italy,4.0,Criollo (Ocumare 67),Venezuela,Above Average,2.0
+597,Domori,Sur del Lago Classificado,87,2006,70.0,Italy,3.0,Trinitario,Venezuela,Average,1.0
+598,Domori,Apurimac,87,2006,70.0,Italy,3.25,Trinitario,Peru,Average,1.0
+599,Domori,Carenero Superior,87,2006,70.0,Italy,3.5,Trinitario,Venezuela,Average,1.0
+600,Dormouse,Non Pariel Estate,1880,2016,75.0,United Kingdom,2.75,Trinitario,Grenada,Below Average,11.0
+601,Dormouse,"Rio Caribe, Batch 7",1672,2015,70.0,United Kingdom,2.5,Trinitario,Venezuela,Below Average,10.0
+602,Dormouse,"Colombia, Batch 9",1676,2015,80.0,United Kingdom,2.75,Criollo,Colombia,Below Average,10.0
+603,Dormouse,"Colombia, Batch 9",1676,2015,80.0,United Kingdom,2.75,Trinitario,Colombia,Below Average,10.0
+604,Dormouse,"Madagascar, Batch 8",1676,2015,77.0,United Kingdom,2.75,Criollo,Madagascar,Below Average,10.0
+605,Dormouse,"Madagascar, Batch 8",1676,2015,77.0,United Kingdom,2.75,Trinitario,Madagascar,Below Average,10.0
+606,Duffy's,"Rio Dulce, Xoco",1662,2015,70.0,United Kingdom,4.0,Criollo,Guatemala,Above Average,10.0
+607,Duffy's,"Chuno, Xoco",1331,2014,70.0,United Kingdom,3.5,Criollo,Nicaragua,Average,9.0
+608,Duffy's,"Rico Rugoso, Xoco",1331,2014,76.0,United Kingdom,3.75,Criollo,Nicaragua,Above Average,9.0
+609,Duffy's,Ocumare,923,2012,72.0,United Kingdom,3.75,Missing,Venezuela,Above Average,7.0
+610,Duffy's,"Indio Rojo, Xoco",623,2011,72.0,United Kingdom,3.75,Criollo,Honduras,Above Average,6.0
+611,Duffy's,Dominican Republic,661,2011,65.0,United Kingdom,3.5,Missing,Dominican Republic,Average,6.0
+612,Duffy's,"Bocas del Toro, Tierra Oscura",697,2011,72.0,United Kingdom,3.0,Missing,Panama,Average,6.0
+613,Duffy's,"Nicaliso, Xoco",697,2011,71.0,United Kingdom,3.25,Criollo,Nicaragua,Average,6.0
+614,Duffy's,Ocumare,765,2011,71.0,United Kingdom,3.5,Missing,Venezuela,Average,6.0
+615,Duffy's,Panama,516,2010,70.0,United Kingdom,3.5,Missing,Panama,Average,5.0
+616,Duffy's,"Corazon del Ecuador, Calceta beans",516,2010,72.0,United Kingdom,3.75,Missing,Ecuador,Above Average,5.0
+617,Duffy's,Star of Ecuador,523,2010,70.0,United Kingdom,2.5,Missing,Ecuador,Below Average,5.0
+618,Duffy's,Star of Peru,523,2010,70.0,United Kingdom,3.75,Missing,Peru,Above Average,5.0
+619,Dulcinea,Dominican Republic,1506,2015,70.0,United States,3.25,Missing,Dominican Republic,Average,10.0
+620,Durand,Madagascar,841,2012,82.0,France,2.75,Trinitario,Madagascar,Below Average,7.0
+621,Durci,"Maranon, Joya Rara",1626,2015,70.0,United States,3.5,Forastero (Nacional),Peru,Average,10.0
+622,Durci,"Rio Caribe, Tepui Treasure",1626,2015,70.0,United States,3.5,Trinitario,Venezuela,Average,10.0
+623,Durci,Taino Secret,1630,2015,70.0,United States,3.25,Missing,Dominican Republic,Average,10.0
+624,Durci,"Carenero, Empyrean Sabor",1630,2015,70.0,United States,3.25,Trinitario,Venezuela,Average,10.0
+625,Durci,Corona Arriba,1630,2015,70.0,United States,4.0,Missing,Ecuador,Above Average,10.0
+626,East Van Roasters,Peru,1343,2014,70.0,Canada,3.25,Missing,Peru,Average,9.0
+627,East Van Roasters,Madagascar,1343,2014,70.0,Canada,3.5,Trinitario,Madagascar,Average,9.0
+628,East Van Roasters,Dominican Republic,1343,2014,70.0,Canada,3.75,Missing,Dominican Republic,Above Average,9.0
+629,Eau de Rose,Tumaco,1812,2016,70.0,Canada,3.25,Missing,Colombia,Average,11.0
+630,Eau de Rose,Arauca,1812,2016,70.0,Canada,3.25,Missing,Colombia,Average,11.0
+631,Eclat (Felchlin),"Maranon, Good & Evil, w/ nibs",919,2012,72.0,United States,2.75,Forastero (Nacional),Peru,Below Average,7.0
+632,Edelmond,Porcelana,1876,2016,68.0,Germany,3.0,Criollo,Venezuela,Average,11.0
+633,El Ceibo,"Alto Beni, Covendo Region",709,2011,75.0,Bolivia,3.75,Missing,Bolivia,Above Average,6.0
+634,El Ceibo,Alto Beni,252,2008,71.0,Bolivia,2.75,Missing,Bolivia,Below Average,3.0
+635,El Rey,San Joaquin,1662,2015,70.0,Venezuela,3.75,Missing,Venezuela,Above Average,10.0
+636,El Rey,"Rio Caribe, Cariaco",439,2009,60.5,Venezuela,2.75,Trinitario,Venezuela,Below Average,4.0
+637,El Rey,"Rio Caribe, Macuro",439,2009,70.0,Venezuela,3.0,Trinitario,Venezuela,Average,4.0
+638,El Rey,"Carenero Superior, Apamate",206,2008,74.0,Venezuela,2.5,Criollo,Venezuela,Below Average,3.0
+639,El Rey,"Carenero Superior, Bucare",206,2008,58.0,Venezuela,2.5,Criollo,Venezuela,Below Average,3.0
+640,El Rey,"Carenero Superior, Mijao",206,2008,61.0,Venezuela,3.0,Criollo,Venezuela,Average,3.0
+641,El Rey,"Carenero Superior, Gran Saman",32,2006,70.0,Venezuela,2.75,Criollo,Venezuela,Below Average,1.0
+642,Emerald Estate,Emerald Estate,1137,2013,60.0,St. Lucia,2.75,Missing,St. Lucia,Below Average,8.0
+643,Emerald Estate,Emerald Estate,1137,2013,70.0,St. Lucia,3.25,Missing,St. Lucia,Average,8.0
+644,Emily's,Patanemo,1450,2015,79.0,Japan,3.0,Missing,Venezuela,Average,10.0
+645,Emily's,Peru,1454,2015,78.0,Japan,3.5,Criollo,Peru,Average,10.0
+646,ENNA,"Wampusirpi, batch 007",1916,2016,75.0,United States,3.25,Missing,Honduras,Average,11.0
+647,Enric Rovira (Claudio Corallo),Terreiro Velho P.,565,2010,80.0,Spain,3.25,Forastero,Sao Tome,Average,5.0
+648,Enric Rovira (Claudio Corallo),Terreiro Velho P.,565,2010,80.0,Spain,3.25,Forastero,Principe,Average,5.0
+649,Erithaj (A. Morin),Ben Tre,1205,2014,70.0,France,3.25,Trinitario,Vietnam,Average,9.0
+650,Erithaj (A. Morin),Ham Luong,1209,2014,80.0,France,3.0,Trinitario,Vietnam,Average,9.0
+651,Erithaj (A. Morin),Ba Lai,1209,2014,74.0,France,3.25,Trinitario,Vietnam,Average,9.0
+652,Escazu,Rio Caribe,903,2012,70.0,United States,2.75,Trinitario,Venezuela,Below Average,7.0
+653,Escazu,Guapiles,414,2009,65.0,United States,2.0,Missing,Costa Rica,Below Average,4.0
+654,Escazu,Carenero Superior,423,2009,81.0,United States,3.5,Criollo,Venezuela,Average,4.0
+655,Escazu,"Carenero, Guapiles, Ocumare blend",431,2009,74.0,United States,2.75,Missing,Cost Rica,Below Average,4.0
+656,Escazu,"Carenero, Guapiles, Ocumare blend",431,2009,74.0,United States,2.75,Missing,Venezula,Below Average,4.0
+657,Escazu,Ocumare,252,2008,72.0,United States,3.0,Criollo,Venezuela,Average,3.0
+658,Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,55.0,United States,2.5,Missing,Peru,Below Average,6.0
+659,Ethel's Artisan (Mars),"Peru, Madagascar",666,2011,55.0,United States,2.5,Missing,Madagascar,Below Average,6.0
+660,Ethel's Artisan (Mars),Trinidad,666,2011,55.0,United States,2.5,Trinitario,Trinidad,Below Average,6.0
+661,Ethel's Artisan (Mars),Porcelana,666,2011,70.0,United States,2.5,Criollo (Porcelana),Venezuela,Below Average,6.0
+662,Ethel's Artisan (Mars),Red Vanilla,666,2011,62.0,United States,2.75,Missing,Missing,Below Average,6.0
+663,Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,62.0,United States,2.5,Missing,Venezuela,Below Average,6.0
+664,Ethel's Artisan (Mars),"Venezuela, Trinidad",672,2011,62.0,United States,2.5,Missing,Trinidad,Below Average,6.0
+665,Ethereal,Belize,1275,2014,80.0,United States,3.0,Trinitario,Belize,Average,9.0
+666,Ethereal,Ecuador,1275,2014,80.0,United States,3.5,Missing,Ecuador,Average,9.0
+667,Ethereal,Dominican Republic,1275,2014,80.0,United States,3.75,Missing,Dominican Republic,Above Average,9.0
+668,Fearless (AMMA),"Monte Alegre, D. Badaro, Raw, Organic",565,2010,75.0,United States,2.75,Missing,Brazil,Below Average,5.0
+669,Feitoria Cacao,Blue Mountain,1732,2016,76.0,Portugal,3.0,Missing,Jamaica,Average,11.0
+670,Feitoria Cacao,Cuyagua,1736,2016,76.0,Portugal,2.5,Missing,Venezuela,Below Average,11.0
+671,Feitoria Cacao,Maya Mountain,1736,2016,76.0,Portugal,2.75,Trinitario,Belize,Below Average,11.0
+672,Felchlin,Grenada,494,2010,58.0,Switzerland,3.5,Trinitario,Grenada,Average,5.0
+673,Felchlin,Supremo- SF,105,2006,62.0,Switzerland,2.0,Missing,Missing,Below Average,1.0
+674,Felchlin,Elvesia P.,105,2006,74.0,Switzerland,3.0,Trinitario,Dominican Republic,Average,1.0
+675,Felchlin,Elvesia P.,105,2006,74.0,Switzerland,3.0,Criollo,Dominican Republic,Average,1.0
+676,Felchlin,"Madagascar, Grand Cru",48,2006,64.0,Switzerland,3.0,Criollo,Madagascar,Average,1.0
+677,Felchlin,Maracaibo Clasificado,48,2006,65.0,Switzerland,3.0,Criollo,Venezuela,Average,1.0
+678,Felchlin,Arriba,48,2006,72.0,Switzerland,3.5,Forastero (Arriba),Ecuador,Average,1.0
+679,Felchlin,"Alto Beni, Cru Savage",56,2006,68.0,Switzerland,4.0,Criollo (Wild),Bolivia,Above Average,1.0
+680,Finca,Puerto Rico,1283,2014,65.0,United States,2.25,Missing,Puerto Rico,Below Average,9.0
+681,Finca,Dominican Republic,1283,2014,80.0,United States,3.0,Missing,Dominican Republic,Average,9.0
+682,Finca,Dominican Republic,1283,2014,70.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+683,Finca,Dominican Republic,1287,2014,85.0,United States,2.5,Missing,Dominican Republic,Below Average,9.0
+684,Forever Cacao,Rio Eni,1267,2014,72.0,United Kingdom,2.75,Criollo,Peru,Below Average,9.0
+685,Forteza (Cortes),Dominican Republic,1776,2016,70.0,Puerto Rico,2.75,Missing,Dominican Republic,Below Average,11.0
+686,Forteza (Cortes),Puerto Rico,1776,2016,80.0,Puerto Rico,2.75,Missing,Dominican Republic,Below Average,11.0
+687,Fossa,"Akesson's E., Sambirano V.",1772,2016,70.0,Singapore,2.75,Missing,Madagascar,Below Average,11.0
+688,Fossa,"Camino Verde P., Balao, Guayas",1776,2016,75.0,Singapore,3.5,Missing,Ecuador,Average,11.0
+689,Fossa,"Kokoa Kamili Coop, Kilombero",1776,2016,67.0,Singapore,3.75,Trinitario,Tanzania,Above Average,11.0
+690,Franceschi,Choroni,1355,2014,70.0,Venezuela,3.5,Missing,Venezuela,Average,9.0
+691,Franceschi,Ocumare,1355,2014,70.0,Venezuela,3.75,Missing,Venezuela,Above Average,9.0
+692,Franceschi,Canoabo,911,2012,70.0,Venezuela,3.75,Missing,Venezuela,Above Average,7.0
+693,Franceschi,Sur del Lago,915,2012,60.0,Venezuela,3.5,Missing,Venezuela,Average,7.0
+694,Frederic Blondeel,Costa Rica,1538,2015,70.0,Belgium,3.5,Missing,Costa Rica,Average,10.0
+695,Frederic Blondeel,Peru Brutus,1538,2015,75.0,Belgium,3.5,Missing,Peru,Average,10.0
+696,Frederic Blondeel,Vietnam,1542,2015,80.0,Belgium,3.0,Trinitario,Vietnam,Average,10.0
+697,Frederic Blondeel,Ghana,1351,2014,60.0,Belgium,3.5,Forastero,Ghana,Average,9.0
+698,Frederic Blondeel,Madagascar,1351,2014,65.0,Belgium,3.5,Trinitario,Madagascar,Average,9.0
+699,French Broad,"Norandino, batch 161208",1940,2017,70.0,United States,3.5,Missing,Peru,Average,12.0
+700,French Broad,Guatemala,1634,2015,73.0,United States,3.5,Missing,Guatemala,Average,10.0
+701,French Broad,San Andres,1209,2014,80.0,United States,3.0,Missing,Costa Rica,Average,9.0
+702,French Broad,Matagalpa,1295,2014,68.0,United States,3.25,Missing,Nicaragua,Average,9.0
+703,French Broad,"Palo Blanco, Chulucanas",1042,2013,66.0,United States,3.5,Missing,Peru,Average,8.0
+704,French Broad,Tumbes Coop,883,2012,70.0,United States,2.5,Criollo,Peru,Below Average,7.0
+705,French Broad,"Palo Blanco, Chulucanas",883,2012,61.0,United States,3.5,Missing,Peru,Average,7.0
+706,French Broad,"Palo Blanco w/ panela, Chulucanas",887,2012,81.0,United States,2.0,Missing,Peru,Below Average,7.0
+707,French Broad,"Maranon Canyon, Fortunato No. 4",781,2011,70.0,United States,3.5,Forastero (Nacional),Peru,Average,6.0
+708,French Broad,La Red,785,2011,65.0,United States,3.5,Missing,Dominican Republic,Average,6.0
+709,Fresco,"Maranon, #228, MR, SC",1383,2014,70.0,United States,3.0,Forastero (Nacional),Peru,Average,9.0
+710,Fresco,"Maranon, #227, LR, MC",1383,2014,70.0,United States,3.5,Forastero (Nacional),Peru,Average,9.0
+711,Fresco,"Maranon, #229, MR, LC",1383,2014,70.0,United States,3.5,Forastero (Nacional),Peru,Average,9.0
+712,Fresco,"Maranon, #230, DR, LC",1387,2014,70.0,United States,3.5,Forastero (Nacional),Peru,Average,9.0
+713,Fresco,"Conacado, #223, MR, SC",1030,2013,72.0,United States,3.25,Missing,Dominican Republic,Average,8.0
+714,Fresco,"Conacado, #224, MR, MC",1081,2013,72.0,United States,3.75,Missing,Dominican Republic,Above Average,8.0
+715,Fresco,"San Martin, Bellavista Coop, #226, DR, MC",1117,2013,70.0,United States,3.75,Missing,Peru,Above Average,8.0
+716,Fresco,"Bellavista Coop, #225, LR, MC, CG Exclusive",1149,2013,70.0,United States,4.0,Trinitario,Peru,Above Average,8.0
+717,Fresco,"Markham Valley, #219, LR, MC",899,2012,69.0,United States,3.5,Missing,Papua New Guinea,Average,7.0
+718,Fresco,"Markham Valley, #221, DR, MC",899,2012,69.0,United States,3.5,Missing,Papua New Guinea,Average,7.0
+719,Fresco,"Sambirano Valley, #216, MR, LC",915,2012,74.0,United States,4.0,Trinitario,Madagascar,Above Average,7.0
+720,Fresco,"Markham Valley, #220, MR, MC",927,2012,69.0,United States,4.0,Trinitario,Papua New Guinea,Above Average,7.0
+721,Fresco,"Markham Valley, #222, LR, 0C",931,2012,69.0,United States,3.0,Trinitario,Papua New Guinea,Average,7.0
+722,Fresco,"Ghana, #211, MR, MC",636,2011,74.0,United States,2.75,Forastero,Ghana,Below Average,6.0
+723,Fresco,"Jamaica, #209, DR, SC",642,2011,70.0,United States,3.25,Trinitario,Jamaica,Average,6.0
+724,Fresco,"Conacado, #212, LR, SC",642,2011,72.0,United States,3.5,Missing,Dominican Republic,Average,6.0
+725,Fresco,"Jamaica, #210, DR, MC",642,2011,70.0,United States,3.5,Trinitario,Jamaica,Average,6.0
+726,Fresco,"Sambirano Valley, #214, LR, MC",682,2011,74.0,United States,2.75,Trinitario,Madagascar,Below Average,6.0
+727,Fresco,"Conacado, #213, DR, -C",682,2011,72.0,United States,3.25,Missing,Dominican Republic,Average,6.0
+728,Fresco,"Sambirano Valley, #215, MR, MC",688,2011,74.0,United States,3.0,Trinitario,Madagascar,Average,6.0
+729,Fresco,"Chuao, #218, MR, MC",745,2011,76.0,United States,3.25,Trinitario,Venezuela,Average,6.0
+730,Fresco,"Chuao, #217, DR, MC",745,2011,70.0,United States,4.0,Trinitario,Venezuela,Above Average,6.0
+731,Fresco,"Jamaica, #204, DR, SC",370,2009,80.0,United States,2.75,Trinitario,Jamaica,Below Average,4.0
+732,Fresco,"Jamaica, #206, DR, LC",370,2009,70.0,United States,3.0,Trinitario,Jamaica,Average,4.0
+733,Fresco,"Jamaica, #205, DR, MC",370,2009,70.0,United States,3.25,Trinitario,Jamaica,Average,4.0
+734,Fresco,"Carenero Superior, #203, MR, SC",370,2009,65.0,United States,3.5,Criollo,Venezuela,Average,4.0
+735,Friis Holm,"Rugoso, Bad Fermentation",1912,2016,70.0,Denmark,3.5,Missing,Nicaragua,Average,11.0
+736,Friis Holm (Bonnat),La Dalia,1680,2015,60.0,Denmark,3.0,Missing,Nicaragua,Average,10.0
+737,Friis Holm (Bonnat),La Dalia,1680,2015,85.0,Denmark,3.25,Missing,Nicaragua,Average,10.0
+738,Friis Holm (Bonnat),La Dalia,1259,2014,70.0,Denmark,3.5,Missing,Nicaragua,Average,9.0
+739,Friis Holm (Bonnat),"Barba, Xoco",1034,2013,70.0,Denmark,3.25,Missing,Nicaragua,Average,8.0
+740,Friis Holm (Bonnat),"Medagla, Xoco",1034,2013,70.0,Denmark,3.5,Missing,Nicaragua,Average,8.0
+741,Friis Holm (Bonnat),"Chuno, triple turned, Xoco",895,2012,70.0,Denmark,3.25,Criollo,Nicaragua,Average,7.0
+742,Friis Holm (Bonnat),"Chuno, triple turned, Xoco",895,2012,70.0,Denmark,3.25,Trinitario,Nicaragua,Average,7.0
+743,Friis Holm (Bonnat),"Red Mayan, Xoco",899,2012,70.0,Denmark,3.25,Criollo,Honduras,Average,7.0
+744,Friis Holm (Bonnat),"Red Mayan, Xoco",899,2012,70.0,Denmark,3.25,Trinitario,Honduras,Average,7.0
+745,Friis Holm (Bonnat),"Chuno, double turned, Xoco",899,2012,70.0,Denmark,3.25,Criollo,Nicaragua,Average,7.0
+746,Friis Holm (Bonnat),"Chuno, double turned, Xoco",899,2012,70.0,Denmark,3.25,Trinitario,Nicaragua,Average,7.0
+747,Friis Holm (Bonnat),"Rugoso, Xoco",923,2012,70.0,Denmark,3.75,Missing,Nicaragua,Above Average,7.0
+748,Friis Holm (Bonnat),"Johe, Xoco",623,2011,70.0,Denmark,3.25,Criollo,Nicaragua,Average,6.0
+749,Friis Holm (Bonnat),"Johe, Xoco",623,2011,70.0,Denmark,3.25,Trinitario,Nicaragua,Average,6.0
+750,Friis Holm (Bonnat),"Chuno, Xoco",623,2011,70.0,Denmark,3.5,Criollo,Nicaragua,Average,6.0
+751,Friis Holm (Bonnat),"Chuno, Xoco",623,2011,70.0,Denmark,3.5,Trinitario,Nicaragua,Average,6.0
+752,Friis Holm (Bonnat),"Nicaliso, Xoco",623,2011,70.0,Denmark,3.5,Criollo,Nicaragua,Average,6.0
+753,Friis Holm (Bonnat),"Nicaliso, Xoco",623,2011,70.0,Denmark,3.5,Trinitario,Nicaragua,Average,6.0
+754,Fruition,"Wild Bolivian, Batch 2",1780,2016,74.0,United States,3.75,Beniano,Bolivia,Above Average,11.0
+755,Fruition,"Coto Brus, Heirloom, Batch 1",1780,2016,74.0,United States,4.0,Amazon mix,Costa Rica,Above Average,11.0
+756,Fruition,Gran Couva,1347,2014,70.0,United States,3.75,Trinitario,Trinidad,Above Average,9.0
+757,Fruition,Maranon,1359,2014,76.0,United States,3.0,Forastero (Nacional),Peru,Average,9.0
+758,Fruition,La Red,1046,2013,70.0,United States,3.75,Missing,Dominican Republic,Above Average,8.0
+759,Fruition,Camino Verde,1185,2013,75.0,United States,3.0,Missing,Ecuador,Average,8.0
+760,Fruition,Peru,863,2012,70.0,United States,2.5,Missing,Peru,Below Average,7.0
+761,Fruition,Signature Blend,753,2011,66.0,United States,3.25,Trinitario,Costa Rica,Average,6.0
+762,Fruition,Costa Rica,781,2011,70.0,United States,3.0,Missing,Costa Rica,Average,6.0
+763,Garden Island,"Kaua'I, Alea Estate +world",1367,2014,85.0,United States,2.5,Blend,United States,Below Average,9.0
+764,Georgia Ramon,Akesson P.,1642,2015,65.0,Germany,3.25,Trinitario,Madagascar,Average,10.0
+765,Georgia Ramon,ABOCFA Coop,1642,2015,70.0,Germany,4.0,Forastero,Ghana,Above Average,10.0
+766,Georgia Ramon,Conacado Coop,1646,2015,70.0,Germany,3.5,Trinitario,Dominican Republic,Average,10.0
+767,Georgia Ramon,Conacado Coop,1646,2015,80.0,Germany,3.5,Trinitario,Dominican Republic,Average,10.0
+768,Georgia Ramon,Akesson P.,1646,2015,75.0,Germany,3.5,Trinitario,Madagascar,Average,10.0
+769,Glennmade,"Toledo District, 2015 Harvest",1848,2016,70.0,United States,3.5,Missing,Belize,Average,11.0
+770,Glennmade,Bahia,1672,2015,66.0,United States,3.0,Trinitario,Brazil,Average,10.0
+771,Glennmade,Bahia,1672,2015,66.0,United States,3.0,Forastero,Brazil,Average,10.0
+772,Goodnow Farms,"Almendra Blanca, batch 1004",1924,2016,77.0,United States,2.75,Missing,Mexico,Below Average,11.0
+773,Goodnow Farms,"El Carmen, batch 1003",1924,2016,77.0,United States,3.25,Missing,Nicaragua,Average,11.0
+774,Goodnow Farms,"Asochivite, batch 1005",1924,2016,77.0,United States,3.25,Missing,Guatemala,Average,11.0
+775,Grand Place,"Ben Tre, Dong Nai",741,2011,72.0,Vietnam,3.0,Trinitario,Vietnam,Average,6.0
+776,Green & Black's (ICAM),Dark,15,2006,70.0,United Kingdom,2.5,Missing,Missing,Below Average,1.0
+777,Green Bean to Bar,Madagascar,1896,2016,70.0,Japan,3.5,Missing,Madagascar,Average,11.0
+778,Grenada Chocolate Co.,Grenada,494,2010,82.0,Grenada,3.25,Trinitario,Grenada,Average,5.0
+779,Grenada Chocolate Co.,Grenada,363,2009,60.0,Grenada,2.75,Trinitario,Grenada,Below Average,4.0
+780,Grenada Chocolate Co.,Grenada,241,2008,71.0,Grenada,2.5,Trinitario,Grenada,Below Average,3.0
+781,Guido Castagna,Arriba,355,2009,64.0,Italy,3.0,Forastero (Arriba) ASS,Ecuador,Average,4.0
+782,Guido Castagna,Ghana,355,2009,64.0,Italy,3.0,Forastero,Ghana,Average,4.0
+783,Guido Castagna,Trinidad & Tobago,355,2009,64.0,Italy,3.0,Missing,Trinidad,Average,4.0
+784,Guido Castagna,Trinidad & Tobago,355,2009,64.0,Italy,3.0,Missing,Tobago,Average,4.0
+785,Guido Castagna,Lacri Blend,355,2009,76.0,Italy,3.0,Missing,Venezuela,Average,4.0
+786,Guido Castagna,Blend,355,2009,64.0,Italy,3.25,Missing,Venezula,Average,4.0
+787,Guido Castagna,Blend,355,2009,64.0,Italy,3.25,Missing,Trinidad,Average,4.0
+788,Guido Castagna,Blend,355,2009,64.0,Italy,3.25,Missing,Ecuador,Average,4.0
+789,Guittard,"Epique, Blend No. 49",1602,2015,70.0,United States,3.75,Missing,Missing,Above Average,10.0
+790,Guittard,Haiti,1053,2013,65.0,United States,2.75,Missing,Haiti,Below Average,8.0
+791,Guittard,Nicaragua,1053,2013,65.0,United States,2.75,Missing,Nicaragua,Below Average,8.0
+792,Guittard,Jamaica,1053,2013,65.0,United States,3.25,Trinitario,Jamaica,Average,8.0
+793,Guittard,Ecuador,1053,2013,65.0,United States,3.5,Missing,Ecuador,Average,8.0
+794,Guittard,Coucher du Soleil,654,2011,72.0,United States,2.75,Missing,Missing,Below Average,6.0
+795,Guittard,Lever du Soleil,654,2011,61.0,United States,3.25,Missing,Missing,Average,6.0
+796,Guittard,Onyx,654,2011,72.0,United States,3.25,Missing,Missing,Average,6.0
+797,Guittard,Trinidad,552,2010,65.0,United States,3.0,Trinitario,Trinidad,Average,5.0
+798,Guittard,"O'ahu, N. Shore, Waialua E., Kakoleka",316,2009,55.0,United States,3.0,Missing,United States,Average,4.0
+799,Guittard,Nocturne,387,2009,91.0,United States,3.0,Missing,Missing,Average,4.0
+800,Guittard,Complexite,387,2009,70.0,United States,3.5,Blend,Missing,Average,4.0
+801,Guittard,Machu Pichu,259,2008,65.0,United States,3.0,Missing,Peru,Average,3.0
+802,Guittard,Special Maker Reserve,276,2008,64.0,United States,3.0,Missing,Missing,Average,3.0
+803,Guittard,Ocumare,276,2008,65.0,United States,3.5,Missing,Venezuela,Average,3.0
+804,Guittard,Quetzalcoatl,147,2007,72.0,United States,3.5,Blend,Missing,Average,2.0
+805,Guittard,Chucuri,15,2006,65.0,United States,3.0,Trinitario,Colombia,Average,1.0
+806,Guittard,Sur del Lago,87,2006,65.0,United States,2.5,Trinitario,Venezuela,Below Average,1.0
+807,Guittard,Sur del Lago,87,2006,65.0,United States,2.5,Criollo,Venezuela,Below Average,1.0
+808,Guittard,"Sambirano, Ambanja",87,2006,65.0,United States,3.5,Criollo,Madagascar,Average,1.0
+809,Guittard,"Sambirano, Ambanja",87,2006,65.0,United States,3.5,+,Madagascar,Average,1.0
+810,Guittard,"Los Rios, Quevedo",93,2006,65.0,United States,3.5,Forastero (Arriba),Ecuador,Average,1.0
+811,Guittard,Tsaranta,93,2006,61.0,United States,3.5,Blend,Missing,Average,1.0
+812,Guittard,Semisweet,99,2006,61.0,United States,3.0,Blend,Missing,Average,1.0
+813,Habitual,Papua New Guinea,1197,2014,80.0,Canada,2.75,Missing,Papua New Guinea,Below Average,9.0
+814,Habitual,Campesino w/ nibs,1197,2014,74.0,Canada,2.75,Missing,Missing,Below Average,9.0
+815,Habitual,Dominican Republic,1197,2014,75.0,Canada,3.25,Missing,Dominican Republic,Average,9.0
+816,Habitual,Trinitario,1197,2014,70.0,Canada,3.5,Trinitario,Missing,Average,9.0
+817,Habitual,Downtown London,1201,2014,65.0,Canada,2.75,Missing,Missing,Below Average,9.0
+818,Habitual,Africa meets Latina,1201,2014,70.0,Canada,3.0,Missing,Missing,Average,9.0
+819,Habitual,Amazonas,1201,2014,80.0,Canada,3.0,Missing,Missing,Average,9.0
+820,Habitual,Sharkey,1201,2014,66.0,Canada,3.25,Missing,United States,Average,9.0
+821,Habitual,one hundred,1205,2014,100.0,Canada,2.0,Missing,Missing,Below Average,9.0
+822,Hachez,Arriba,166,2007,77.0,Germany,2.5,Forastero (Arriba),Ecuador,Below Average,2.0
+823,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,55.0,Ecuador,2.75,Trinitario,Ecuador,Below Average,9.0
+824,Hacienda El Castillo,Don Homero- Cerecita Valley,1327,2014,70.0,Ecuador,3.0,Trinitario,Ecuador,Average,9.0
+825,Haigh,South America and Africa,701,2011,70.0,Australia,3.0,Missing,South America,Average,6.0
+826,Haigh,South America and Africa,701,2011,70.0,Australia,3.0,Missing,Africa,Average,6.0
+827,Harper Macaw,"Vale do Juliana, w/ nibs",1808,2016,85.0,United States,3.25,Missing,Brazil,Average,11.0
+828,Harper Macaw,Brazil Blend,1696,2015,67.0,United States,3.0,Missing,Brazil,Average,10.0
+829,Harper Macaw,"Tome Acu E., Amazon Rainforest",1700,2015,77.0,United States,3.5,Missing,Brazil,Average,10.0
+830,Harper Macaw,"Vale do Juliana E., Atlantic Forest",1700,2015,74.0,United States,3.5,Missing,Brazil,Average,10.0
+831,Heilemann,Peru,1876,2016,64.0,Germany,2.75,Missing,Peru,Below Average,11.0
+832,Heirloom Cacao Preservation (Brasstown),"Maya Mtn, Moho R., Toledo D., 2015",1748,2016,70.0,United States,3.25,Amazon,Belize,Average,11.0
+833,Heirloom Cacao Preservation (Fruition),"Cota Brus, Terciopelo, 2015",1748,2016,74.0,United States,3.5,Amazon mix,Costa Rica,Average,11.0
+834,Heirloom Cacao Preservation (Guittard),"Alto Beni, Upper Rio Beni, 2014",1239,2014,67.0,United States,3.5,Amazon,Bolivia,Average,9.0
+835,Heirloom Cacao Preservation (Guittard),"Alto Beni, Upper Rio Beni, 2014",1239,2014,67.0,United States,3.5,ICS,Bolivia,Average,9.0
+836,Heirloom Cacao Preservation (Guittard),"Wild Beni, Lower Rio Beni, Tranquilidad, 2014",1243,2014,67.0,United States,3.0,Beniano,Bolivia,Average,9.0
+837,Heirloom Cacao Preservation (Guittard),"Los Rios, Hacienda Limon, Orecao, 2014",1243,2014,67.0,United States,3.75,EET,Ecuador,Above Average,9.0
+838,Heirloom Cacao Preservation (Guittard),"Maunawili, O'ahu, Agri Research C., 2014",1243,2014,67.0,United States,3.75,Missing,United States,Above Average,9.0
+839,Heirloom Cacao Preservation (Manoa),"Maunawili, O'ahu, Agri Research C., 2015",1744,2016,72.0,United States,3.5,Missing,United States,Average,11.0
+840,Heirloom Cacao Preservation (Millcreek),"Los Rios, Hacienda Limon, Orecao, 2015",1744,2016,70.0,United States,3.5,EET,Ecuador,Average,11.0
+841,Heirloom Cacao Preservation (Mindo),"Pinchincha, Mindo, Coop Nueva Esper., 2015",1748,2016,77.0,United States,3.5,EET,Ecuador,Average,11.0
+842,Heirloom Cacao Preservation (Zokoko),"Alto Beni, Upper Rio Beni, 2015",1744,2016,68.0,United States,3.75,Amazon,Bolivia,Above Average,11.0
+843,Heirloom Cacao Preservation (Zokoko),"Alto Beni, Upper Rio Beni, 2015",1744,2016,68.0,United States,3.75,ICS,Bolivia,Above Average,11.0
+844,Heirloom Cacao Preservation (Zokoko),"Wild Beni, Lower Rio Beni, Tranquilidad, 2015",1744,2016,72.0,United States,4.0,Beniano,Bolivia,Above Average,11.0
+845,hello cocoa,Uganda,1458,2015,57.0,United States,2.75,Forastero,Uganda,Below Average,10.0
+846,hello cocoa,Venezuela,1462,2015,74.0,United States,3.5,Criollo,Venezuela,Average,10.0
+847,hexx,Tanzania,1546,2015,70.0,United States,2.75,Missing,Tanzania,Below Average,10.0
+848,hexx,Madagascar,1546,2015,74.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+849,hexx,Venezuela,1546,2015,70.0,United States,3.0,Missing,Venezuela,Average,10.0
+850,hexx,Ecuador,1550,2015,73.0,United States,3.25,Missing,Ecuador,Average,10.0
+851,hexx,Peru,1550,2015,70.0,United States,3.25,Missing,Peru,Average,10.0
+852,Hogarth,Akesson's Estate,1712,2016,70.0,New Zealand,2.75,Trinitario,Madagascar,Below Average,11.0
+853,Hogarth,Carenero Superior,1712,2016,72.0,New Zealand,2.75,Trinitario,Venezuela,Below Average,11.0
+854,Hogarth,Conacado,1712,2016,75.0,New Zealand,3.25,Trinitario,Dominican Republic,Average,11.0
+855,Hogarth,Gran Blanco,1712,2016,66.0,New Zealand,3.5,Criollo,Peru,Average,11.0
+856,Hoja Verde (Tulicorp),Arriba,414,2009,80.0,Ecuador,2.0,Forastero (Arriba) ASS,Ecuador,Below Average,4.0
+857,Hoja Verde (Tulicorp),Manabi,414,2009,80.0,Ecuador,2.5,Forastero (Arriba) ASS,Ecuador,Below Average,4.0
+858,Hoja Verde (Tulicorp),Arriba,414,2009,72.0,Ecuador,3.0,Forastero (Arriba) ASS,Ecuador,Average,4.0
+859,Hoja Verde (Tulicorp),Arriba,414,2009,58.0,Ecuador,3.25,Forastero (Arriba) ASS,Ecuador,Average,4.0
+860,Hoja Verde (Tulicorp),Manabi,414,2009,58.0,Ecuador,3.5,Forastero (Arriba) ASS,Ecuador,Average,4.0
+861,Holy Cacao,Maranon,1872,2016,70.0,Israel,2.75,Missing,Peru,Below Average,11.0
+862,Holy Cacao,"Camino Verde P., Balao, Guayas",1466,2015,70.0,Israel,3.5,Missing,Ecuador,Average,10.0
+863,Holy Cacao,Sambirano,1466,2015,70.0,Israel,3.5,Trinitario,Madagascar,Average,10.0
+864,Holy Cacao,Gran Couva,1466,2015,70.0,Israel,3.5,Trinitario,Trinidad,Average,10.0
+865,Holy Cacao,Mara,1466,2015,70.0,Israel,3.5,Missing,Venezuela,Average,10.0
+866,Holy Cacao,Ivory Coast,431,2009,70.0,Israel,2.5,Missing,Ivory Coast,Below Average,4.0
+867,Holy Cacao,Hispaniola,431,2009,70.0,Israel,2.75,Missing,Dominican Republic,Below Average,4.0
+868,Holy Cacao,San Martin,431,2009,70.0,Israel,3.5,Missing,Peru,Average,4.0
+869,Holy Cacao,Hispaniola w/ nibs,431,2009,75.0,Israel,3.75,Missing,Dominican Republic,Above Average,4.0
+870,Honest,"Ecuador, w/ nibs",1327,2014,72.0,South Africa,2.5,Missing,Ecuador,Below Average,9.0
+871,Hotel Chocolat,"Pepiniere, single Cote",1654,2015,70.0,United Kingdom,2.75,Missing,St. Lucia,Below Average,10.0
+872,Hotel Chocolat,"Marcial, single Cote, 2012",1030,2013,70.0,United Kingdom,4.0,Trinitario,St. Lucia,Above Average,8.0
+873,Hotel Chocolat,"Island Growers, 2012, 120hr c.",1113,2013,100.0,United Kingdom,1.75,Trinitario,St. Lucia,Below Average,8.0
+874,Hotel Chocolat (Coppeneur),Trinidad,1038,2013,75.0,United Kingdom,3.0,Trinitario,Trinidad,Average,8.0
+875,Hotel Chocolat (Coppeneur),Mekong Delta & Dong Nai,1038,2013,80.0,United Kingdom,3.5,Trinitario,Vietnam,Average,8.0
+876,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara",1065,2013,90.0,United Kingdom,3.0,Forastero (Nacional),Ecuador,Average,8.0
+877,Hotel Chocolat (Coppeneur),"Somia Plantation, Akesson, 2012",1065,2013,72.0,United Kingdom,3.0,Trinitario,Madagascar,Average,8.0
+878,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012",1065,2013,82.0,United Kingdom,3.5,Forastero (Nacional),Ecuador,Average,8.0
+879,Hotel Chocolat (Coppeneur),"Chanchamayo, Pichanadi, 2012, 60hr c.",1109,2013,100.0,United Kingdom,2.75,Missing,Peru,Below Average,8.0
+880,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 2012, 120hr c.",1113,2013,100.0,United Kingdom,2.5,Forastero (Nacional),Ecuador,Below Average,8.0
+881,Hotel Chocolat (Coppeneur),"Conacado, 2012, 120hr c.",1113,2013,100.0,United Kingdom,2.75,Missing,Dominican Republic,Below Average,8.0
+882,Hotel Chocolat (Coppeneur),Sambirano,809,2012,66.0,United Kingdom,3.5,Trinitario,Madagascar,Average,7.0
+883,Hotel Chocolat (Coppeneur),Sambirano,809,2012,66.0,United Kingdom,3.5,Criollo,Madagascar,Average,7.0
+884,Hotel Chocolat (Coppeneur),"Los Rios, H. Iara, 96hr c.",623,2011,80.0,United Kingdom,3.0,Forastero (Nacional),Ecuador,Average,6.0
+885,Hotel Chocolat (Coppeneur),"Island Growers, 120hr c.",623,2011,65.0,United Kingdom,3.0,Trinitario,St. Lucia,Average,6.0
+886,Hotel Chocolat (Coppeneur),"Island Growers, 96hr c.",623,2011,65.0,United Kingdom,3.25,Trinitario,St. Lucia,Average,6.0
+887,Hotel Chocolat (Coppeneur),Ecuador,552,2010,70.0,United Kingdom,2.75,Missing,Ecuador,Below Average,5.0
+888,Hotel Chocolat (Coppeneur),Santo Domingo,552,2010,70.0,United Kingdom,3.0,Missing,Dominican Republic,Average,5.0
+889,Hotel Chocolat (Coppeneur),Chuao,600,2010,70.0,United Kingdom,2.75,Trinitario,Venezuela,Below Average,5.0
+890,Hotel Chocolat (Coppeneur),St. Lucia,245,2008,72.0,United Kingdom,3.0,Missing,St. Lucia,Average,3.0
+891,Hotel Chocolat (Coppeneur),Uganda,296,2008,80.0,United Kingdom,2.5,Forastero,Uganda,Below Average,3.0
+892,Hotel Chocolat (Coppeneur),Tanzania,296,2008,75.0,United Kingdom,2.75,Missing,Tanzania,Below Average,3.0
+893,Hotel Chocolat (Coppeneur),Uba Budo,300,2008,72.0,United Kingdom,3.0,Forastero,Sao Tome,Average,3.0
+894,Hummingbird,Lam Dong,1542,2015,70.0,Canada,3.5,Trinitario,Vietnam,Average,10.0
+895,Hummingbird,Bolivia,1307,2014,70.0,Canada,3.0,Criollo,Bolivia,Average,9.0
+896,Hummingbird,Bolivia,1307,2014,70.0,Canada,3.0,Trinitario,Bolivia,Average,9.0
+897,Hummingbird,"Bolivia, Bo-nib-ia, w/ nibs",1311,2014,70.0,Canada,3.0,Criollo,Bolivia,Average,9.0
+898,Hummingbird,"Bolivia, Bo-nib-ia, w/ nibs",1311,2014,70.0,Canada,3.0,Trinitario,Bolivia,Average,9.0
+899,Hummingbird,Momotombo,1311,2014,70.0,Canada,3.0,Trinitario,Nicaragua,Average,9.0
+900,Hummingbird,Hispaniola,1311,2014,70.0,Canada,3.75,Trinitario,Dominican Republic,Above Average,9.0
+901,Hummingbird,Zorzal Reserva w/ Charles Kerchner,1387,2014,70.0,Canada,3.5,Missing,Dominican Republic,Average,9.0
+902,Hummingbird,"Ocumare, Cumboto",1097,2013,70.0,Canada,3.25,Trinitario,Venezuela,Average,8.0
+903,Hummingbird,"Ocumare, Cumboto",1097,2013,70.0,Canada,3.25,Criollo,Venezuela,Average,8.0
+904,Hummingbird,Amazonas,1097,2013,70.0,Canada,3.75,Forastero,Venezuela,Above Average,8.0
+905,Idilio (Felchlin),"Chuao, Venezuela",1085,2013,72.0,Switzerland,3.75,Trinitario,Venezuela,Above Average,8.0
+906,Idilio (Felchlin),Coopertiva Amazona,725,2011,72.0,Switzerland,3.75,Criollo,Venezuela,Above Average,6.0
+907,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, 48hr c.",725,2011,72.0,Switzerland,3.75,Missing,Venezuela,Above Average,6.0
+908,Idilio (Felchlin),"Choroni, Finca Torres, 48hr c.",729,2011,72.0,Switzerland,3.25,Criollo,Venezuela,Average,6.0
+909,Idilio (Felchlin),"Ocumare, H. Cata, 48hr c.",733,2011,72.0,Switzerland,3.75,Criollo,Venezuela,Above Average,6.0
+910,Idilio (Felchlin),"Porcelana, Zulia",733,2011,74.0,Switzerland,4.0,Criollo,Venezuela,Above Average,6.0
+911,Idilio (Felchlin),"Ocumare, H. Cata, w/ nibs",737,2011,72.0,Switzerland,3.5,Criollo,Venezuela,Average,6.0
+912,Idilio (Felchlin),"Carenero Superior, Urrutia, Barlovento",737,2011,70.0,Switzerland,4.0,Trinitario,Venezuela,Above Average,6.0
+913,Idilio (Felchlin),Coopertiva Amazona w/ nibs,737,2011,72.0,Switzerland,4.0,Criollo,Venezuela,Above Average,6.0
+914,Idilio (Felchlin),"Sur del Lago, Amiari Meridena, Zulia, w/ nibs",737,2011,72.0,Switzerland,4.0,Missing,Venezuela,Above Average,6.0
+915,Indah,India (south),1788,2016,61.0,India,2.5,Missing,India,Below Average,11.0
+916,Indaphoria,La Red,821,2012,70.0,United States,3.25,Missing,Dominican Republic,Average,7.0
+917,Indaphoria,"Conacado, Manifesto",907,2012,70.0,United States,2.75,Missing,Dominican Republic,Below Average,7.0
+918,Indi,Honduras,1255,2014,77.0,United States,3.0,Missing,Honduras,Average,9.0
+919,iQ Chocolate,"Satipo region, white label",943,2012,72.0,Scotland,2.75,Criollo,Peru,Below Average,7.0
+920,iQ Chocolate,black label,943,2012,72.0,Scotland,3.0,Missing,Peru,Average,7.0
+921,Isidro,Madagascar,1275,2014,72.0,United States,3.5,Trinitario,Madagascar,Average,9.0
+922,Isidro,Peru,1279,2014,72.0,United States,2.25,Missing,Peru,Below Average,9.0
+923,Isidro,Belize,1279,2014,72.0,United States,3.25,Trinitario,Belize,Average,9.0
+924,Isidro,Dominican Republic,1279,2014,72.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+925,Izard,"Maya Mountain, Toledo, Batch 29",1542,2015,70.0,United States,3.5,Trinitario,Belize,Average,10.0
+926,Izard,"Elvesia P., Batch 32",1546,2015,70.0,United States,2.75,Missing,Dominican Republic,Below Average,10.0
+927,Jacque Torres,Trinatario Treasure,5,2006,71.0,United States,2.0,Trinitario,Ghana,Below Average,1.0
+928,Jordis,Madagascar,1534,2015,63.0,Czech Republic,2.75,Trinitario,Madagascar,Below Average,10.0
+929,Just Good Chocolate,Belize,1375,2014,70.0,United States,3.5,Trinitario,Belize,Average,9.0
+930,Just Good Chocolate,Madagascar,1375,2014,70.0,United States,3.5,Trinitario,Madagascar,Average,9.0
+931,Just Good Chocolate,Peru,1375,2014,70.0,United States,4.0,Missing,Peru,Above Average,9.0
+932,Kah Kow,"Rizek Cacao, Cibao Valley, Domin. Rep.",1061,2013,70.0,Dominican Republic,3.5,Missing,Dominican Republic,Average,8.0
+933,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,82.0,Dominican Republic,3.0,Missing,Dominican Republic,Average,8.0
+934,Kah Kow,"Rizek Cacao, Domin. Rep.",1069,2013,55.0,Dominican Republic,3.25,Missing,Dominican Republic,Average,8.0
+935,Kah Kow,"Rizek Cacao, Domin. Rep.",1073,2013,62.0,Dominican Republic,3.25,Missing,Dominican Republic,Average,8.0
+936,Kakao,Peru,837,2012,64.0,Germany,2.5,Missing,Peru,Below Average,7.0
+937,Kakao,Vanuatu,387,2009,65.0,Germany,3.75,Trinitario,Vanuatu,Above Average,4.0
+938,Kallari (Ecuatoriana),Sisa 36hr/ W. F. blend prototype,241,2008,70.0,Ecuador,3.0,Missing,Ecuador,Average,3.0
+939,Kallari (Ecuatoriana),Sisa's Secret/ original micro,241,2008,70.0,Ecuador,3.5,Missing,Ecuador,Average,3.0
+940,Kallari (Ecuatoriana),Roberto,245,2008,75.0,Ecuador,2.75,Missing,Ecuador,Below Average,3.0
+941,Kallari (Ecuatoriana),Diego/ original micro,248,2008,85.0,Ecuador,2.5,Missing,Ecuador,Below Average,3.0
+942,Kallari (Ecuatoriana),Diego 48hr/ W.F. blend prototype,248,2008,85.0,Ecuador,2.75,Missing,Ecuador,Below Average,3.0
+943,Kallari (Ecuatoriana),Diego 60hr/ W.F. blend prototype,248,2008,85.0,Ecuador,3.0,Missing,Ecuador,Average,3.0
+944,Kallari (Ecuatoriana),Cacao Nacional W.F.,263,2008,75.0,Ecuador,2.5,Missing,Ecuador,Below Average,3.0
+945,Kallari (Ecuatoriana),Cacao Nacional W.F.,269,2008,85.0,Ecuador,3.0,Missing,Ecuador,Average,3.0
+946,Kaoka (Cemoi),Noir,404,2009,70.0,France,2.75,Missing,Missing,Below Average,4.0
+947,Kaoka (Cemoi),Ecuador,423,2009,80.0,France,2.75,Missing,Ecuador,Below Average,4.0
+948,Kerchner,"La Red, Project Reserva, Guaconejo",1133,2013,70.0,United States,3.75,Missing,Dominican Republic,Above Average,8.0
+949,Ki' Xocolatl,Dark,431,2009,72.0,Mexico,2.0,Missing,Mexico,Below Average,4.0
+950,Kiskadee,"La Red, Guanconjeco",1251,2014,60.0,United States,3.0,Trinitario,Dominican Republic,Average,9.0
+951,Kto,San Martin,1422,2014,72.0,United States,2.5,Missing,Peru,Below Average,9.0
+952,Kto,Ocumare,1422,2014,72.0,United States,2.75,Missing,Venezuela,Below Average,9.0
+953,Kto,Belize,1422,2014,72.0,United States,3.0,Trinitario,Belize,Average,9.0
+954,Kto,Sambirano Valley,1422,2014,72.0,United States,3.25,Trinitario,Madagascar,Average,9.0
+955,Kto,Belize,1426,2014,90.0,United States,3.25,Trinitario,Belize,Average,9.0
+956,Kto,Elvesia,1426,2014,72.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+957,Kto,ROIG,1426,2014,72.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+958,K'ul,"Kafupbo, Petit Bourg, De Borgnes",1840,2016,70.0,United States,3.25,Missing,Haiti,Average,11.0
+959,K'ul,"Maranon, Fortunato No. 4",1852,2016,70.0,United States,2.75,Forastero (Nacional),Peru,Below Average,11.0
+960,K'ul,"Los Rios, Hacienda Limon, Heirloom",1852,2016,70.0,United States,3.75,Missing,Ecuador,Above Average,11.0
+961,K'ul,"Bahia, Fazenda Camboa",1852,2016,70.0,United States,3.75,Forastero,Brazil,Above Average,11.0
+962,Kyya,Uganda,1359,2014,72.5,United States,2.5,Forastero,Uganda,Below Average,9.0
+963,Kyya,Hispaniola,1359,2014,72.5,United States,3.0,Missing,Dominican Republic,Average,9.0
+964,Kyya,Ecuador,1363,2014,72.5,United States,2.5,Missing,Ecuador,Below Average,9.0
+965,Kyya,Madagascar,1363,2014,72.5,United States,3.0,Trinitario,Madagascar,Average,9.0
+966,L.A. Burdick (Felchlin),Peru,891,2012,74.0,United States,3.25,Missing,Peru,Average,7.0
+967,L.A. Burdick (Felchlin),Brazil,891,2012,70.0,United States,4.0,Missing,Brazil,Above Average,7.0
+968,L.A. Burdick (Felchlin),Chuao,927,2012,68.0,United States,3.75,Trinitario,Venezuela,Above Average,7.0
+969,L.A. Burdick (Felchlin),Quito,682,2011,74.0,United States,3.75,Missing,Ecuador,Above Average,6.0
+970,L.A. Burdick (Felchlin),Grenada,576,2010,75.0,United States,3.25,Trinitario,Grenada,Average,5.0
+971,L.A. Burdick (Felchlin),Dominican Republic,576,2010,74.0,United States,3.75,Missing,Dominican Republic,Above Average,5.0
+972,L.A. Burdick (Felchlin),Venzuela,597,2010,71.0,United States,3.0,Missing,Venezuela,Average,5.0
+973,L.A. Burdick (Felchlin),Madagascar,431,2009,64.0,United States,3.5,Trinitario,Madagascar,Average,4.0
+974,L.A. Burdick (Felchlin),Bolivian,451,2009,68.0,United States,3.0,Missing,Bolivia,Average,4.0
+975,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,70.0,Japan,2.25,Trinitario,Peru,Below Average,11.0
+976,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 6, brown sugar",1892,2016,70.0,Japan,2.25,Criollo,Peru,Below Average,11.0
+977,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 7",1892,2016,70.0,Japan,2.5,Trinitario,Peru,Below Average,11.0
+978,La Chocolaterie Nanairo,"Lumas, 2015 Harvest, Batch 7",1892,2016,70.0,Japan,2.5,Criollo,Peru,Below Average,11.0
+979,La Chocolaterie Nanairo,"Tumbes, 2013 Harvest, Batch 8",1892,2016,70.0,Japan,3.0,Criollo,Peru,Average,11.0
+980,La Chocolaterie Nanairo,"Belize, 2014 Harvest, Batch 9",1892,2016,70.0,Japan,3.0,Trinitario,Belize,Average,11.0
+981,La Chocolaterie Nanairo,"Belize, 2014 Harvest, Batch 9",1892,2016,70.0,Japan,3.0,Criollo,Belize,Average,11.0
+982,La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,74.0,France,2.75,Missing,Africa,Below Average,8.0
+983,La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,74.0,France,2.75,Missing,Carribean,Below Average,8.0
+984,La Maison du Chocolat (Valrhona),"Cuana, 2013",1121,2013,74.0,France,2.75,Missing,Central America,Below Average,8.0
+985,La Maison du Chocolat (Valrhona),Tobago,1145,2013,60.0,France,3.25,Missing,Tobago,Average,8.0
+986,La Maison du Chocolat (Valrhona),"Acarigua, w/ nibs",1189,2013,56.0,France,3.25,Missing,Ecuador,Average,8.0
+987,La Maison du Chocolat (Valrhona),Loma Sotavento,891,2012,66.0,France,3.5,Missing,Dominican Republic,Average,7.0
+988,La Maison du Chocolat (Valrhona),Grenada,741,2011,68.0,France,3.5,Trinitario,Grenada,Average,6.0
+989,La Maison du Chocolat (Valrhona),Akosombo,346,2009,68.0,France,3.25,Forastero,Ghana,Average,4.0
+990,La Maison du Chocolat (Valrhona),"Porcelana, Pariguan",346,2009,69.0,France,3.5,Criollo (Porcelana),Venezuela,Average,4.0
+991,La Maison du Chocolat (Valrhona),Kuruba,439,2009,60.0,France,3.0,Missing,Missing,Average,4.0
+992,La Maison du Chocolat (Valrhona),Orinoco,445,2009,60.0,France,3.75,Missing,Missing,Above Average,4.0
+993,La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,74.0,France,3.5,Blend,Venezuela,Average,3.0
+994,La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,74.0,France,3.5,Blend,Indonesia,Average,3.0
+995,La Maison du Chocolat (Valrhona),"Cuana, 2008",230,2008,74.0,France,3.5,Blend,Ecuador,Average,3.0
+996,La Oroquidea,Peruvian Amazon,721,2011,72.0,Peru,2.5,Missing,Peru,Below Average,6.0
+997,La Pepa de Oro,Vinces,713,2011,60.0,Ecuador,3.25,Missing,Ecuador,Average,6.0
+998,Laia aka Chat-Noir,"Madagascar, Batch 59/100",1590,2015,75.0,France,2.75,Trinitario,Madagascar,Below Average,10.0
+999,Laia aka Chat-Noir,"Vietnam, Batch 50/100",1590,2015,75.0,France,2.75,Trinitario,Vietnam,Below Average,10.0
+1000,Laia aka Chat-Noir,"Cuba, Batch 59/100",1590,2015,75.0,France,3.0,Missing,Cuba,Average,10.0
+1001,Laia aka Chat-Noir,"Peru, Batch 51/100",1590,2015,75.0,France,3.25,Missing,Peru,Average,10.0
+1002,Laia aka Chat-Noir,"Ivory Coast, Batch 56/100",1594,2015,75.0,France,3.0,Missing,Ivory Coast,Average,10.0
+1003,Laia aka Chat-Noir,"Sao Tome, Batch 151",1638,2015,75.0,France,3.5,Forastero,Sao Tome,Average,10.0
+1004,Laia aka Chat-Noir,"Bahia, Batch 148",1642,2015,75.0,France,3.25,Missing,Brazil,Average,10.0
+1005,Laia aka Chat-Noir,"Lam Dong, Batch 153",1642,2015,75.0,France,3.75,Trinitario,Vietnam,Above Average,10.0
+1006,Laia aka Chat-Noir,Cuba,1434,2014,70.0,France,2.75,Missing,Cuba,Below Average,9.0
+1007,Laia aka Chat-Noir,Trinidad-Tobago,1438,2014,68.0,France,2.75,Missing,Trinidad,Below Average,9.0
+1008,Laia aka Chat-Noir,Trinidad-Tobago,1438,2014,68.0,France,2.75,Missing,Tobago,Below Average,9.0
+1009,Lajedo do Ouro,Catongo,927,2012,70.0,Brazil,3.5,Forastero (Catongo),Brazil,Average,7.0
+1010,Lake Champlain (Callebaut),Tanzania,327,2009,75.0,United States,2.5,Missing,Tanzania,Below Average,4.0
+1011,L'Amourette,Rugoso,1784,2016,80.0,United States,3.5,Trinitario,Nicaragua,Average,11.0
+1012,L'Amourette,Carenero Superior,833,2012,75.0,United States,3.0,Trinitario,Venezuela,Average,7.0
+1013,L'Amourette,Rio Caribe,833,2012,75.0,United States,3.0,Trinitario,Venezuela,Average,7.0
+1014,L'Amourette,Blend,853,2012,72.0,United States,3.0,Criollo,Peru,Average,7.0
+1015,L'Amourette,Blend,853,2012,72.0,United States,3.0,Criollo,Ecuador,Average,7.0
+1016,L'Amourette,Blend,853,2012,72.0,United States,3.0,Criollo,Venezuela,Average,7.0
+1017,Letterpress,"La Masica, Batch 7, FHIA",1952,2017,70.0,United States,3.5,Missing,Honduras,Average,12.0
+1018,Letterpress,"Maya Mtn, Batch 18, Heirloom",1952,2017,70.0,United States,3.25,Missing,Belize,Average,12.0
+1019,Letterpress,Liberia,1728,2016,70.0,United States,3.25,Missing,Liberia,Average,11.0
+1020,Letterpress,Beniamo,1562,2015,70.0,United States,3.25,Missing,Bolivia,Average,10.0
+1021,Letterpress,"San Juan Estate, Gran Couva",1562,2015,70.0,United States,3.5,Trinitario,Trinidad,Average,10.0
+1022,Letterpress,San Andres,1566,2015,70.0,United States,3.0,Missing,Costa Rica,Average,10.0
+1023,Letterpress,"La Red, Guaconejo",1566,2015,70.0,United States,3.25,Missing,Dominican Republic,Average,10.0
+1024,Letterpress,Kokoa Kamili,1566,2015,70.0,United States,3.5,Missing,Tanzania,Average,10.0
+1025,Letterpress,Maranura,1371,2014,70.0,United States,3.5,Forastero (Nacional),Peru,Average,9.0
+1026,Levy,Sambirano,1231,2014,71.0,Finland,3.5,Criollo,Madagascar,Average,9.0
+1027,Lilla,Madagascar,1856,2016,70.0,Finland,3.0,Trinitario,Madagascar,Average,11.0
+1028,Lillie Belle,Perfect Illusion,855,2012,65.0,United States,3.5,Criollo,Peru,Average,7.0
+1029,Lillie Belle,"Bolivia, Wild Thing",903,2012,68.0,United States,3.5,Criollo,Bolivia,Average,7.0
+1030,Lillie Belle,La Selva,903,2012,68.0,United States,3.75,Missing,Peru,Above Average,7.0
+1031,Lillie Belle,Purple Haze,947,2012,75.0,United States,2.75,Missing,Venezuela,Below Average,7.0
+1032,Lillie Belle,Purple Haze,947,2012,75.0,United States,2.75,Missing,Dominican Republic,Below Average,7.0
+1033,Lillie Belle,"The Other One, Grand Cru",947,2012,74.0,United States,3.0,Missing,Dominican Republic,Average,7.0
+1034,Lillie Belle,Wild Thing,947,2012,68.0,United States,3.5,Criollo,Bolivia,Average,7.0
+1035,Lindt & Sprungli,Excellence (US Version),157,2007,85.0,Switzerland,3.0,Missing,Missing,Average,2.0
+1036,Loiza,Puerto Rico,1049,2013,65.0,Puerto Rico,2.5,Missing,Puerto Rico,Below Average,8.0
+1037,Lonohana,"Haleiwa, O'ahu; Lonohana E., Kanahiku",1383,2014,70.0,United States,3.75,Missing,United States,Above Average,9.0
+1038,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,65.0,United States,3.25,Missing,United States,Average,9.0
+1039,Lonohana,"Haleiwa E, O'ahu, 2014",1395,2014,75.0,United States,3.75,Missing,United States,Above Average,9.0
+1040,Lonohana,"Opaeula Estate, O'ahu, Nene, CG Exclusive",1093,2013,71.0,United States,3.0,Missing,United States,Average,8.0
+1041,Lonohana,"Opaeula Estate, O'ahu, Ele'ele",1097,2013,72.0,United States,3.0,Missing,United States,Average,8.0
+1042,Lonohana,"Hawaiian Crown, Kona Vanilla",1097,2013,70.0,United States,3.5,Missing,United States,Average,8.0
+1043,Love Bar,Nicaragua,1502,2015,75.0,United States,2.0,Missing,Nicaragua,Below Average,10.0
+1044,Luker,Selva,552,2010,46.0,Colombia,2.75,Missing,Colombia,Below Average,5.0
+1045,Luker,Selva,552,2010,46.0,Colombia,2.75,Missing,Ecuador,Below Average,5.0
+1046,Luker,Macondo,552,2010,60.0,Colombia,3.0,Missing,Colombia,Average,5.0
+1047,Luker,Macondo,552,2010,60.0,Colombia,3.0,Missing,Ecuador,Average,5.0
+1048,Luker,Misterio,552,2010,58.0,Colombia,3.0,Missing,Colombia,Average,5.0
+1049,Luker,Misterio,552,2010,58.0,Colombia,3.0,Missing,Ecuador,Average,5.0
+1050,Luker,Santander,552,2010,65.0,Colombia,3.5,Missing,Colombia,Average,5.0
+1051,Machu Picchu Trading Co.,Peru,721,2011,70.0,Peru,1.5,Missing,Peru,Below Average,6.0
+1052,Machu Picchu Trading Co.,Peru,552,2010,55.0,Peru,2.25,Missing,Peru,Below Average,5.0
+1053,Madecasse (Cinagra),Madagascar,284,2008,67.0,Madagascar,3.5,Trinitario,Madagascar,Average,3.0
+1054,Madecasse (Cinagra),Madagascar,284,2008,70.0,Madagascar,3.75,Trinitario,Madagascar,Above Average,3.0
+1055,Madecasse (Cinagra),Madagascar,284,2008,63.0,Madagascar,4.0,Trinitario,Madagascar,Above Average,3.0
+1056,Madecasse (Cinagra),Madagascar,288,2008,75.0,Madagascar,3.5,Trinitario,Madagascar,Average,3.0
+1057,Madre,Guadalcanal,1940,2017,73.0,United States,3.5,Missing,Solomon Islands,Average,12.0
+1058,Madre,Puerto Rico,1085,2013,70.0,United States,2.75,Missing,Puerto Rico,Below Average,8.0
+1059,Madre,Brazil,1085,2013,70.0,United States,3.5,Missing,Brazil,Average,8.0
+1060,Madre,"Choobua, Kona",1089,2013,70.0,United States,2.75,Missing,United States,Below Average,8.0
+1061,Madre,"Xocunusco, Chiapas, Pichucalco",1089,2013,70.0,United States,2.75,Missing,Mexico,Below Average,8.0
+1062,Madre,"Hamakua Coast, Kokoleka",991,2012,70.0,United States,3.25,Missing,United States,Average,7.0
+1063,Madre,"Criollo, Hawaii",995,2012,70.0,United States,3.25,Criollo,United States,Average,7.0
+1064,Madre,Kaua'i,995,2012,70.0,United States,3.5,Missing,United States,Average,7.0
+1065,Madre,Dominican,672,2011,70.0,United States,2.5,Missing,Dominican Republic,Below Average,6.0
+1066,Madre,Upala,693,2011,70.0,United States,2.75,Missing,Costa Rica,Below Average,6.0
+1067,Madre,"Chiapas, Triple Cacao",607,2010,72.0,United States,2.75,Missing,Mexico,Below Average,5.0
+1068,Maglio,Africa,300,2008,75.0,Italy,2.0,Missing,Tanzania,Below Average,3.0
+1069,Maglio,Ecuador,308,2008,70.0,Italy,3.0,Forastero (Nacional),Ecuador,Average,3.0
+1070,Maglio,Cuba,308,2008,70.0,Italy,3.25,Criollo,Cuba,Average,3.0
+1071,Maglio,Santo Domingo,308,2008,70.0,Italy,3.75,Blend-Forastero,Dominican Republic,Above Average,3.0
+1072,Maglio,Santo Domingo,308,2008,70.0,Italy,3.75,Criollo,Dominican Republic,Above Average,3.0
+1073,Majani,Ecuador,531,2010,70.0,Italy,2.0,Missing,Ecuador,Below Average,5.0
+1074,Malagasy (Chocolaterie Robert),Sambirano 2006,184,2007,75.0,Madagascar,2.75,Trinitario,Madagascar,Below Average,2.0
+1075,Malagasy (Chocolaterie Robert),Mora Mora 2006,184,2007,73.0,Madagascar,3.5,Trinitario,Madagascar,Average,2.0
+1076,Malagos,"Davao, Mt. Talamo foothills",1121,2013,65.0,Philippines,3.5,Trinitario,Philippines,Average,8.0
+1077,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate w/ nibs",502,2010,55.0,United States,3.5,Missing,United States,Average,5.0
+1078,Malie Kai (Guittard),"O'ahu, N. Shore, Waialua Estate",311,2009,55.0,United States,2.75,Blend,United States,Below Average,4.0
+1079,Malmo,Chuao,1856,2016,70.0,Sweden,3.0,Missing,Venezuela,Average,11.0
+1080,Mana,Ecuador,1446,2015,74.0,United States,2.5,Missing,Ecuador,Below Average,10.0
+1081,Mana,Peru,1219,2014,74.0,United States,2.5,Missing,Peru,Below Average,9.0
+1082,Mana,Venezuela,1219,2014,74.0,United States,2.75,Missing,Venezuela,Below Average,9.0
+1083,Mana,Conacado,821,2012,74.0,United States,3.75,Missing,Dominican Republic,Above Average,7.0
+1084,Manifesto Cacao,Colombia,1331,2014,70.0,Colombia,2.75,Missing,Colombia,Below Average,9.0
+1085,Manoa,Markham Valley,1522,2015,72.0,United States,3.5,Missing,Papua New Guinea,Average,10.0
+1086,Manoa,Coto Brus,1522,2015,72.0,United States,3.75,Missing,Costa Rica,Above Average,10.0
+1087,Manoa,"Waiahole, O'ahu",1089,2013,72.0,United States,3.75,Missing,United States,Above Average,8.0
+1088,Manoa,"Liberia, #174",1003,2012,72.0,United States,3.25,Missing,Liberia,Average,7.0
+1089,Manoa,"Hamakua, Hawaiian Crown, #176",1007,2012,72.0,United States,2.75,Missing,United States,Below Average,7.0
+1090,Manoa,Piura,1007,2012,72.0,United States,3.0,Missing,Peru,Average,7.0
+1091,Manoa,"Oahu, Winward, #151, Maunawili district",1007,2012,72.0,United States,3.25,Missing,United States,Average,7.0
+1092,Manufaktura Czekolady,Johe,1844,2016,70.0,Poland,3.75,Missing,Nicaragua,Above Average,11.0
+1093,Manufaktura Czekolady,Peru,1848,2016,70.0,Poland,3.5,Missing,Peru,Average,11.0
+1094,Manufaktura Czekolady,Porcelana,1255,2014,70.0,Poland,3.75,Criollo,Venezuela,Above Average,9.0
+1095,Manufaktura Czekolady,Kolumbia,1279,2014,85.0,Poland,3.5,Missing,Colombia,Average,9.0
+1096,Manufaktura Czekolady,Grand Cru Dominican Republic,871,2012,70.0,Poland,3.25,Missing,Dominican Republic,Average,7.0
+1097,Manufaktura Czekolady,Grand Cru Ghana,871,2012,70.0,Poland,3.5,Forastero,Ghana,Average,7.0
+1098,Manufaktura Czekolady,Grand Cru Ecuador,875,2012,70.0,Poland,3.25,Missing,Ecuador,Average,7.0
+1099,Map Chocolate,"Ben Tre, Surprise Valley",1896,2016,75.0,United States,3.25,Trinitario,Vietnam,Average,11.0
+1100,Map Chocolate,"ROIG, 2014",1474,2015,70.0,United States,3.5,Criollo,Dominican Republic,Average,10.0
+1101,Map Chocolate,"ROIG, 2014",1474,2015,70.0,United States,3.5,Trinitario,Dominican Republic,Average,10.0
+1102,Map Chocolate,"Maranon, 2014",1474,2015,62.0,United States,3.5,Forastero (Nacional),Peru,Average,10.0
+1103,Map Chocolate,Ecuador,1478,2015,70.0,United States,3.5,Trinitario,Ecuador,Average,10.0
+1104,Map Chocolate,"San Juan Estate, Cherry Blossoms at Night",1606,2015,70.0,United States,2.75,Trinitario,Trinidad,Below Average,10.0
+1105,Map Chocolate,"A case of the Xerces Blues, triple roast",1606,2015,70.0,United States,3.5,Missing,Nicaragua,Average,10.0
+1106,Map Chocolate,"Tumbes, Dear Mr. Finley, 2014",1606,2015,68.0,United States,3.5,Criollo,Peru,Average,10.0
+1107,Map Chocolate,Colombia,1610,2015,75.0,United States,2.75,Missing,Colombia,Below Average,10.0
+1108,Map Chocolate,"Kakoa Kamili, Both Man & Bird & Beast",1610,2015,72.0,United States,3.0,Missing,Tanzania,Average,10.0
+1109,Map Chocolate,Le Chocolat Chaud,1634,2015,78.0,United States,3.5,Missing,Honduras,Average,10.0
+1110,Marana,Piura,1872,2016,70.0,Peru,3.0,Missing,Peru,Average,11.0
+1111,Marana,Cusco,1884,2016,70.0,Peru,2.75,Missing,Peru,Below Average,11.0
+1112,Marana,San Martin,1884,2016,70.0,Peru,3.0,Missing,Peru,Average,11.0
+1113,Marigold's Finest,Cacao Nib Crunch,1808,2016,75.0,Canada,3.25,Missing,Missing,Average,11.0
+1114,Marou,"Tan Phu Dong Island, Heart of Darkness",1650,2015,85.0,Vietnam,3.25,Trinitario,Vietnam,Average,10.0
+1115,Marou,Ben Tre,1650,2015,68.0,Vietnam,3.5,Trinitario,Vietnam,Average,10.0
+1116,Marou,"Dak Lak, Batch 2451",1650,2015,70.0,Vietnam,3.75,Trinitario,Vietnam,Above Average,10.0
+1117,Marou,"Tan Phu Dong, Treasure Island",1149,2013,75.0,Vietnam,3.5,Trinitario,Vietnam,Average,8.0
+1118,Marou,Ba Ria,845,2012,76.0,Vietnam,3.5,Trinitario,Vietnam,Average,7.0
+1119,Marou,Dong Nai,845,2012,72.0,Vietnam,3.5,Trinitario,Vietnam,Average,7.0
+1120,Marou,"Tien Giang, Gao Co-op",845,2012,70.0,Vietnam,3.5,Trinitario,Vietnam,Average,7.0
+1121,Marou,Ben Tre,849,2012,78.0,Vietnam,3.5,Trinitario,Vietnam,Average,7.0
+1122,Marou,Tien Giang,895,2012,80.0,Vietnam,3.0,Trinitario,Vietnam,Average,7.0
+1123,Marou,Lam Dong,955,2012,74.0,Vietnam,3.5,Trinitario,Vietnam,Average,7.0
+1124,Mars,"Matina 1-6, prototype",537,2010,65.0,United States,3.0,Missing,Costa Rica,Average,5.0
+1125,Mars,Ivory Coast,544,2010,65.0,United States,3.0,Missing,Ivory Coast,Average,5.0
+1126,Mars,Nigeria,544,2010,65.0,United States,3.25,Missing,Nigeria,Average,5.0
+1127,Mars,"Ghana, prototype",544,2010,65.0,United States,3.5,Forastero,Ghana,Average,5.0
+1128,Marsatta,Dominican Republic,1189,2013,74.0,United States,2.25,Missing,Dominican Republic,Below Average,8.0
+1129,Marsatta,Dominican Republic,1189,2013,89.0,United States,2.5,Missing,Dominican Republic,Below Average,8.0
+1130,Martin Mayer,Alto Beni,1836,2016,76.0,Austria,2.75,Missing,Bolivia,Below Average,11.0
+1131,Martin Mayer,Pisa,1836,2016,82.0,Austria,3.0,Missing,Haiti,Average,11.0
+1132,Martin Mayer,Tumaco,1836,2016,74.0,Austria,3.25,Missing,Colombia,Average,11.0
+1133,Mast Brothers,Guatemala,1450,2015,76.0,United States,3.0,Missing,Guatemala,Average,10.0
+1134,Mast Brothers,Tanzania,1450,2015,74.0,United States,3.25,Missing,Tanzania,Average,10.0
+1135,Mast Brothers,French Laundry 20th Anniversary,1359,2014,75.0,United States,3.75,Blend,Peru,Above Average,9.0
+1136,Mast Brothers,French Laundry 20th Anniversary,1359,2014,75.0,United States,3.75,Blend,Belize,Above Average,9.0
+1137,Mast Brothers,Shake Shack,959,2012,73.0,United States,3.5,Blend,Peru,Average,7.0
+1138,Mast Brothers,Shake Shack,959,2012,73.0,United States,3.5,Blend,Madagascar,Average,7.0
+1139,Mast Brothers,Shake Shack,959,2012,73.0,United States,3.5,Blend,Dominican Republic,Average,7.0
+1140,Mast Brothers,Chuao,999,2012,73.0,United States,2.75,Trinitario,Venezuela,Below Average,7.0
+1141,Mast Brothers,Brooklyn Blend,672,2011,72.0,United States,3.5,Missing,Missing,Average,6.0
+1142,Mast Brothers,"Chuao, Med. Roast",701,2011,76.0,United States,3.0,Trinitario,Venezuela,Average,6.0
+1143,Mast Brothers,"Chuao, Dark Roast",709,2011,70.0,United States,3.0,Trinitario,Venezuela,Average,6.0
+1144,Mast Brothers,"Chuao, Light Roast",713,2011,81.0,United States,2.75,Trinitario,Venezuela,Below Average,6.0
+1145,Mast Brothers,Moho River,773,2011,70.0,United States,3.5,Trinitario,Belize,Average,6.0
+1146,Mast Brothers,Papua New Guinea,777,2011,71.0,United States,2.75,Missing,Papua New Guinea,Below Average,6.0
+1147,Mast Brothers,San Martin,777,2011,75.0,United States,3.0,Missing,Peru,Average,6.0
+1148,Mast Brothers,Conacado,777,2011,73.0,United States,3.25,Missing,Dominican Republic,Average,6.0
+1149,Mast Brothers,"La Red de Guanconejo, N. Highlands coop",777,2011,74.0,United States,3.75,Missing,Dominican Republic,Above Average,6.0
+1150,Mast Brothers,Patanemo,572,2010,81.0,United States,2.75,Criollo,Venezuela,Below Average,5.0
+1151,Mast Brothers,Ocumare de la Costa,572,2010,75.0,United States,3.0,Missing,Venezuela,Average,5.0
+1152,Mast Brothers,"Dominican Republic, Coop",572,2010,70.0,United States,3.25,Missing,Dominican Republic,Average,5.0
+1153,Matale,"Malekula P., 2013",1177,2013,72.0,Australia,3.5,Trinitario,Vanuatu,Average,8.0
+1154,Matale,"Somia, 2013",1177,2013,68.0,Australia,4.0,Trinitario,Madagascar,Above Average,8.0
+1155,Matale,"Kulili P., 2013",1177,2013,74.0,Australia,4.0,Trinitario,Papua New Guinea,Above Average,8.0
+1156,Matale,Blend,1181,2013,70.0,Australia,3.75,Trinitario,Papua New Guinea,Above Average,8.0
+1157,Matale,Blend,1181,2013,70.0,Australia,3.75,Trinitario,Vanuatu,Above Average,8.0
+1158,Matale,Blend,1181,2013,70.0,Australia,3.75,Trinitario,Madagascar,Above Average,8.0
+1159,Maverick,Maya Mountain,1367,2014,70.0,United States,3.25,Trinitario,Belize,Average,9.0
+1160,Maverick,Elvesia,1367,2014,70.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+1161,Maverick,Tumbes,1430,2014,82.0,United States,3.25,Criollo,Peru,Average,9.0
+1162,Maverick,"Morropon, Norandiono Coop, Piura",1430,2014,63.0,United States,3.5,Criollo,Peru,Average,9.0
+1163,Mayacama,Hispaniola,1728,2016,72.0,United States,3.0,Missing,Dominican Republic,Average,11.0
+1164,Meadowlands,Bolivia,1287,2014,70.0,United States,2.5,Missing,Bolivia,Below Average,9.0
+1165,Meadowlands,Venezuela,1287,2014,70.0,United States,2.75,Missing,Venezuela,Below Average,9.0
+1166,Meadowlands,Belize,1287,2014,70.0,United States,3.0,Trinitario,Belize,Average,9.0
+1167,Meadowlands,"Nicaragua, w/ inbs",1291,2014,70.0,United States,3.0,Missing,Nicaragua,Average,9.0
+1168,Meadowlands,Dominican Republic,1291,2014,70.0,United States,3.5,Missing,Dominican Republic,Average,9.0
+1169,Menakao (aka Cinagra),Madagascar,837,2012,80.0,Madagascar,2.5,Trinitario,Madagascar,Below Average,7.0
+1170,Menakao (aka Cinagra),Madagascar,841,2012,72.0,Madagascar,2.5,Trinitario,Madagascar,Below Average,7.0
+1171,Mesocacao,El Salvador,1494,2015,80.0,Honduras,2.75,Missing,El Salvador,Below Average,10.0
+1172,Mesocacao,El Salvador,1494,2015,70.0,Honduras,3.0,Missing,El Salvador,Average,10.0
+1173,Mesocacao,Honduras,1347,2014,80.0,Honduras,3.25,Missing,Honduras,Average,9.0
+1174,Mesocacao,Honduras,1347,2014,70.0,Honduras,3.5,Missing,Honduras,Average,9.0
+1175,Mesocacao,"La Tronca, Matagalpa",1351,2014,70.0,Honduras,3.25,Missing,Nicaragua,Average,9.0
+1176,Mesocacao,"La Tronca, Matagalpa",1351,2014,80.0,Honduras,3.5,Missing,Nicaragua,Average,9.0
+1177,Metiisto,"Fazenda Sempre Firme P., Bahia",1267,2014,70.0,Sweden,3.0,Missing,Brazil,Average,9.0
+1178,Metiisto,Akesson Estate,1267,2014,72.0,Sweden,3.5,Trinitario,Madagascar,Average,9.0
+1179,Metropolitan,South America,1688,2015,70.0,Amsterdam,3.5,Trinitario,South America,Average,10.0
+1180,Michel Cluizel,"Chiapas, Mokaya P.",963,2012,66.0,France,3.75,Missing,Mexico,Above Average,7.0
+1181,Michel Cluizel,"Carenero Superior, Concepcion",117,2007,66.0,France,3.5,Trinitario,Venezuela,Average,2.0
+1182,Michel Cluizel,Vila Gracinda,135,2007,67.0,France,3.5,Forastero,Sao Tome,Average,2.0
+1183,Michel Cluizel,Carre Amer,24,2006,60.0,France,2.0,Missing,Missing,Below Average,1.0
+1184,Michel Cluizel,Carre Grand Noir,24,2006,85.0,France,2.0,Missing,Missing,Below Average,1.0
+1185,Michel Cluizel,Tamarina,24,2006,70.0,France,3.0,Forastero,Sao Tome,Average,1.0
+1186,Michel Cluizel,Los Ancones P.,24,2006,67.0,France,4.0,Missing,Dominican Republic,Above Average,1.0
+1187,Michel Cluizel,Mangaro P.,24,2006,65.0,France,4.0,Trinitario,Madagascar,Above Average,1.0
+1188,Michel Cluizel,Maralumi P.,24,2006,64.0,France,4.0,Missing,Papua New Guinea,Above Average,1.0
+1189,Michel Cluizel,Noir Infini,81,2006,99.0,France,2.0,Missing,Missing,Below Average,1.0
+1190,Middlebury,Maya Mountain,1490,2015,80.0,United States,3.5,Trinitario,Belize,Average,10.0
+1191,Middlebury,San Juan Estate,1490,2015,70.0,United States,3.5,Trinitario,Trinidad,Average,10.0
+1192,Middlebury,Oko Caribe,1490,2015,75.0,United States,3.75,Missing,Dominican Republic,Above Average,10.0
+1193,Middlebury,"Patanemo, Epoch, Donaldo",1490,2015,75.0,United States,3.75,Missing,Venezuela,Above Average,10.0
+1194,Middlebury,Kokoa Kamili,1538,2015,75.0,United States,3.25,Missing,Tanzania,Average,10.0
+1195,Middlebury,"Matagalpa, Cacao Bisiesto",1538,2015,70.0,United States,3.5,Missing,Nicaragua,Average,10.0
+1196,Middlebury,La Red,1117,2013,75.0,United States,2.5,Missing,Dominican Republic,Below Average,8.0
+1197,Middlebury,Belize,1117,2013,80.0,United States,3.25,Trinitario,Belize,Average,8.0
+1198,Middlebury,Houseblend,887,2012,65.0,United States,1.5,Missing,Missing,Below Average,7.0
+1199,Middlebury,Alto Beni,887,2012,75.0,United States,2.0,Criollo,Bolivia,Below Average,7.0
+1200,Middlebury,"Balinese, Java",887,2012,70.0,United States,2.5,Criollo,Indonesia,Below Average,7.0
+1201,Millcreek Cacao Roasters,Ecuador,1073,2013,70.0,United States,2.5,Forastero (Nacional),Ecuador,Below Average,8.0
+1202,Millcreek Cacao Roasters,Ecuador,825,2012,70.0,United States,3.5,Missing,Ecuador,Average,7.0
+1203,Mindo,Ecuador,607,2010,67.0,United States,2.75,Missing,Ecuador,Below Average,5.0
+1204,Mindo,Ecuador,607,2010,77.0,United States,2.75,Missing,Ecuador,Below Average,5.0
+1205,Minimal,"Acul-du-Nord, 2015",1920,2016,70.0,Japan,3.5,Criollo,Haiti,Average,11.0
+1206,Minimal,"Acul-du-Nord, 2015",1920,2016,70.0,Japan,3.5,Trinitario,Haiti,Average,11.0
+1207,Mission,"Fazenda Camboa, Bahia",1880,2016,75.0,Brazil,3.75,Missing,Brazil,Above Average,11.0
+1208,Mission,"Bahia, Fazenda Venturosa",1626,2015,70.0,Brazil,3.5,Forastero (Parazinho),Brazil,Average,10.0
+1209,Mita,Tumaco,955,2012,65.0,Colombia,2.5,Missing,Colombia,Below Average,7.0
+1210,Moho,"Toledo District, w/ nibs",1026,2013,73.0,United States,3.25,Trinitario,Belize,Average,8.0
+1211,Moho,Toledo District,1030,2013,72.0,United States,3.0,Trinitario,Belize,Average,8.0
+1212,Moho,"Umoho R., Toledo District, San Felipe",607,2010,67.0,United States,2.75,Trinitario,Belize,Below Average,5.0
+1213,Molucca,La Red,1614,2015,70.0,United States,3.0,Missing,Dominican Republic,Average,10.0
+1214,Molucca,Indonesia,1618,2015,70.0,United States,2.75,Missing,Indonesia,Below Average,10.0
+1215,Molucca,Peru,1618,2015,70.0,United States,3.25,Missing,Peru,Average,10.0
+1216,Momotombo,Matagalpa,661,2011,70.0,Nicaragua,2.75,Missing,Nicaragua,Below Average,6.0
+1217,Momotombo,Mombacho,661,2011,70.0,Nicaragua,2.75,Missing,Nicaragua,Below Average,6.0
+1218,Momotombo,Oscuro,772,2011,70.0,Nicaragua,3.25,Missing,Nicaragua,Average,6.0
+1219,Monarque,Oko Caribe,1812,2016,72.0,Canada,3.5,Missing,Dominican Republic,Average,11.0
+1220,Monsieur Truffe,Papaua New Guinea,1391,2014,70.0,Australia,3.25,Missing,Papua New Guinea,Average,9.0
+1221,Montecristi,Manabi,1654,2015,70.0,Ecuador,3.25,Missing,Ecuador,Average,10.0
+1222,Montecristi,Manabi,1654,2015,63.0,Ecuador,3.5,Missing,Ecuador,Average,10.0
+1223,Montecristi,Manabi,1658,2015,85.0,Ecuador,3.5,Missing,Ecuador,Average,10.0
+1224,Muchomas (Mesocacao),Nicaragua,1462,2015,70.0,United States,3.5,Missing,Nicaragua,Average,10.0
+1225,Muchomas (Mesocacao),Nicaragua,1462,2015,80.0,United States,3.5,Missing,Nicaragua,Average,10.0
+1226,Mutari,"Kokoa Kamili, batch 1 SRB",1896,2016,68.0,United States,2.75,Missing,Tanzania,Below Average,11.0
+1227,Mutari,"Oko Caribe, batch 1 SRB",1896,2016,71.0,United States,2.75,Missing,Dominican Republic,Below Average,11.0
+1228,Mutari,"Ambanja, batch 1 SRB",1900,2016,68.0,United States,2.75,Missing,Madagascar,Below Average,11.0
+1229,Mutari,"Tien Giang, batch 1 SRB",1900,2016,80.0,United States,3.0,Trinitario,Vietnam,Average,11.0
+1230,Nahua,"Costa Rica, Oscuro",1049,2013,58.0,Costa Rica,2.5,Missing,Costa Rica,Below Average,8.0
+1231,Nahua,"Costa Rica, Oscuro",1049,2013,70.0,Costa Rica,3.0,Missing,Costa Rica,Average,8.0
+1232,Naive,Trinidad & Tobago,1046,2013,70.0,Lithuania,3.75,Missing,Trinidad,Above Average,8.0
+1233,Naive,Trinidad & Tobago,1046,2013,70.0,Lithuania,3.75,Missing,Tobago,Above Average,8.0
+1234,Naive,"Maranon Canyon, Fortunato No. 4",1133,2013,78.0,Lithuania,3.75,Forastero (Nacional),Peru,Above Average,8.0
+1235,Naive,Grenada,867,2012,71.0,Lithuania,2.5,Trinitario,Grenada,Below Average,7.0
+1236,Na�ve,Nicaragua,1379,2014,70.0,Lithuania,3.25,Criollo,Nicaragua,Average,9.0
+1237,Na�ve,Chuao,1399,2014,75.0,Lithuania,2.75,Trinitario,Venezuela,Below Average,9.0
+1238,Na�ve,Barinas,1399,2014,70.0,Lithuania,3.0,Missing,Venezuela,Average,9.0
+1239,Nanea,Criollo Blend,1007,2013,85.0,United States,3.5,Missing,United States,Average,8.0
+1240,Nathan Miller,Peru,1403,2014,72.0,United States,2.25,Missing,Peru,Below Average,9.0
+1241,Nathan Miller,Hispaniola,1403,2014,70.0,United States,2.5,Missing,Dominican Republic,Below Average,9.0
+1242,Nathan Miller,Madagascar,1403,2014,73.5,United States,2.5,Trinitario,Madagascar,Below Average,9.0
+1243,Nathan Miller,Ghana,1403,2014,70.0,United States,3.5,Forastero,Ghana,Average,9.0
+1244,Neuhaus (Callebaut),Papua New Guinea,531,2010,70.0,Belgium,2.5,Criollo,Papua New Guinea,Below Average,5.0
+1245,Neuhaus (Callebaut),Manickchand Estate,230,2008,67.0,Belgium,3.75,Trinitario,Trinidad,Above Average,3.0
+1246,Neuhaus (Callebaut),Dark,135,2007,73.0,Belgium,1.0,Missing,Missing,Below Average,2.0
+1247,Neuhaus (Callebaut),West Africa,15,2006,73.0,Belgium,2.0,Forastero,West Africa,Below Average,1.0
+1248,Neuhaus (Callebaut),Sao Tome,15,2006,75.0,Belgium,2.75,Forastero,Sao Tome,Below Average,1.0
+1249,Neuhaus (Callebaut),Ocumare,24,2006,71.0,Belgium,3.0,Criollo,Venezuela,Average,1.0
+1250,Nibble,Patanemo,1526,2015,72.0,United States,2.25,Criollo,Venezuela,Below Average,10.0
+1251,Nibble,Elvesia P.,1526,2015,72.0,United States,2.75,Trinitario,Dominican Republic,Below Average,10.0
+1252,Nibble,"Ambanja, Sambirano Valley",1526,2015,72.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+1253,Nibble,Tumbes,1526,2015,72.0,United States,3.0,Criollo,Peru,Average,10.0
+1254,Night Owl,Peru,1022,2013,75.0,United States,2.75,Missing,Peru,Below Average,8.0
+1255,Night Owl,Ecuador,1022,2013,75.0,United States,3.5,Missing,Ecuador,Average,8.0
+1256,Noble Bean aka Jerjobo,Ghana,1295,2014,75.0,United States,3.0,Forastero,Ghana,Average,9.0
+1257,Noble Bean aka Jerjobo,Moho Valley,1299,2014,75.0,United States,3.0,Trinitario,Belize,Average,9.0
+1258,Noble Bean aka Jerjobo,Maranon Canyon,1299,2014,75.0,United States,3.25,Forastero (Nacional),Peru,Average,9.0
+1259,Noir d' Ebine,Venezuela,837,2012,70.0,United States,3.0,Missing,Venezuela,Average,7.0
+1260,Noir d' Ebine,Ecuador,841,2012,70.0,United States,3.0,Missing,Ecuador,Average,7.0
+1261,Nova Monda,"La Patriota, cacao Indio, purple label",931,2012,70.0,Nicaragua,3.0,Missing,Nicaragua,Average,7.0
+1262,Nova Monda,"La Dalia, Matagalpa,cacao Bisesto,green label",935,2012,75.0,Niacragua,2.75,Missing,Nicaragua,Below Average,7.0
+1263,Nova Monda,"Punta Galera, cacao Nacional, gold label",935,2012,80.0,Nicaragua,3.25,Forastero (Nacional),Ecuador,Average,7.0
+1264,Nuance,"Ghana, 2013",1454,2015,70.0,United States,3.75,Forastero,Ghana,Above Average,10.0
+1265,Nuance,"Ecuador, 2013",1458,2015,70.0,United States,2.75,Trinitario,Ecuador,Below Average,10.0
+1266,Nuance,"Canoabo, 2013",1458,2015,70.0,United States,3.0,Criollo,Venezuela,Average,10.0
+1267,Nuance,"Sambirano Valley, 2012",1458,2015,70.0,United States,3.5,Trinitario,Madagascar,Average,10.0
+1268,Nuance,La Red,1470,2015,70.0,United States,3.75,Missing,Dominican Republic,Above Average,10.0
+1269,Nugali,Fazenda Leolinda,1876,2016,70.0,Brazil,3.5,Trinitario (Scavina),Brazil,Average,11.0
+1270,Oakland Chocolate Co.,Jamaica,478,2010,70.0,United States,2.5,Trinitario,Jamaica,Below Average,5.0
+1271,Obolo,Pangoa,1638,2015,70.0,Chile,3.75,Criollo,Peru,Above Average,10.0
+1272,Obolo,"Pangoa, w/ nibs",1638,2015,70.0,Chile,3.75,Criollo,Peru,Above Average,10.0
+1273,Ocelot,Virunga,1558,2015,70.0,Scotland,3.75,Forastero,Congo,Above Average,10.0
+1274,Ocelot,Piura,1558,2015,75.0,Scotland,4.0,Criollo,Peru,Above Average,10.0
+1275,Ocho,Sang Yum Coop,1760,2016,100.0,New Zealand,2.75,Missing,Samoa,Below Average,11.0
+1276,Ocho,Sang Yum Coop,1760,2016,70.0,New Zealand,3.5,Missing,Samoa,Average,11.0
+1277,Ocho,"PNG, Devotion",1411,2014,66.0,New Zealand,2.75,Missing,Papua New Guinea,Below Average,9.0
+1278,Ocho,"PNG, Revolution",1411,2014,70.0,New Zealand,3.0,Missing,Papua New Guinea,Average,9.0
+1279,Ocho,"PNG, Voodoo",1411,2014,88.0,New Zealand,3.25,Missing,Papua New Guinea,Average,9.0
+1280,Ocho,"PNG, Nib Bar",1411,2014,74.0,New Zealand,3.5,Missing,Papua New Guinea,Average,9.0
+1281,Ohiyo,"San Juan Estate, Gran Couva",1594,2015,70.0,United States,2.75,Trinitario,Trinidad,Below Average,10.0
+1282,Ohiyo,Tanzania,1598,2015,70.0,United States,3.0,Missing,Tanzania,Average,10.0
+1283,Oialla by Bojessen (Malmo),"Sylvestre, Oialla",761,2011,70.0,Germany,3.5,Criollo,Bolivia,Average,6.0
+1284,Olive and Sinclair,Dominican Republic prototype,486,2010,72.0,United States,3.0,Missing,Dominican Republic,Average,5.0
+1285,Olive and Sinclair,Ghana prototype,486,2010,72.0,United States,3.0,Forastero,Ghana,Average,5.0
+1286,Olive and Sinclair,Dark 67,457,2009,67.0,United States,2.75,Missing,Ghana,Below Average,4.0
+1287,Olive and Sinclair,Dark 67,457,2009,67.0,United States,2.75,Missing,Dominican Republic,Below Average,4.0
+1288,Olive and Sinclair,Dark 75,457,2009,75.0,United States,3.0,Missing,Ghana,Average,4.0
+1289,Olive and Sinclair,Dark 75,457,2009,75.0,United States,3.0,Missing,Dominican Republic,Average,4.0
+1290,Olivia,Carribean-Raw,688,2011,76.0,Canada,2.0,Missing,Carribean,Below Average,6.0
+1291,Olivia,Carribean,688,2011,76.0,Canada,2.75,Missing,Carribean,Below Average,6.0
+1292,Olivia,Carribean,688,2011,85.0,Canada,2.75,Missing,Carribean,Below Average,6.0
+1293,Olivia,Carribean-Raw,688,2011,85.0,Canada,3.0,Missing,Carribean,Average,6.0
+1294,Omanhene,Ghana,693,2011,80.0,Ghana,2.75,Forastero,Ghana,Below Average,6.0
+1295,Omnom,"Kakao Kamili, Kilombero Valley",1816,2016,70.0,Iceland,3.75,Trinitario,Tanzania,Above Average,11.0
+1296,Omnom,Papua New Guinea,1247,2014,70.0,Iceland,3.0,Missing,Papua New Guinea,Average,9.0
+1297,Omnom,Madagascar,1247,2014,66.0,Iceland,3.5,Trinitario,Madagascar,Average,9.0
+1298,organicfair,Maya Mountain,1161,2013,74.0,Canada,2.75,Trinitario,Belize,Below Average,8.0
+1299,organicfair,La Red,1165,2013,72.0,Canada,2.75,Missing,Dominican Republic,Below Average,8.0
+1300,organicfair,Nicaraqua,1165,2013,72.0,Canada,2.75,Trinitario,Nicaragua,Below Average,8.0
+1301,organicfair,Caribe,1165,2013,72.0,Canada,3.0,Missing,Dominican Republic,Average,8.0
+1302,organicfair,Mindo,1165,2013,72.0,Canada,3.0,Trinitario,Ecuador,Average,8.0
+1303,Original Beans (Felchlin),Papua Kerafat,1438,2014,68.0,Switzerland,2.75,Missing,Papua New Guinea,Below Average,9.0
+1304,Original Beans (Felchlin),"Grand Cru Blend No.1, 5 yr. Anniversary Ed",1442,2014,80.0,Switzerland,3.25,Blend,Missing,Average,9.0
+1305,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R. 24hr c.",733,2011,66.0,Switzerland,3.75,Missing,Bolivia,Above Average,6.0
+1306,Original Beans (Felchlin),"D.R. Congo, Cru Virunga",331,2009,70.0,Switzerland,3.0,Forastero,Congo,Average,4.0
+1307,Original Beans (Felchlin),"Piura, Apotequil, ""Porcelana"" 72hr c.",341,2009,75.0,Switzerland,3.0,Criollo,Peru,Average,4.0
+1308,Original Beans (Felchlin),"Alto Beni, Wild Harvest, Itenez R., 60hr c.",341,2009,68.0,Switzerland,3.25,Missing,Bolivia,Average,4.0
+1309,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Grand Cru E.",316,2009,60.0,United States,3.0,Criollo,United States,Average,4.0
+1310,Original Hawaiin Chocolate Factory,"Hawai'i, Kona Estate Grown",24,2006,60.0,United States,3.0,Missing,United States,Average,1.0
+1311,Orquidea,Peru,859,2012,65.0,Peru,3.0,Missing,Peru,Average,7.0
+1312,Orquidea,Peru,859,2012,72.0,Peru,3.0,Missing,Peru,Average,7.0
+1313,Pacari,"Sierra Nevada, Tutu Iku",1848,2016,70.0,Ecuador,4.0,Missing,Colombia,Above Average,11.0
+1314,Pacari,Garaua,1415,2014,70.0,Ecuador,3.25,Missing,Ecuador,Average,9.0
+1315,Pacari,Cumbia,1415,2014,70.0,Ecuador,3.5,Missing,Ecuador,Average,9.0
+1316,Pacari,Montubia,1415,2014,70.0,Ecuador,3.75,Missing,Ecuador,Above Average,9.0
+1317,Pacari,Tangara,1415,2014,70.0,Ecuador,4.0,Missing,Ecuador,Above Average,9.0
+1318,Pacari,"Ecuador, raw",817,2012,85.0,Ecuador,2.75,Missing,Ecuador,Below Average,7.0
+1319,Pacari,Piura,863,2012,70.0,Ecuador,4.0,Missing,Peru,Above Average,7.0
+1320,Pacari,Nube- prototype,721,2011,70.0,Ecuador,3.5,Missing,Ecuador,Average,6.0
+1321,Pacari,Esmeraldas,224,2008,60.0,Ecuador,2.5,Forastero (Arriba),Ecuador,Below Average,3.0
+1322,Pacari,Manabi,224,2008,65.0,Ecuador,2.75,Forastero (Arriba),Ecuador,Below Average,3.0
+1323,Pacari,Los Rios,224,2008,72.0,Ecuador,3.0,Forastero (Arriba),Ecuador,Average,3.0
+1324,Pacari,Raw,266,2008,100.0,Ecuador,2.0,Forastero (Arriba),Ecuador,Below Average,3.0
+1325,Pacari,Raw,266,2008,70.0,Ecuador,3.5,Forastero (Arriba),Ecuador,Average,3.0
+1326,Palette de Bine,Lachua,1720,2016,70.0,Canada,2.75,Missing,Guatemala,Below Average,11.0
+1327,Palette de Bine,Maya Mtn,1720,2016,72.0,Canada,3.0,Trinitario,Belize,Average,11.0
+1328,Palette de Bine,"Silvestre, La Paz, Beni",1570,2015,70.0,Canada,3.25,Missing,Bolivia,Average,10.0
+1329,Palette de Bine,"San Juan Estate, Gran Couva",1570,2015,70.0,Canada,3.25,Trinitario,Trinidad,Average,10.0
+1330,Palette de Bine,Kokoa Kamili,1574,2015,72.0,Canada,3.5,Missing,Tanzania,Average,10.0
+1331,Palette de Bine,Lam Dong,1574,2015,72.0,Canada,3.75,Trinitario,Vietnam,Above Average,10.0
+1332,Palette de Bine,"Alto Beni, Palos Blancos",1239,2014,72.0,Canada,2.75,Missing,Bolivia,Below Average,9.0
+1333,Palette de Bine,Sambirano,1239,2014,78.0,Canada,3.75,Trinitario,Madagascar,Above Average,9.0
+1334,Palette de Bine,"Camino Verde P., Balao, Guayas",1303,2014,75.0,Canada,2.75,Missing,Ecuador,Below Average,9.0
+1335,Palette de Bine,Duo- Gran Couva & Camino Verde,1399,2014,75.0,Canada,3.5,Blend,Trinidad,Average,9.0
+1336,Palette de Bine,Duo- Gran Couva & Camino Verde,1399,2014,75.0,Canada,3.5,Blend,Ecuador,Average,9.0
+1337,Palette de Bine,Gran Couva,1399,2014,70.0,Canada,3.75,Trinitario,Trinidad,Above Average,9.0
+1338,Pangea,Matasawalevu,1860,2016,76.0,Spain,3.0,Missing,Fiji,Average,11.0
+1339,Park 75,South America,1363,2014,65.0,United States,3.5,Missing,South America,Average,9.0
+1340,Parliament,Kilombero Valley,1856,2016,70.0,United States,3.25,Missing,Tanzania,Average,11.0
+1341,Parliament,"Lachua, Q'egchi families",1542,2015,70.0,United States,3.5,Missing,Guatemala,Average,10.0
+1342,Parliament,Alto Beni,1251,2014,70.0,United States,3.0,Missing,Bolivia,Average,9.0
+1343,Parliament,Oko Caribe,1255,2014,70.0,United States,3.5,Missing,Dominican Republic,Average,9.0
+1344,Pascha,Peru,1137,2013,55.0,Peru,2.5,Missing,Peru,Below Average,8.0
+1345,Pascha,Peru,1137,2013,70.0,Peru,2.75,Missing,Peru,Below Average,8.0
+1346,Patric,Signature Blend,636,2011,70.0,United States,3.75,Blend,Missing,Above Average,6.0
+1347,Patric,Madagascar,331,2009,75.0,United States,4.0,Trinitario,Madagascar,Above Average,4.0
+1348,Patric,Madagascar,439,2009,67.0,United States,3.5,Trinitario,Madagascar,Average,4.0
+1349,Patric,"Rio Caribe, Paria Penninsula",439,2009,70.0,United States,3.5,Trinitario,Venezuela,Average,4.0
+1350,Patric,Madagascar,196,2007,70.0,United States,4.0,Trinitario,Madagascar,Above Average,2.0
+1351,Patric,"Piura, Choc. Garage Exclusive",1034,2013,67.0,United States,4.0,Missing,Peru,Above Average,8.0
+1352,Paul Young,"Madagascar, w/ shell",1271,2014,73.0,United Kingdom,2.25,Trinitario,Madagascar,Below Average,9.0
+1353,Paul Young,"Madagascar, w/ shell",1271,2014,64.0,United Kingdom,2.75,Trinitario,Madagascar,Below Average,9.0
+1354,Peppalo,Dominican Republic,1454,2015,82.0,United States,3.0,Missing,Dominican Republic,Average,10.0
+1355,Pierre Marcolini,"Haut Penja, w/ nibs",1658,2015,70.0,Belgium,3.25,Forastero,Cameroon,Average,10.0
+1356,Pierre Marcolini,Chuao,478,2010,75.0,Belgium,3.0,Criollo,Venezuela,Average,5.0
+1357,Pierre Marcolini,Trinite,478,2010,75.0,Belgium,3.25,Trinitario,Trinidad,Average,5.0
+1358,Pierre Marcolini,"Baracoa, Cuba",516,2010,78.0,Belgium,3.75,Criollo,Cuba,Above Average,5.0
+1359,Pierre Marcolini,"Baracoa, Cuba",516,2010,78.0,Belgium,3.75,Forastero,Cuba,Above Average,5.0
+1360,Pierre Marcolini,"Peru, Las Pampas P.",531,2010,85.0,Belgium,3.0,Criollo,Peru,Average,5.0
+1361,Pierre Marcolini,"Bahia Brazil, Fazenda Sao Pedro",414,2009,72.0,Belgium,3.0,Forastero,Brazil,Average,4.0
+1362,Pierre Marcolini,"Porcelana, Tabasco, Finca La Joya",445,2009,72.0,Belgium,3.0,Criollo,Mexico,Average,4.0
+1363,Pierre Marcolini,Cabosse,111,2007,70.0,Belgium,4.0,Blend,Venezuela,Above Average,2.0
+1364,Pierre Marcolini,Cabosse,111,2007,70.0,Belgium,4.0,Blend,Java,Above Average,2.0
+1365,Pierre Marcolini,"Los Rios, Puerto Romero, Equateur",129,2007,72.0,Belgium,3.75,Forastero (Nacional),Ecuador,Above Average,2.0
+1366,Pierre Marcolini,"Sambirano, Ambanja, Madagascar",141,2007,72.0,Belgium,4.0,Trinitario,Madagascar,Above Average,2.0
+1367,Pierre Marcolini,Fleur de Cacao,166,2007,85.0,Belgium,3.5,Blend,Venezuela,Average,2.0
+1368,Pierre Marcolini,Fleur de Cacao,166,2007,85.0,Belgium,3.5,Blend,Ghana,Average,2.0
+1369,Pierre Marcolini,"Porcelana, Tabasco, Limited Ed.",81,2006,72.0,Belgium,4.0,Criollo,Mexico,Above Average,1.0
+1370,Pierre Marcolini,"Kendem Lembu, Java",93,2006,72.0,Belgium,3.0,Criollo,Indonesia,Average,1.0
+1371,Pierre Marcolini,"Ocumare, Puerto Cabello, Venezuela",93,2006,72.0,Belgium,4.0,Criollo,Venezuela,Above Average,1.0
+1372,Pinellas,Wampusirpi Region,1772,2016,80.0,United States,2.5,Missing,Honduras,Below Average,11.0
+1373,Pitch Dark,Tenor,1506,2015,62.0,United States,2.5,Missing,Nicaragua,Below Average,10.0
+1374,Pitch Dark,Johe,1506,2015,80.0,United States,2.75,Missing,Nicaragua,Below Average,10.0
+1375,Pitch Dark,Chuno,1510,2015,80.0,United States,2.75,Criollo,Nicaragua,Below Average,10.0
+1376,Pitch Dark,Chuno,1510,2015,80.0,United States,2.75,Trinitario,Nicaragua,Below Average,10.0
+1377,Pitch Dark,Nicalizo,1510,2015,80.0,United States,2.75,Trinitario,Nicaragua,Below Average,10.0
+1378,Pitch Dark,Rugoso,1510,2015,80.0,United States,3.25,Missing,Nicaragua,Average,10.0
+1379,Pitch Dark,Akesson Estate,1311,2014,73.0,United States,3.25,Trinitario,Madagascar,Average,9.0
+1380,Pitch Dark,Namau Village,1315,2014,73.0,United States,2.5,Trinitario,Fiji,Below Average,9.0
+1381,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Fruity""",1319,2014,73.0,United States,3.25,Missing,Ecuador,Average,9.0
+1382,Pitch Dark,"Camino Verde P., Balao, Guayas, ""Floral""",1319,2014,73.0,United States,3.5,Missing,Ecuador,Average,9.0
+1383,Pomm (aka Dead Dog),"La Red, 2011",829,2012,76.0,United States,2.5,Missing,Dominican Republic,Below Average,7.0
+1384,Pomm (aka Dead Dog),Peru,829,2012,82.0,United States,2.75,Criollo,Peru,Below Average,7.0
+1385,Potomac,"Oko Caribe, Duarte Province, 2016 H.",1820,2016,70.0,United States,3.75,Missing,Dominican Republic,Above Average,11.0
+1386,Potomac,"Cuyagua, 2013",1387,2014,70.0,United States,3.75,Missing,Venezuela,Above Average,9.0
+1387,Potomac,Upala w/ nibs,647,2011,70.0,United States,3.5,Matina,Costa Rica,Average,6.0
+1388,Potomac,"Upala, Batch 18",654,2011,70.0,United States,3.0,Matina,Costa Rica,Average,6.0
+1389,Potomac,"San Martin, Amazonian Highlands",789,2011,70.0,United States,2.75,Missing,Peru,Below Average,6.0
+1390,Potomac,Bahia,789,2011,70.0,United States,3.5,Missing,Brazil,Average,6.0
+1391,Potomac,"Upala, Batch 12",607,2010,82.0,United States,3.75,Matina,Costa Rica,Above Average,5.0
+1392,Pralus,Peru,1446,2015,75.0,France,3.25,Missing,Peru,Average,10.0
+1393,Pralus,"Porcelana, S. of Lake Maracaibo",717,2011,75.0,France,3.25,Criollo (Porcelana),Venezuela,Average,6.0
+1394,Pralus,Chuao,486,2010,75.0,France,3.5,Trinitario,Venezuela,Average,5.0
+1395,Pralus,Cuyagua,451,2009,75.0,France,2.0,Missing,Venezuela,Below Average,4.0
+1396,Pralus,Papouasie,199,2008,75.0,France,3.0,Trinitario,Papua New Guinea,Average,3.0
+1397,Pralus,"Sambirano Valley, Le 100%",202,2008,100.0,France,3.0,Criollo,Madagascar,Average,3.0
+1398,Pralus,Dominican Republic-Organic,280,2008,75.0,France,2.0,Missing,Dominican Republic,Below Average,3.0
+1399,Pralus,"Monte Alegre, Diego Badero",280,2008,75.0,France,3.5,Missing,Brazil,Average,3.0
+1400,Pralus,Claudio Corallo w/ nibs,162,2007,75.0,France,4.0,Forastero,Sao Tome,Above Average,2.0
+1401,Pralus,"Monte Alegre (Itacare), Brazil",105,2006,75.0,France,3.0,Forastero,Brazil,Average,1.0
+1402,Pralus,Tanzania,105,2006,75.0,France,3.5,Criollo,Tanzania,Average,1.0
+1403,Pralus,Sao Tome & Principe,5,2006,75.0,France,3.5,Forastero,Sao Tome,Average,1.0
+1404,Pralus,Sao Tome & Principe,5,2006,75.0,France,3.5,Forastero,Principe,Average,1.0
+1405,Pralus,Trinidad,5,2006,75.0,France,3.5,Trinitario,Trinidad,Average,1.0
+1406,Pralus,"Madagascar, Nosy Be Isle.",5,2006,75.0,France,3.75,Criollo,Madagascar,Above Average,1.0
+1407,Pralus,"Java, Indonesie",32,2006,75.0,France,3.5,Criollo,Indonesia,Average,1.0
+1408,Pralus,"Barlovento, Venezuela",32,2006,75.0,France,3.5,Trinitario,Venezuela,Average,1.0
+1409,Pralus,Jamaique,32,2006,75.0,France,4.0,Trinitario,Jamaica,Above Average,1.0
+1410,Pralus,Equateur,40,2006,75.0,France,3.0,Trinitario,Ecuador,Average,1.0
+1411,Pralus,Vanuatu,40,2006,75.0,France,3.0,Trinitario,Vanuatu,Average,1.0
+1412,Pralus,Ghana,40,2006,75.0,France,3.25,Forastero,Ghana,Average,1.0
+1413,Pralus,Colombie,40,2006,75.0,France,3.5,Trinitario,Colombia,Average,1.0
+1414,Pralus,Fortissima,93,2006,80.0,France,4.0,Criollo,Ecuador,Above Average,1.0
+1415,Pralus,Fortissima,93,2006,80.0,France,4.0,Trinitario,Ecuador,Above Average,1.0
+1416,Pralus,Cuba,99,2006,75.0,France,3.0,Trinitario,Cuba,Average,1.0
+1417,Pralus,"Caracas, Venezuela and Ghana",99,2006,75.0,France,3.0,Trinitario,Venezuela,Average,1.0
+1418,Pralus,"Caracas, Venezuela and Ghana",99,2006,75.0,France,3.0,Forastero,Venezuela,Average,1.0
+1419,Pralus,"Caracas, Venezuela and Ghana",99,2006,75.0,France,3.0,Trinitario,Ghana,Average,1.0
+1420,Pralus,"Caracas, Venezuela and Ghana",99,2006,75.0,France,3.0,Forastero,Ghana,Average,1.0
+1421,Pralus,"Djakarta, Java and Ghana",99,2006,75.0,France,3.5,Criollo,Indonesia,Average,1.0
+1422,Pralus,"Djakarta, Java and Ghana",99,2006,75.0,France,3.5,Forastero,Indonesia,Average,1.0
+1423,Pralus,"Djakarta, Java and Ghana",99,2006,75.0,France,3.5,Criollo,Ghana,Average,1.0
+1424,Pralus,"Djakarta, Java and Ghana",99,2006,75.0,France,3.5,Forastero,Ghana,Average,1.0
+1425,Pump Street Bakery,"Chocoan Rainforest, Teroro Escondido, ESM",1872,2016,77.0,United Kingdom,3.5,Missing,Ecuador,Average,11.0
+1426,Pump Street Bakery,"Crayfish Bay Estate, 2014",1502,2015,70.0,United Kingdom,3.5,Trinitario,Grenada,Average,10.0
+1427,Pump Street Bakery,"Akesson's, batch 4411",1530,2015,74.0,United Kingdom,3.5,Criollo,Madagascar,Average,10.0
+1428,Pump Street Bakery,Honduras,1688,2015,80.0,United Kingdom,2.75,Missing,Honduras,Below Average,10.0
+1429,Pump Street Bakery,"Patanemo Vil., Carabobo State, Tisano family",1223,2014,75.0,United Kingdom,2.75,Trinitario,Venezuela,Below Average,9.0
+1430,Pump Street Bakery,Guantupi River,1223,2014,75.0,United Kingdom,3.0,Forastero (Nacional),Ecuador,Average,9.0
+1431,Pump Street Bakery,"Akessons Estate, Sambirano, Ambanja",1223,2014,72.0,United Kingdom,3.25,Trinitario,Madagascar,Average,9.0
+1432,Pump Street Bakery,Guantupi River,1227,2014,85.0,United Kingdom,2.75,Forastero (Nacional),Ecuador,Below Average,9.0
+1433,Pura Delizia,Venezuela,931,2012,73.0,Italy,2.75,Missing,Venezuela,Below Average,7.0
+1434,Q Chocolate,Brazil,1057,2013,75.0,Brazil,3.25,Missing,Brazil,Average,8.0
+1435,Q Chocolate,Brazil,1057,2013,85.0,Brazil,3.5,Missing,Brazil,Average,8.0
+1436,Q Chocolate,Brazil,1069,2013,55.0,Brazil,2.75,Missing,Brazil,Below Average,8.0
+1437,Q Chocolate,Brazil,1069,2013,80.0,Brazil,3.25,Missing,Brazil,Average,8.0
+1438,Q Chocolate,Brazil,935,2012,60.0,Brazil,3.0,Missing,Brazil,Average,7.0
+1439,Q Chocolate,Brazil,935,2012,65.0,Brazil,3.25,Missing,Brazil,Average,7.0
+1440,Quetzalli (Wolter),"Mexico, Lot 28022016",1796,2016,70.0,Mexico,2.75,Criollo,Mexico,Below Average,11.0
+1441,Quetzalli (Wolter),"Uranga, Lot 22032016",1800,2016,74.0,Mexico,3.0,Trinitario,Mexico,Average,11.0
+1442,Raaka,Amazon Basin Blend,1788,2016,70.0,United States,3.0,Missing,Peru,Average,11.0
+1443,Raaka,Amazon Basin Blend,1788,2016,70.0,United States,3.0,Missing,Pangoa,Average,11.0
+1444,Raaka,Amazon Basin Blend,1788,2016,70.0,United States,3.0,Missing,Peru,Average,11.0
+1445,Raaka,Virunga,1708,2015,75.0,United States,2.75,Forastero,Congo,Below Average,10.0
+1446,Raaka,Madagascar,959,2012,75.0,United States,3.25,Trinitario,Madagascar,Average,7.0
+1447,Raaka,La Red,785,2011,85.0,United States,3.5,Missing,Dominican Republic,Average,6.0
+1448,Rain Republic,Suchitepequez E.,470,2010,70.0,Guatemala,2.75,Missing,Guatemala,Below Average,5.0
+1449,Rancho San Jacinto,Ecuador,565,2010,75.0,Eucador,3.0,Forastero(Arriba,Ecuador,Average,5.0
+1450,Rancho San Jacinto,Ecuador,565,2010,75.0,Eucador,3.0,CCN),Ecuador,Average,5.0
+1451,Ranger,"San Martin, Batch 2",1558,2015,70.0,United States,2.5,Missing,Peru,Below Average,10.0
+1452,Ranger,"Chulucanas, Batch 1",1562,2015,80.0,United States,3.25,Missing,Peru,Average,10.0
+1453,Ranger,"Tumbes, Batch 2",1562,2015,73.0,United States,3.5,Criollo,Peru,Average,10.0
+1454,Raoul Boulanger,Piura,1872,2016,75.0,France,3.25,Criollo,Peru,Average,11.0
+1455,Raw Cocoa,Raw,867,2012,70.0,Poland,2.5,Criollo,Missing,Below Average,7.0
+1456,Republica del Cacao (aka Confecta),Esmeraldas,494,2010,75.0,Ecuador,3.25,Missing,Ecuador,Average,5.0
+1457,Republica del Cacao (aka Confecta),"Los Rios, Vinces",439,2009,75.0,Ecuador,2.5,Forastero (Arriba),Ecuador,Below Average,4.0
+1458,Republica del Cacao (aka Confecta),Manabi,147,2007,75.0,Ecuador,3.0,Forastero (Arriba),Ecuador,Average,2.0
+1459,Republica del Cacao (aka Confecta),El Oro,147,2007,67.0,Ecuador,3.5,Forastero (Arriba),Ecuador,Average,2.0
+1460,Republica del Cacao (aka Confecta),Los Rios,170,2007,75.0,Ecuador,3.75,Forastero (Arriba),Ecuador,Above Average,2.0
+1461,Ritual,"Camino Verde P., Balao, 2015 harvest, batch8",1860,2016,75.0,United States,3.75,Missing,Ecuador,Above Average,11.0
+1462,Ritual,"Camino Verde P., Balao, Guayas, 2014",1466,2015,85.0,United States,3.5,Missing,Ecuador,Average,10.0
+1463,Ritual,"Mid Mountain, 2014",1466,2015,70.0,United States,3.5,Blend,Missing,Average,10.0
+1464,Ritual,"Toledo District, Maya",1089,2013,75.0,United States,3.75,Trinitario,Belize,Above Average,8.0
+1465,Ritual,"Maranon, Cajamarca",1181,2013,75.0,United States,3.0,Forastero (Nacional),Peru,Average,8.0
+1466,Ritual,Sambirano,891,2012,75.0,United States,4.0,Trinitario,Madagascar,Above Average,7.0
+1467,Ritual,"Camino Verde P., 2012, Balao, Guayas",967,2012,75.0,United States,3.25,Nacional (Arriba),Ecuador,Average,7.0
+1468,Ritual,Gran Couva,979,2012,75.0,United States,3.5,Trinitario,Trinidad,Average,7.0
+1469,Ritual,Costa Rica,745,2011,75.0,United States,3.5,Missing,Costa Rica,Average,6.0
+1470,Roasting Masters,"La Dorado, light roast",1844,2016,70.0,South Korea,3.25,Missing,Costa Rica,Average,11.0
+1471,Roasting Masters,"Tapanti, light roast",1844,2016,70.0,South Korea,3.25,Missing,Costa Rica,Average,11.0
+1472,Roasting Masters,Maleku,1844,2016,70.0,South Korea,3.25,Missing,Costa Rica,Average,11.0
+1473,Robert (aka Chocolaterie Robert),Madagascar,1061,2013,75.0,Madagascar,3.25,Trinitario,Madagascar,Average,8.0
+1474,Robert (aka Chocolaterie Robert),Madagascar w/ nibs,1061,2013,68.0,Madagascar,3.25,Trinitario,Madagascar,Average,8.0
+1475,Rococo (Grenada Chocolate Co.),"Gru Grococo, St. Andrews",923,2012,66.0,United Kingdom,3.5,Trinitario,Grenada,Average,7.0
+1476,Rogue,"La Masica, Batch 1, FHIA Research Center",1748,2016,75.0,United States,3.75,Missing,Honduras,Above Average,11.0
+1477,Rogue,"Caranero, Choc. Garage Exclusive",1446,2015,70.0,United States,3.75,Missing,Venezuela,Above Average,10.0
+1478,Rogue,"Tranquilidad, Batch 1",1566,2015,75.0,United States,3.25,Missing,Bolivia,Average,10.0
+1479,Rogue,Porcelana,1209,2014,80.0,United States,3.75,Criollo,Venezuela,Above Average,9.0
+1480,Rogue,"Akessons Estate, Sambirano, 2013",1038,2013,70.0,United States,3.5,Trinitario,Madagascar,Average,8.0
+1481,Rogue,"Hispaniola, 2013",1081,2013,70.0,United States,3.5,Missing,Dominican Republic,Average,8.0
+1482,Rogue,"Silvestre, Batch 7, 2013",1081,2013,75.0,United States,4.0,Missing,Bolivia,Above Average,8.0
+1483,Rogue,"Bachelor's Hall E., St. Thomas Parish",1193,2013,75.0,United States,3.75,Trinitario,Jamaica,Above Average,8.0
+1484,Rogue,"Camino Verde P., Balao, Guayas",979,2012,75.0,United States,3.75,Nacional (Arriba),Ecuador,Above Average,7.0
+1485,Rogue,"Silvestre, Batch 1, 2011",793,2011,75.0,United States,3.0,Criollo,Bolivia,Average,6.0
+1486,Rogue,Piura,565,2010,75.0,United States,3.75,Missing,Peru,Above Average,5.0
+1487,Rogue,Rio Caribe,327,2009,70.0,United States,3.5,Trinitario,Venezuela,Average,4.0
+1488,Rogue,"Hispaniola, 2008",213,2008,70.0,United States,2.75,Missing,Dominican Republic,Below Average,3.0
+1489,Rogue,Jamaica,213,2008,70.0,United States,2.75,Trinitario,Jamaica,Below Average,3.0
+1490,Rogue,"Sambirano, 2008",213,2008,70.0,United States,2.75,Trinitario,Madagascar,Below Average,3.0
+1491,Rogue,Trinidad,213,2008,70.0,United States,3.0,Trinitario,Trinidad,Average,3.0
+1492,Rozsavolgyi,Sur del Lago,809,2012,84.0,Hungary,2.5,Missing,Venezuela,Below Average,7.0
+1493,Rozsavolgyi,"Rio Caribe Superior, Paria Penninsula",871,2012,76.0,Hungary,2.25,Trinitario,Venezuela,Below Average,7.0
+1494,Rozsavolgyi,"Sambirano, Akesson Estate",871,2012,72.0,Hungary,2.5,Trinitario,Madagascar,Below Average,7.0
+1495,Rozsavolgyi,Carenero Superior,713,2011,73.0,Hungary,3.5,Criollo,Venezuela,Average,6.0
+1496,Rozsavolgyi,Porcelana,717,2011,71.0,Hungary,2.5,Missing,Venezuela,Below Average,6.0
+1497,Rozsavolgyi,"Aragua, Trincheras",717,2011,70.0,Hungary,3.5,Missing,Venezuela,Average,6.0
+1498,Rozsavolgyi,Principe,765,2011,77.0,Hungary,2.75,Forastero,Principe,Below Average,6.0
+1499,S.A.I.D.,Malgascio,607,2010,64.0,Italy,3.5,Trinitario,Madagascar,Average,5.0
+1500,S.A.I.D.,100 percent,615,2010,100.0,Italy,1.5,Missing,Missing,Below Average,5.0
+1501,S.A.I.D.,Samana,615,2010,70.0,Italy,3.0,Missing,Dominican Republic,Average,5.0
+1502,S.A.I.D.,Arawak,615,2010,72.0,Italy,3.5,Missing,Carribean,Average,5.0
+1503,S.A.I.D.,Latino,615,2010,72.0,Italy,3.5,Missing,Missing,Average,5.0
+1504,Sacred,Midnight,813,2012,83.0,United States,2.75,Missing,Central America,Below Average,7.0
+1505,Sacred,Midnight,813,2012,83.0,United States,2.75,Missing,South America,Below Average,7.0
+1506,Sacred,Twilight,813,2012,69.0,United States,3.25,Missing,Central America,Average,7.0
+1507,Sacred,Twilight,813,2012,69.0,United States,3.25,Missing,South America,Average,7.0
+1508,Salgado,Bahia Superior,288,2008,70.0,Argentina,3.5,Forastero,Brazil,Average,3.0
+1509,Salgado,Esmeraldas,288,2008,70.0,Argentina,3.5,Forastero (Nacional),Ecuador,Average,3.0
+1510,Salgado,Carenero Superior,288,2008,70.0,Argentina,3.5,Trinitario,Venezuela,Average,3.0
+1511,Salgado,Rio Arriba,292,2008,70.0,Argentina,3.5,Forastero (Arriba) ASSS,Ecuador,Average,3.0
+1512,Santander (Compania Nacional),Colombian 2008,404,2009,75.0,Colombia,2.75,Forastero (Nacional),Colombia,Below Average,4.0
+1513,Santander (Compania Nacional),Colombian w/ nibs,414,2009,70.0,Colombia,3.0,Forastero (Nacional),Colombia,Average,4.0
+1514,Santander (Compania Nacional),Colombian Semi Dark,32,2006,53.0,Colombia,2.0,Forastero (Nacional),Colombia,Below Average,1.0
+1515,Santander (Compania Nacional),Colombian,32,2006,65.0,Colombia,3.0,Forastero (Nacional),Colombia,Average,1.0
+1516,Santander (Compania Nacional),Colombian Dark,32,2006,70.0,Colombia,4.0,Forastero (Nacional),Colombia,Above Average,1.0
+1517,Santome,Sao Tome,761,2011,70.0,France,2.75,Forastero,Sao Tome,Below Average,6.0
+1518,Scharffen Berger,San Juan de Cheni,959,2012,78.0,United States,4.0,Missing,Peru,Above Average,7.0
+1519,Scharffen Berger,Markham Valley,781,2011,68.0,United States,3.75,Missing,Papua New Guinea,Above Average,6.0
+1520,Scharffen Berger,Camahogne,464,2010,68.0,United States,3.5,Trinitario,Grenada,Average,5.0
+1521,Scharffen Berger,Amina,464,2010,65.0,United States,3.75,Trinitario,Madagascar,Above Average,5.0
+1522,Scharffen Berger,Amina,464,2010,65.0,United States,3.75,Criollo,Madagascar,Above Average,5.0
+1523,Scharffen Berger,Tome Acu,336,2009,68.0,United States,3.75,Missing,Brazil,Above Average,4.0
+1524,Scharffen Berger,Asante,336,2009,65.0,United States,4.0,Forastero,Ghana,Above Average,4.0
+1525,Scharffen Berger,Ben Tre,445,2009,72.0,United States,3.75,Trinitario,Vietnam,Above Average,4.0
+1526,Scharffen Berger,Finisterra,227,2008,72.0,United States,3.0,Blend,Venezuela,Average,3.0
+1527,Scharffen Berger,Finisterra,227,2008,72.0,United States,3.0,Blend,Trinidad,Average,3.0
+1528,Scharffen Berger,Finisterra,227,2008,72.0,United States,3.0,Blend,Madagascar,Average,3.0
+1529,Scharffen Berger,Las Islas,117,2007,72.0,United States,3.0,Blend,Carribean,Average,2.0
+1530,Scharffen Berger,Nibby,135,2007,62.0,United States,3.0,Missing,Missing,Average,2.0
+1531,Scharffen Berger,Cuyagua,135,2007,75.0,United States,3.75,Missing,Venezuela,Above Average,2.0
+1532,Scharffen Berger,Antilles (Trin/Gren/DR/Ven),188,2007,75.0,United States,3.0,Blend,Carribean,Average,2.0
+1533,Scharffen Berger,Extra Dark,15,2006,82.0,United States,2.0,Missing,Missing,Below Average,1.0
+1534,Scharffen Berger,Bittersweet,15,2006,70.0,United States,3.5,Blend,Missing,Average,1.0
+1535,Scharffen Berger,Kumasi Sambirano,40,2006,68.0,United States,2.0,Blend,Ghana,Below Average,1.0
+1536,Scharffen Berger,Kumasi Sambirano,40,2006,68.0,United States,2.0,Blend,Madagascar,Below Average,1.0
+1537,Scharffen Berger,Jamaica a l'ancienne,56,2006,70.0,United States,2.0,Trinitario,Jamaica,Below Average,1.0
+1538,Scharffen Berger,Semisweet,56,2006,62.0,United States,3.0,Blend,Missing,Average,1.0
+1539,Seaforth,Dominican Republic,1658,2015,70.0,United Kingdom,2.75,Missing,Dominican Republic,Below Average,10.0
+1540,Seaforth,Grenada,1658,2015,70.0,United Kingdom,2.75,Missing,Grenada,Below Average,10.0
+1541,Shark Mountain,Jamaica,1450,2015,72.0,United States,3.25,Trinitario,Jamaica,Average,10.0
+1542,Shark Mountain,Papua New Guinea,1450,2015,73.0,United States,3.5,Forastero,Papua New Guinea,Average,10.0
+1543,Shark Mountain,Cuyagua,1466,2015,77.0,United States,2.75,Criollo,Venezuela,Below Average,10.0
+1544,Shark Mountain,ROIG,1466,2015,74.0,United States,3.5,Criollo,Dominican Republic,Average,10.0
+1545,Shark Mountain,ROIG,1466,2015,74.0,United States,3.5,Trinitario,Dominican Republic,Average,10.0
+1546,Shark Mountain,Ecuador,1335,2014,75.0,United States,3.0,Trinitario,Ecuador,Average,9.0
+1547,Shark Mountain,"Belize, 2013",1335,2014,72.0,United States,3.25,Criollo,Belize,Average,9.0
+1548,Shark Mountain,"Belize, 2013",1335,2014,72.0,United States,3.25,Trinitario,Belize,Average,9.0
+1549,Shark's,Hilo,713,2011,73.0,United States,2.0,Missing,United States,Below Average,6.0
+1550,Shark's,"Hilo, w/ added cocoa butter",721,2011,73.0,United States,2.5,Missing,United States,Below Average,6.0
+1551,Shattel,Tingo Maria,1884,2016,70.0,Peru,3.25,Missing,Peru,Average,11.0
+1552,Shattell,Porcelana,757,2011,75.0,Peru,3.5,Criollo,Peru,Average,6.0
+1553,Sibu,Oro,1586,2015,82.0,Costa Rica,3.25,Missing,Costa Rica,Average,10.0
+1554,Sibu,Oscuro,1586,2015,70.0,Costa Rica,3.5,Missing,Costa Rica,Average,10.0
+1555,Sibu Sura,Peru,911,2012,70.0,United States,2.5,Missing,Peru,Below Average,7.0
+1556,Silvio Bessone,Maya Belize,717,2011,67.0,Italy,3.0,Criollo,Belize,Average,6.0
+1557,Silvio Bessone,"Trintade, Sao Tome",725,2011,65.0,Italy,3.25,Forastero,Sao Tome,Average,6.0
+1558,Silvio Bessone,"Bahia, Scavina",729,2011,60.0,Italy,3.25,Trinitario,Brazil,Average,6.0
+1559,Silvio Bessone,"Porcelana, Colombia, Amazonas",741,2011,68.0,Italy,3.0,Criollo,Colombia,Average,6.0
+1560,Silvio Bessone,"Porcelana, Colombia, Amazonas",741,2011,68.0,Italy,3.0,Trinitario,Colombia,Average,6.0
+1561,Sirene,Wild Bolivia,1788,2016,73.0,Canada,3.5,Missing,Bolivia,Average,11.0
+1562,Sirene,Kokoa Kamili Coop,1856,2016,73.0,Canada,3.5,Missing,Tanzania,Average,11.0
+1563,Sirene,"Esmeraldas, Salazar Farm",1860,2016,73.0,Canada,3.75,Missing,Ecuador,Above Average,11.0
+1564,Sirene,"Somia Plantation, 2012",1502,2015,100.0,Canada,3.0,Trinitario,Madagascar,Average,10.0
+1565,Sirene,"Camino Verde P., Balao, Guayas, 2012",1506,2015,100.0,Canada,3.0,Missing,Ecuador,Average,10.0
+1566,Sirene,Lachua w/ cane sugar,1614,2015,73.0,Canada,3.0,Missing,Guatemala,Average,10.0
+1567,Sirene,"Lachua w/ maple sugar, batch 5",1614,2015,73.0,Canada,3.25,Missing,Guatemala,Average,10.0
+1568,Sirene,Pisa,1650,2015,73.0,Canada,3.25,Missing,Haiti,Average,10.0
+1569,Sirene,"Somia Plantation, 2012",1339,2014,67.0,Canada,3.75,Trinitario,Madagascar,Above Average,9.0
+1570,Sirene,"Somia Plantation, 2012",1339,2014,73.0,Canada,3.75,Trinitario,Madagascar,Above Average,9.0
+1571,Sirene,"Camino Verde P., Balao, Guayas",1343,2014,73.0,Canada,3.75,Missing,Ecuador,Above Average,9.0
+1572,Sjolinds,Ghana,1454,2015,70.0,United States,2.75,Forastero,Ghana,Below Average,10.0
+1573,Sjolinds,Nicaragua,1462,2015,72.0,United States,3.0,Missing,Nicaragua,Average,10.0
+1574,"Smooth Chocolator, The","Oko Caribe, DOR005",1940,2017,70.0,Australia,3.5,Missing,Dominican Republic,Average,12.0
+1575,"Smooth Chocolator, The","Guasare, La Sierra de Perija, batch gua001",1740,2016,70.0,Australia,3.75,Criollo,Venezuela,Above Average,11.0
+1576,"Smooth Chocolator, The","Porcelana, Sorotaima,Machiques,batch pcl001",1740,2016,70.0,Australia,4.0,Criollo,Ecuador,Above Average,11.0
+1577,"Smooth Chocolator, The","Maya Mtn, Moho R., Toledo D.",1756,2016,70.0,Australia,3.75,Missing,Belize,Above Average,11.0
+1578,"Smooth Chocolator, The",Tien Giang,1864,2016,70.0,Australia,3.0,Trinitario,Vietnam,Average,11.0
+1579,"Smooth Chocolator, The",Australia,1864,2016,67.0,Australia,3.75,Missing,Australia,Above Average,11.0
+1580,"Smooth Chocolator, The","Chimelb, Lanquin, Alta Verapaz, b-GUA001",1908,2016,70.0,Australia,3.25,Missing,Guatemala,Average,11.0
+1581,"Smooth Chocolator, The",Akesson's Estate,1618,2015,65.0,Australia,3.25,Trinitario,Madagascar,Average,10.0
+1582,"Smooth Chocolator, The",Akesson's Estate,1622,2015,70.0,Australia,3.5,Trinitario,Madagascar,Average,10.0
+1583,"Smooth Chocolator, The",Kokoa Kamili,1622,2015,67.0,Australia,3.75,Missing,Tanzania,Above Average,10.0
+1584,"Smooth Chocolator, The",San Juan Estate,1622,2015,70.0,Australia,3.75,Trinitario,Trinidad,Above Average,10.0
+1585,"Smooth Chocolator, The",Camino Verde,1622,2015,72.0,Australia,4.0,Missing,Ecuador,Above Average,10.0
+1586,"Smooth Chocolator, The",Bolivia,1626,2015,72.0,Australia,2.75,Missing,Bolivia,Below Average,10.0
+1587,"Smooth Chocolator, The","Papua New Guinea, triple roast, batch 1",1662,2015,65.0,Australia,3.5,Missing,Papua New Guinea,Average,10.0
+1588,"Smooth Chocolator, The","Maranon, batch 2",1666,2015,67.0,Australia,3.0,Forastero (Nacional),Peru,Average,10.0
+1589,"Smooth Chocolator, The","Chuao, batch 3",1666,2015,70.0,Australia,3.75,Trinitario,Venezuela,Above Average,10.0
+1590,Snake & Butterfly,Ghana,693,2011,67.0,United States,1.5,Forastero,Ghana,Below Average,6.0
+1591,Snake & Butterfly,Madagascar,502,2010,68.0,United States,3.0,Trinitario,Madagascar,Average,5.0
+1592,Snake & Butterfly,Ecuador,502,2010,68.0,United States,3.25,Missing,Ecuador,Average,5.0
+1593,Sol Cacao,"Ecuador, Batch 1",1812,2016,70.0,United States,3.5,Missing,Ecuador,Average,11.0
+1594,Sol Cacao,Madagascar,1518,2015,72.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+1595,Solkiki,"Maranon, Fortunato No. 4",1840,2016,68.0,United Kingdom,2.75,Forastero (Nacional),Peru,Below Average,11.0
+1596,Solkiki,"Castillo, Hispaniola, unroasted",1840,2016,85.0,United Kingdom,2.75,Missing,Dominican Republic,Below Average,11.0
+1597,Solomons Gold,Solomon Island,1792,2016,70.0,New Zealand,3.25,Missing,Solomon Islands,Average,11.0
+1598,Solomons Gold,Solomon Island w/ nibs,1796,2016,75.0,New Zealand,3.25,Missing,Solomon Islands,Average,11.0
+1599,Solstice,Bundibugyo,1335,2014,70.0,United States,3.0,Forastero,Uganda,Average,9.0
+1600,Solstice,Bundibugyo,1335,2014,70.0,United States,3.0,Trinitario,Uganda,Average,9.0
+1601,Solstice,Sambirano,1157,2013,70.0,United States,3.0,Trinitario,Madagascar,Average,8.0
+1602,Solstice,Amazonas,1157,2013,70.0,United States,3.0,Missing,Venezuela,Average,8.0
+1603,Solstice,Bolivia,1161,2013,70.0,United States,3.25,Missing,Bolivia,Average,8.0
+1604,Solstice,San Martin,1161,2013,70.0,United States,3.25,Missing,Peru,Average,8.0
+1605,Solstice,Wasatch,1161,2013,70.0,United States,3.5,Blend,Missing,Average,8.0
+1606,Soma,"Oko Caribe, Duarte P., Collab w Chocosol",1820,2016,62.0,Canada,3.5,Missing,Dominican Republic,Average,11.0
+1607,Soma,"Sambirano Valley, Black Science, B-60307.0",1820,2016,70.0,Canada,3.5,Trinitario,Madagascar,Average,11.0
+1608,Soma,"Bahia Black, batch bra50722.1",1828,2016,70.0,Canada,3.5,Forastero (Parazinho),Brazil,Average,11.0
+1609,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75.0,Canada,3.75,Missing,Venezuela,Above Average,11.0
+1610,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75.0,Canada,3.75,Missing,Ecuador,Above Average,11.0
+1611,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75.0,Canada,3.75,Missing,Peru,Above Average,11.0
+1612,Soma,"Abstract S. w/ Jamaica nibs,batch abs60323.0",1828,2016,75.0,Canada,3.75,Missing,Nicaragua,Above Average,11.0
+1613,Soma,"Chuno, San Jose de Bocay, Pantasma R.,B.S.",1828,2016,70.0,Canada,3.75,Trinitario,Nicaragua,Above Average,11.0
+1614,Soma,"Tien Giang, Black S., batch VIT60420.0",1828,2016,70.0,Canada,4.0,Trinitario,Vietnam,Above Average,11.0
+1615,Soma,"Camino Verde, Black S., batch cvu6030.0",1832,2016,70.0,Canada,3.25,Missing,Ecuador,Average,11.0
+1616,Soma,CSB Chama,1594,2015,70.0,Canada,3.5,Criollo,Venezuela,Average,10.0
+1617,Soma,Porcelana,1594,2015,75.0,Canada,4.0,Missing,Venezuela,Above Average,10.0
+1618,Soma,"La Tronca, Matagalpa",1227,2014,70.0,Canada,3.5,Missing,Nicaragua,Average,9.0
+1619,Soma,Maranon Canyon,1259,2014,70.0,Canada,3.75,Forastero (Nacional),Peru,Above Average,9.0
+1620,Soma,La Dalia,1307,2014,70.0,Canada,3.25,Trinitario,Nicaragua,Average,9.0
+1621,Soma,"Camino Verde P., Balao, Guayas",1307,2014,80.0,Canada,3.5,Forastero (Nacional),Ecuador,Average,9.0
+1622,Soma,"Espiritu Santo, 'Smoke Monster'",1307,2014,70.0,Canada,3.75,Forastero (Amelonado),Vanuatu,Above Average,9.0
+1623,Soma,Little Big Man,1339,2014,70.0,Canada,3.25,Blend,Madagascar,Average,9.0
+1624,Soma,Little Big Man,1339,2014,70.0,Canada,3.25,Blend,Ecuador,Average,9.0
+1625,Soma,"Rizek Cacao, Domin. Rep.",1019,2013,77.0,Canada,3.75,Trinitario,Dominican Republic,Above Average,8.0
+1626,Soma,Java,1030,2013,70.0,Canada,3.25,Criollo,Indonesia,Average,8.0
+1627,Soma,"Apurimac, El Quinacho Co-op",1073,2013,70.0,Canada,2.75,Criollo,Peru,Below Average,8.0
+1628,Soma,"Sangre Grande P., Trinidad",1073,2013,70.0,Canada,3.75,Trinitario,Trinidad,Above Average,8.0
+1629,Soma,Chef's Blend,1077,2013,70.0,Canada,3.25,Missing,Missing,Average,8.0
+1630,Soma,Patanemo,1077,2013,70.0,Canada,3.75,Criollo,Venezuela,Above Average,8.0
+1631,Soma,Crazy 88,1077,2013,88.0,Canada,4.0,Missing,Guatemala,Above Average,8.0
+1632,Soma,Crazy 88,1077,2013,88.0,Canada,4.0,Missing,Dominican Republic,Above Average,8.0
+1633,Soma,Crazy 88,1077,2013,88.0,Canada,4.0,Missing,Peru,Above Average,8.0
+1634,Soma,Crazy 88,1077,2013,88.0,Canada,4.0,Missing,Madagascar,Above Average,8.0
+1635,Soma,Crazy 88,1077,2013,88.0,Canada,4.0,Missing,Papua New Guinea,Above Average,8.0
+1636,Soma,"Maracaibo, El Vigia",1077,2013,70.0,Canada,4.0,Criollo,Venezuela,Above Average,8.0
+1637,Soma,Equator,1081,2013,67.0,Canada,4.0,Missing,Peru,Above Average,8.0
+1638,Soma,Equator,1081,2013,67.0,Canada,4.0,Missing,Dominican Republic,Above Average,8.0
+1639,Soma,Orinoco,1173,2013,70.0,Canada,3.25,Forastero,Venezuela,Average,8.0
+1640,Soma,"Bachelor's Hall E., St. Thomas Parish",1177,2013,70.0,Canada,4.0,Trinitario,Jamaica,Above Average,8.0
+1641,Soma,Noula Coop,817,2012,70.0,Canada,3.25,Missing,Haiti,Average,7.0
+1642,Soma,O'ahu,833,2012,70.0,Canada,3.75,Missing,United States,Above Average,7.0
+1643,Soma,"Dual Origins, Sambirano, Elvesia",867,2012,70.0,Canada,4.0,Blend,Dominican Republic,Above Average,7.0
+1644,Soma,"Dual Origins, Sambirano, Elvesia",867,2012,70.0,Canada,4.0,Blend,Madagascar,Above Average,7.0
+1645,Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,Grenada,Above Average,7.0
+1646,Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,Papua New Guinea,Above Average,7.0
+1647,Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,United States,Above Average,7.0
+1648,Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,Haiti,Above Average,7.0
+1649,Soma,"Dancing in Your Head, 5 bean blend",867,2012,70.0,Canada,4.0,Blend,Madagascar,Above Average,7.0
+1650,Soma,Cahabon Region,951,2012,70.0,Canada,3.5,Trinitario,Guatemala,Average,7.0
+1651,Soma,Carenero Superior,951,2012,70.0,Canada,3.75,Trinitario,Venezuela,Above Average,7.0
+1652,Soma,Eastern Promises,967,2012,70.0,Canada,3.5,Blend,Madagascar,Average,7.0
+1653,Soma,Eastern Promises,967,2012,70.0,Canada,3.5,Blend,Java,Average,7.0
+1654,Soma,Eastern Promises,967,2012,70.0,Canada,3.5,Blend,Papua New Guinea,Average,7.0
+1655,Soma,Papua New Guinea,983,2012,85.0,Canada,3.5,Trinitario,Papua New Guinea,Average,7.0
+1656,Soma,"Grenada, Black Science",676,2011,70.0,Canada,2.75,Trinitario,Grenada,Below Average,6.0
+1657,Soma,"Alto Beni, Wild Bolivian",676,2011,70.0,Canada,3.5,Nacional,Bolivia,Average,6.0
+1658,Soma,Peruvian,676,2011,64.0,Canada,4.0,Missing,Peru,Above Average,6.0
+1659,Soma,"Elvesia P., Black Science",682,2011,70.0,Canada,3.75,Forastero,Dominican Republic,Above Average,6.0
+1660,Soma,Chuao,688,2011,70.0,Canada,3.5,Criollo,Venezuela,Average,6.0
+1661,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Trinitario,Dominican Republic,Above Average,5.0
+1662,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Nacional,Dominican Republic,Above Average,5.0
+1663,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Trinitario,Ecuador,Above Average,5.0
+1664,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Nacional,Ecuador,Above Average,5.0
+1665,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Trinitario,Peru,Above Average,5.0
+1666,Soma,Black Science Blend 1,607,2010,70.0,Canada,3.75,Nacional,Peru,Above Average,5.0
+1667,Soma,Hispaniola,377,2009,70.0,Canada,3.0,Forastero,Dominican Republic,Average,4.0
+1668,Soma,Africa,377,2009,70.0,Canada,3.5,Forastero,Ghana,Average,4.0
+1669,Soma,Conacado,387,2009,70.0,Canada,3.0,Trinitario,Dominican Republic,Average,4.0
+1670,Soma,Papua New Guinea,387,2009,70.0,Canada,3.5,Trinitario,Papua New Guinea,Average,4.0
+1671,Soma,Madagascar,387,2009,70.0,Canada,3.75,Criollo,Madagascar,Above Average,4.0
+1672,Soma,Ocumare,387,2009,70.0,Canada,3.75,Criollo,Venezuela,Above Average,4.0
+1673,Somerville,Nicaragua,1367,2014,70.0,United States,3.25,Missing,Nicaragua,Average,9.0
+1674,Somerville,"Hawaiian, Big Island",1395,2014,70.0,United States,3.5,Missing,United States,Average,9.0
+1675,Soul,Dominican Republic,1932,2017,70.0,Canada,3.25,Missing,Dominican Republic,Average,12.0
+1676,Soul,Madagascar,1936,2017,70.0,Canada,3.5,Missing,Madagascar,Average,12.0
+1677,Soul,Venezuela,1936,2017,75.0,Canada,3.5,Missing,Venezuela,Average,12.0
+1678,Soul,Ecuador,1936,2017,75.0,Canada,3.25,Missing,Ecuador,Average,12.0
+1679,Soul,Papua New Guinea,1936,2017,77.0,Canada,3.25,Missing,Papua New Guinea,Average,12.0
+1680,Soul,Tanzania,1940,2017,80.0,Canada,3.5,Missing,Tanzania,Average,12.0
+1681,Spagnvola,AgroCriso Plantation,793,2012,70.0,United States,3.0,Missing,Dominican Republic,Average,7.0
+1682,Spagnvola,AgroCriso Plantation,793,2012,80.0,United States,3.0,Missing,Dominican Republic,Average,7.0
+1683,Spagnvola,AgroCriso Plantation,793,2012,75.0,United States,3.25,Missing,Dominican Republic,Average,7.0
+1684,Spencer,Dominican Republic,1932,2017,70.0,United States,3.75,Missing,Dominican Republic,Above Average,12.0
+1685,Spencer,Ecuador,1932,2017,70.0,United States,3.5,Missing,Ecuador,Average,12.0
+1686,Spencer,Peru,1932,2017,70.0,United States,2.75,Missing,Peru,Below Average,12.0
+1687,Spencer,"Dominican Republic, lot D82R",1792,2016,70.0,Australia,3.5,Missing,Dominican Republic,Average,11.0
+1688,Spencer,"Ecuador, lot E432314L",1792,2016,70.0,Australia,3.75,Missing,Ecuador,Above Average,11.0
+1689,Spencer,"Madagascar, lot M0403R",1792,2016,70.0,Australia,3.75,Missing,Madagascar,Above Average,11.0
+1690,Spencer,Malekula Island,1434,2014,72.0,Australia,2.75,Trinitario,Vanuatu,Below Average,9.0
+1691,Sprungli (Felchlin),Alto Beni,1057,2013,70.0,Switzerland,3.0,Criollo,Bolivia,Average,8.0
+1692,SRSLY,Dominican Republic,1113,2013,70.0,United States,3.0,Missing,Dominican Republic,Average,8.0
+1693,SRSLY,Dominican Republic,1121,2013,84.0,United States,2.25,Missing,Dominican Republic,Below Average,8.0
+1694,Starchild,"Bolivar, Arriba",1634,2015,70.0,United States,3.0,Forastero (Nacional),Ecuador,Average,10.0
+1695,Starchild,Hispaniola,1692,2015,70.0,United States,3.0,Missing,Dominican Republic,Average,10.0
+1696,Starchild,Cacao Verapaz,1692,2015,70.0,United States,3.0,Missing,Guatemala,Average,10.0
+1697,Starchild,Rio Tuma,1692,2015,70.0,United States,3.0,Trinitario (Amelonado),Nicaragua,Average,10.0
+1698,Starchild,Sambirano Valley,1696,2015,70.0,United States,3.0,Trinitario,Madagascar,Average,10.0
+1699,Stella (aka Bernrain),"Bahia, Agri-Forestal Plantation, 2010",859,2012,68.0,Switzerland,2.75,Trinitario,Brazil,Below Average,7.0
+1700,Stella (aka Bernrain),India,729,2011,72.0,Switzerland,3.25,Missing,India,Average,6.0
+1701,Stone Grindz,"Ecuador, Midnight Dark",1291,2014,84.0,United States,3.5,Missing,Ecuador,Average,9.0
+1702,Stone Grindz,"Ecuador, Twilght Dark",1291,2014,70.0,United States,3.5,Missing,Ecuador,Average,9.0
+1703,StRita Supreme,"Samar, East Visayas region",939,2012,65.0,United States,2.5,Missing,Philippines,Below Average,7.0
+1704,StRita Supreme,"Samar, East Visayas region",943,2012,70.0,United States,2.5,Missing,Philippines,Below Average,7.0
+1705,StRita Supreme,"Samar, East Visayas region",943,2012,75.0,United States,2.75,Missing,Philippines,Below Average,7.0
+1706,Sublime Origins,Sambirano,1157,2013,67.0,United States,2.75,Trinitario,Madagascar,Below Average,8.0
+1707,Sublime Origins,Moho Valley,1157,2013,78.0,United States,3.25,Trinitario,Belize,Average,8.0
+1708,Summerbird,Peru,1800,2016,61.0,Denmark,2.5,Criollo,Peru,Below Average,11.0
+1709,Summerbird,Peru,1800,2016,61.0,Denmark,2.5,Trinitario,Peru,Below Average,11.0
+1710,Summerbird,Peru,1800,2016,71.0,Denmark,3.0,Criollo,Peru,Average,11.0
+1711,Summerbird,Peru,1800,2016,71.0,Denmark,3.0,Trinitario,Peru,Average,11.0
+1712,Suruca Chocolate,Venezuela,1796,2016,70.0,Venezuela,2.75,Missing,Venezuela,Below Average,11.0
+1713,Suruca Chocolate,Venezuela,1796,2016,60.0,Venezuela,3.0,Missing,Venezuela,Average,11.0
+1714,Svenska Kakaobolaget,Sri Lanka,1618,2015,70.0,Sweden,2.75,Criollo,Sri Lanka,Below Average,10.0
+1715,Svenska Kakaobolaget,Sri Lanka,1618,2015,70.0,Sweden,2.75,Trinitario,Sri Lanka,Below Average,10.0
+1716,Szanto Tibor,Nacional,1668,2015,70.0,Hungary,3.25,Missing,Ecuador,Average,10.0
+1717,Szanto Tibor,Baracoa,1704,2015,88.0,Hungary,3.25,Trinitario,Cuba,Average,10.0
+1718,Szanto Tibor,Ambolikapiky,1704,2015,70.0,Hungary,3.25,Trinitario,Madagascar,Average,10.0
+1719,Szanto Tibor,"Winak, Sumaco",1704,2015,70.0,Hungary,3.75,Forastero (Nacional),Ecuador,Above Average,10.0
+1720,Szanto Tibor,"Ben Tre, Mekong Delta",1708,2015,70.0,Hungary,3.25,Trinitario,Vietnam,Average,10.0
+1721,Szanto Tibor,"Fazenda Sempre Firme, Bahia",1708,2015,70.0,Hungary,3.5,Forastero (Parazinho),Brazil,Average,10.0
+1722,Szanto Tibor,Porcelana,1263,2014,70.0,Hungary,3.5,Criollo,Venezuela,Average,9.0
+1723,Szanto Tibor,Baracoa,1263,2014,70.0,Hungary,3.75,Trinitario,Cuba,Above Average,9.0
+1724,Szanto Tibor,"Autumn, Primary Harvest, 2012",1185,2013,70.0,Hungary,3.5,Criollo,Madagascar,Average,8.0
+1725,Szanto Tibor,"Spring, Secondary Harvest, 2012",1185,2013,70.0,Hungary,3.5,Criollo,Madagascar,Average,8.0
+1726,Szanto Tibor,Cacao Blanco,1193,2013,70.0,Hungary,3.25,Missing,Nicaragua,Average,8.0
+1727,Szanto Tibor,Santo Domingo,939,2012,70.0,Hungary,3.25,Missing,Dominican Republic,Average,7.0
+1728,Szanto Tibor,Millot Plantation,939,2012,70.0,Hungary,3.25,Missing,Madagascar,Average,7.0
+1729,Szanto Tibor,"Ayacucho, ""El Guinacho""",939,2012,70.0,Hungary,3.75,Missing,Peru,Above Average,7.0
+1730,Szanto Tibor,Crudo,761,2011,70.0,Hungary,3.0,Missing,Venezuela,Average,6.0
+1731,Tabal,Costa Rica,1101,2013,70.0,United States,2.75,Missing,Costa Rica,Below Average,8.0
+1732,Tabal,Dominican Republic,1101,2013,70.0,United States,2.75,Missing,Dominican Republic,Below Average,8.0
+1733,Tabal,"Chiapas, Lacandon Jungle",1105,2013,70.0,United States,2.5,Missing,Mexico,Below Average,8.0
+1734,Tabal,Peru,1105,2013,70.0,United States,3.0,Missing,Peru,Average,8.0
+1735,Tablette (aka Vanillabeans),Colombia,1450,2015,70.0,Japan,3.0,Missing,Colombia,Average,10.0
+1736,Tablette (aka Vanillabeans),Papua,1450,2015,62.0,Japan,3.25,Missing,Papua New Guinea,Average,10.0
+1737,Tablette (aka Vanillabeans),Vietnam,1450,2015,60.0,Japan,3.25,Trinitario,Vietnam,Average,10.0
+1738,Tablette (aka Vanillabeans),Trinidad,1680,2015,77.0,Japan,2.75,Trinitario,Trinidad,Below Average,10.0
+1739,Tan Ban Skrati,"Paramaribo, batch 20160043-01",1868,2016,70.0,Suriname,3.25,Trinitario,Suriname,Average,11.0
+1740,Taza,Belize,1271,2014,68.0,United States,3.0,Trinitario,Belize,Average,9.0
+1741,Taza,Alto Beni,785,2011,87.0,United States,3.25,Missing,Bolivia,Average,6.0
+1742,Taza,Chiapan,451,2009,75.0,United States,2.75,Missing,Mexico,Below Average,4.0
+1743,Taza,"Dark, Stone Ground",180,2007,70.0,United States,3.0,Missing,Dominican Republic,Average,2.0
+1744,TCHO,West Africa,1716,2016,62.0,United States,2.0,Forastero,West Africa,Below Average,11.0
+1745,TCHO,Peru- Ecuador,915,2012,99.0,United States,3.25,Missing,Peru,Average,7.0
+1746,TCHO,Peru- Ecuador,915,2012,99.0,United States,3.25,Missing,Ecuador,Average,7.0
+1747,TCHO,TCHOPro 60.5,387,2009,60.0,United States,2.75,Missing,Missing,Below Average,4.0
+1748,TCHO,TCHOPro 68,387,2009,68.0,United States,3.0,Missing,Missing,Average,4.0
+1749,TCHO,Chocolatey-beta,199,2008,70.0,United States,2.5,Forastero,Ghana,Below Average,3.0
+1750,TCHO,Fruity-beta,280,2008,70.0,United States,2.5,Missing,Peru,Below Average,3.0
+1751,TCHO,Citrus-beta,280,2008,70.0,United States,2.75,Missing,Madagascar,Below Average,3.0
+1752,TCHO,Nutty-beta,284,2008,70.0,United States,2.5,Missing,Peru,Below Average,3.0
+1753,Tejas,Concepcion,801,2012,70.0,United States,2.75,Missing,Madagascar,Below Average,7.0
+1754,Tejas,Bayou Blend,801,2012,70.0,United States,3.0,Blend,Ecuador,Average,7.0
+1755,Tejas,Bayou Blend,801,2012,70.0,United States,3.0,Blend,Madagascar,Average,7.0
+1756,Tejas,Bayou Blend,801,2012,70.0,United States,3.0,Blend,Papua New Guinea,Average,7.0
+1757,Tejas,Aranama,805,2012,70.0,United States,3.0,Missing,Papua New Guinea,Average,7.0
+1758,Tejas,Presidio,805,2012,70.0,United States,3.5,Missing,Dominican Republic,Average,7.0
+1759,Tejas,"La Bahia, w/ cane juice",817,2012,70.0,United States,3.25,Missing,Ecuador,Average,7.0
+1760,Tejas,Capistrano,821,2012,70.0,United States,2.0,Missing,Peru,Below Average,7.0
+1761,Tejas,"La Bahia, w/ cane sugar",825,2012,70.0,United States,3.25,Missing,Ecuador,Average,7.0
+1762,Tejas,San Jose,829,2012,70.0,United States,2.75,Missing,Bolivia,Below Average,7.0
+1763,Tejas,Capistrano*,829,2012,70.0,United States,3.0,Missing,Madagascar,Average,7.0
+1764,Tejas,Espada,833,2012,70.0,United States,3.25,Missing,Mexico,Average,7.0
+1765,Tejas,Espada,967,2012,70.0,United States,2.75,Missing,Brazil,Below Average,7.0
+1766,Tejas,Concepcion*,971,2012,80.0,United States,3.0,Missing,Venezuela,Average,7.0
+1767,Tejas,San Jose,971,2012,67.0,United States,3.25,Missing,Bolivia,Average,7.0
+1768,Tejas,"Bahia, Floresta Azul,Good Friends Reserve#3",971,2012,70.0,United States,3.5,Forastero (Parazinho),Brazil,Average,7.0
+1769,Terroir,Peru,1478,2015,70.0,United States,2.75,Missing,Peru,Below Average,10.0
+1770,Terroir,Belize,1478,2015,70.0,United States,3.75,Trinitario,Belize,Above Average,10.0
+1771,Terroir,Madagascar,1478,2015,70.0,United States,3.75,Trinitario,Madagascar,Above Average,10.0
+1772,Terroir,Ecuador,1482,2015,70.0,United States,3.25,Missing,Ecuador,Average,10.0
+1773,Terroir,Oko Caribe,1554,2015,70.0,United States,3.5,Missing,Dominican Republic,Average,10.0
+1774,Terroir,Guatemala,1558,2015,70.0,United States,3.75,Trinitario,Guatemala,Above Average,10.0
+1775,Terroir,Ecuador,1323,2014,77.0,United States,3.25,Missing,Ecuador,Average,9.0
+1776,Terroir,Madagascar,1323,2014,67.0,United States,3.75,Trinitario,Madagascar,Above Average,9.0
+1777,Terroir,Uganda,1323,2014,73.0,United States,3.75,Forastero,Uganda,Above Average,9.0
+1778,The Barn,Peru,1614,2015,70.0,Sweden,3.0,Missing,Peru,Average,10.0
+1779,Theo,Congo w/ nibs,903,2012,65.0,United States,3.25,Forastero,Congo,Average,7.0
+1780,Theo,Madagascar,162,2007,65.0,United States,3.5,Trinitario,Madagascar,Average,2.0
+1781,Theo,Ivory Coast,184,2007,75.0,United States,2.5,Missing,Ivory Coast,Below Average,2.0
+1782,Theo,"Ghana, Kumasi",184,2007,84.0,United States,3.0,Forastero,Ghana,Average,2.0
+1783,Theo,"Venezuela; Barinos, Merida, Tachron",188,2007,91.0,United States,2.0,Blend,Venezuela,Below Average,2.0
+1784,Theo,"Ghana, Panama, Ecuador",188,2007,75.0,United States,3.0,Blend,Ghana,Average,2.0
+1785,Theo,"Ghana, Panama, Ecuador",188,2007,75.0,United States,3.0,Blend,Panama,Average,2.0
+1786,Theo,"Ghana, Panama, Ecuador",188,2007,75.0,United States,3.0,Blend,Ecuador,Average,2.0
+1787,Theobroma,"Piura Select, Cacao Blanc",1684,2015,70.0,Japan,3.25,Missing,Peru,Average,10.0
+1788,Timo A. Meyer,"Belize, med roast",1836,2016,72.0,Germany,3.75,Trinitario,Belize,Above Average,11.0
+1789,Timo A. Meyer,"Belize, med roast",1836,2016,72.0,Germany,3.75,TCGA,Belize,Above Average,11.0
+1790,To'ak (Ecuatoriana),Manabi,1418,2014,81.0,Ecuador,3.25,Forastero (Nacional),Ecuador,Average,9.0
+1791,Tobago Estate (Pralus),"Roxborough, Tobago",895,2012,70.0,France,4.0,Trinitario,Tobago,Above Average,7.0
+1792,Tocoti,"Wild Bolivian, Jungle Love",927,2012,77.0,United States,3.0,Criollo,Bolivia,Average,7.0
+1793,Tocoti,Venezuela,789,2011,72.0,United States,2.75,Missing,Venezuela,Below Average,6.0
+1794,Tocoti,Dominican Republic,789,2011,74.0,United States,3.0,Missing,Dominican Republic,Average,6.0
+1795,Treehouse,Conacado,1239,2014,72.0,United States,3.0,Missing,Dominican Republic,Average,9.0
+1796,Tsara (Cinagra),"Ambanja, Tsara Valley",753,2011,72.0,Madagascar,3.5,Missing,Madagascar,Average,6.0
+1797,twenty-four blackbirds,Oko Caribe,1700,2015,75.0,United States,2.75,Missing,Dominican Republic,Below Average,10.0
+1798,twenty-four blackbirds,"Cedeno, lot 271",1700,2015,75.0,United States,3.5,Missing,Ecuador,Average,10.0
+1799,twenty-four blackbirds,Madagascar,1235,2014,75.0,United States,3.5,Trinitario,Madagascar,Average,9.0
+1800,twenty-four blackbirds,Dominican Republic,1022,2013,68.0,United States,3.25,Missing,Dominican Republic,Average,8.0
+1801,twenty-four blackbirds,Palos Blancos,1026,2013,75.0,United States,2.5,Missing,Bolivia,Below Average,8.0
+1802,twenty-four blackbirds,Dominican Republic,753,2011,73.0,United States,2.75,Missing,Dominican Republic,Below Average,6.0
+1803,Two Ravens,Peru,1740,2016,60.0,United States,3.0,Criollo,Peru,Average,11.0
+1804,Un Dimanche A Paris,Dominican Republic,709,2011,63.0,France,3.75,Missing,Dominican Republic,Above Average,6.0
+1805,Undone,Matagalpa,1438,2014,74.0,United States,2.75,Missing,Nicaragua,Below Average,9.0
+1806,Undone,Nourish,1438,2014,70.0,United States,3.0,Missing,Dominican Republic,Average,9.0
+1807,Upchurch,"Madagascar, Sassy Bar",1752,2016,72.0,United States,3.0,Trinitario,Madagascar,Average,11.0
+1808,Upchurch,"Tanzania, Party Bar",1752,2016,72.0,United States,3.25,Missing,Tanzania,Average,11.0
+1809,Urzi,"Sur del Lago, Merida",1327,2014,65.0,Italy,3.25,Trinitario,Venezuela,Average,9.0
+1810,Valrhona,"Piura, Illanka, Quemazon",1510,2015,63.0,France,4.0,Missing,Peru,Above Average,10.0
+1811,Valrhona,"Andoa, Grand Cru blend",1145,2013,70.0,France,3.5,Missing,Missing,Average,8.0
+1812,Valrhona,"Loma Sotavento, 2013",1153,2013,64.0,France,3.5,Missing,Dominican Republic,Average,8.0
+1813,Valrhona,"Otucan, Grand Cru",931,2012,69.0,France,4.0,Missing,Venezuela,Above Average,7.0
+1814,Valrhona,Caraque,709,2011,56.0,France,3.25,Missing,Missing,Average,6.0
+1815,Valrhona,"Porcelana, Pedegral",757,2011,64.0,France,4.0,Criollo,Venezuela,Above Average,6.0
+1816,Valrhona,Tainori,327,2009,64.0,France,3.75,Missing,Dominican Republic,Above Average,4.0
+1817,Valrhona,Alpaco,370,2009,66.0,France,3.75,Missing,Ecuador,Above Average,4.0
+1818,Valrhona,Nyangbo,395,2009,68.0,France,3.5,Forastero,Ghana,Average,4.0
+1819,Valrhona,Araguani,117,2007,72.0,France,3.0,Blend,Venezuela,Average,2.0
+1820,Valrhona,Araguani,117,2007,72.0,France,3.0,Blend,Carribean,Average,2.0
+1821,Valrhona,Chuao 2002 P.,129,2007,65.0,France,3.75,Trinitario,Venezuela,Above Average,2.0
+1822,Valrhona,Manjari,129,2007,64.0,France,4.0,Criollo,Madagascar,Above Average,2.0
+1823,Valrhona,Manjari,129,2007,64.0,France,4.0,Trinitario,Madagascar,Above Average,2.0
+1824,Valrhona,Le Noir Extra Amer,147,2007,85.0,France,1.5,Missing,Missing,Below Average,2.0
+1825,Valrhona,Abinao,153,2007,85.0,France,2.5,Forastero,West Africa,Below Average,2.0
+1826,Valrhona,Le Noir Amer,157,2007,71.0,France,2.75,Forastero,West Africa,Below Average,2.0
+1827,Valrhona,"Porcelana, Maracaibo, Palmira P. 2006",162,2007,64.0,France,3.25,Criollo (Porcelana),Venezuela,Average,2.0
+1828,Valrhona,Caraibe,63,2006,66.0,France,3.0,Trinitario,Carribean,Average,1.0
+1829,Valrhona,Guanaja,63,2006,70.0,France,4.0,Criollo,South America,Above Average,1.0
+1830,Valrhona,Guanaja,63,2006,70.0,France,4.0,Trinitario,South America,Above Average,1.0
+1831,Valrhona,Gran Couva 2005 P.,75,2006,64.0,France,2.5,Trinitario,Trinidad,Below Average,1.0
+1832,Valrhona,"Porcelana, Maracaibo, Palmira P. 2005",75,2006,64.0,France,3.0,Criollo (Porcelana),Venezuela,Average,1.0
+1833,Valrhona,"Sambirano, Ampamakia 2005, Millot P.",75,2006,64.0,France,3.5,Trinitario,Madagascar,Average,1.0
+1834,Vanleer (Barry Callebaut),Manhattan,963,2012,72.0,United States,2.5,Forastero,Ghana,Below Average,7.0
+1835,Vanleer (Barry Callebaut),Napa,963,2012,65.0,United States,2.75,Forastero,Ghana,Below Average,7.0
+1836,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,72.0,Madagascar,2.75,Trinitario,Madagascar,Below Average,4.0
+1837,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,76.0,Madagascar,2.75,Trinitario,Madagascar,Below Average,4.0
+1838,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,80.0,Madagascar,2.75,Trinitario,Madagascar,Below Average,4.0
+1839,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,70.0,Madagascar,3.0,Trinitario,Madagascar,Average,4.0
+1840,Vao Vao (Chocolaterie Robert),Madagascar w/ nibs,404,2009,68.0,Madagascar,3.0,Trinitario,Madagascar,Average,4.0
+1841,Vao Vao (Chocolaterie Robert),Madagascar,404,2009,64.0,Madagascar,3.25,Trinitario,Madagascar,Average,4.0
+1842,Vicuna,Palos Blancos,1470,2015,70.0,United States,3.25,Missing,Bolivia,Average,10.0
+1843,Vicuna,Palos Blancos + nibs,1470,2015,70.0,United States,3.25,Missing,Bolivia,Average,10.0
+1844,Videri,Dominican Republic,1211,2014,90.0,United States,3.25,Missing,Dominican Republic,Average,9.0
+1845,Videri,Trinidad,1211,2014,75.0,United States,3.5,Trinitario,Trinidad,Average,9.0
+1846,Videri,Mindo,1227,2014,75.0,United States,3.5,Missing,Ecuador,Average,9.0
+1847,Videri,Dark,1117,2013,90.0,United States,3.75,Missing,Central America,Above Average,8.0
+1848,Videri,Dark,1117,2013,90.0,United States,3.75,Missing,South America,Above Average,8.0
+1849,Videri,Classic,991,2012,70.0,United States,3.25,Missing,Central America,Average,7.0
+1850,Videri,Classic,991,2012,70.0,United States,3.25,Missing,South America,Average,7.0
+1851,Vietcacao (A. Morin),"Ben Tre, Mekong Delta, MoCay",951,2012,70.0,France,3.5,Trinitario,Vietnam,Average,7.0
+1852,Vintage Plantations,San Martin,1205,2014,75.0,United States,3.0,Missing,Peru,Average,9.0
+1853,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,100.0,United States,2.0,Forastero (Arriba),Ecuador,Below Average,2.0
+1854,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,90.0,United States,2.0,Forastero (Arriba),Ecuador,Below Average,2.0
+1855,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2004/2007",153,2007,75.0,United States,3.0,Forastero (Arriba),Ecuador,Average,2.0
+1856,Vintage Plantations (Tulicorp),"Los Rios, Rancho Grande 2007",153,2007,65.0,United States,3.0,Forastero (Arriba),Ecuador,Average,2.0
+1857,Violet Sky,Sambirano Valley,1458,2015,77.0,United States,2.75,Trinitario,Madagascar,Below Average,10.0
+1858,Violet Sky,Moho River Valley,1458,2015,77.0,United States,3.0,Criollo,Belize,Average,10.0
+1859,Violet Sky,Moho River Valley,1458,2015,77.0,United States,3.0,Trinitario,Belize,Average,10.0
+1860,Violet Sky,Cuyagua,1458,2015,77.0,United States,3.0,Criollo,Venezuela,Average,10.0
+1861,Violet Sky,Peru,1458,2015,77.0,United States,3.25,Criollo,Peru,Average,10.0
+1862,Violet Sky,Peru,1458,2015,77.0,United States,3.25,Trinitario,Peru,Average,10.0
+1863,Violet Sky,Cahabon,1502,2015,77.0,United States,2.75,Trinitario,Guatemala,Below Average,10.0
+1864,Vivra,Peru,1720,2016,70.0,United States,2.5,Missing,Peru,Below Average,11.0
+1865,Vivra,Ocumare,1720,2016,70.0,United States,2.5,Missing,Venezuela,Below Average,11.0
+1866,Vivra,Dominican Republic,1724,2016,70.0,United States,3.0,Missing,Dominican Republic,Average,11.0
+1867,Wellington Chocolate Factory,Conacado,1756,2016,70.0,New Zealand,3.5,Trinitario,Dominican Republic,Average,11.0
+1868,Wellington Chocolate Factory,"Piura Blanco, Norandino",1756,2016,70.0,New Zealand,3.5,Missing,Peru,Average,11.0
+1869,Whittakers,Ghana,733,2011,72.0,New Zealand,2.5,Forastero,Ghana,Below Average,6.0
+1870,Wilkie's Organic,Amazonas,1169,2013,75.0,Ireland,2.5,Criollo,Peru,Below Average,8.0
+1871,Wilkie's Organic,Amazonas,1169,2013,89.0,Ireland,2.75,Criollo,Peru,Below Average,8.0
+1872,Wilkie's Organic,Tumbes,1169,2013,75.0,Ireland,3.25,Criollo,Peru,Average,8.0
+1873,Wilkie's Organic,Amazonas w/ nibs,1173,2013,75.0,Ireland,2.75,Criollo,Peru,Below Average,8.0
+1874,Willie's Cacao,Los Llanos,1848,2016,70.0,United Kingdom,4.0,Missing,Colombia,Above Average,11.0
+1875,Willie's Cacao,Los Llanos,1227,2014,88.0,United Kingdom,3.0,Trinitario,Colombia,Average,9.0
+1876,Willie's Cacao,"Java, Indonesian Black",1109,2013,100.0,United Kingdom,2.25,Missing,Indonesia,Below Average,8.0
+1877,Willie's Cacao,Sambirano,593,2010,71.0,United Kingdom,3.0,Trinitario,Madagascar,Average,5.0
+1878,Willie's Cacao,Hacienda Las Trincheras,593,2010,72.0,United Kingdom,3.5,Missing,Venezuela,Average,5.0
+1879,Willie's Cacao,Java,593,2010,69.0,United Kingdom,3.75,Missing,Indonesia,Above Average,5.0
+1880,Willie's Cacao,San Martin,457,2009,70.0,United Kingdom,3.0,Missing,Peru,Average,4.0
+1881,Willie's Cacao,Rio Caribe,457,2009,72.0,United Kingdom,3.25,Trinitario,Venezuela,Average,4.0
+1882,Wm,"Guasare, Zulia Prov., 2015, batch 124",1912,2016,74.0,United States,3.0,Criollo,Venezuela,Average,11.0
+1883,Wm,"Wild Beniano, 2016, batch 128, Heirloom",1912,2016,76.0,United States,3.5,Missing,Bolivia,Average,11.0
+1884,Wm,"Ghana, 2013, batch 129",1916,2016,75.0,United States,3.75,Missing,Ghana,Above Average,11.0
+1885,Woodblock,"Maranon, Cajamarca",1243,2014,70.0,United States,3.0,Forastero (Nacional),Peru,Average,9.0
+1886,Woodblock,"Camino Verde P., Balao, Guayas",1042,2013,70.0,United States,3.25,Missing,Ecuador,Average,8.0
+1887,Woodblock,Gran Couva,1042,2013,70.0,United States,3.5,Trinitario,Trinidad,Average,8.0
+1888,Woodblock,Ecuador,825,2012,70.0,United States,2.5,Missing,Ecuador,Below Average,7.0
+1889,Woodblock,Costa Rica,825,2012,70.0,United States,3.0,Missing,Costa Rica,Average,7.0
+1890,Woodblock,Sambirano,951,2012,70.0,United States,3.25,Trinitario,Madagascar,Average,7.0
+1891,Woodblock,Ocumare,741,2011,70.0,United States,4.0,Missing,Venezuela,Above Average,6.0
+1892,Woodblock,La Red,769,2011,70.0,United States,3.5,Missing,Dominican Republic,Average,6.0
+1893,Xocolat,Hispaniola,1057,2013,66.0,Dominican Republic,3.0,Missing,Dominican Republic,Average,8.0
+1894,Xocolla,"Sambirano, batch 170102",1948,2017,70.0,United States,2.75,Missing,Madagascar,Below Average,12.0
+1895,Xocolla,"Hispaniola, batch 170104",1948,2017,70.0,United States,2.5,Missing,Dominican Republic,Below Average,12.0
+1896,Zak's,"Papua New Guinea, Batch 2",1574,2015,70.0,United States,3.0,Missing,Papua New Guinea,Average,10.0
+1897,Zak's,"Dominican Republic, Batch D2",1578,2015,70.0,United States,3.25,Missing,Dominican Republic,Average,10.0
+1898,Zak's,"Madagascar, Batch 2",1578,2015,70.0,United States,3.25,Trinitario,Madagascar,Average,10.0
+1899,Zak's,"Peru, Batch 1",1578,2015,70.0,United States,3.25,Missing,Peru,Average,10.0
+1900,Zak's,"Belize, Batch 2",1578,2015,70.0,United States,3.5,Trinitario,Belize,Average,10.0
+1901,Zak's,"House Blend, Batch 2",1582,2015,60.0,United States,3.0,Missing,Missing,Average,10.0
+1902,Zart Pralinen,"Millot P., Ambanja",1820,2016,70.0,Austria,3.5,Criollo,Madagascar,Average,11.0
+1903,Zart Pralinen,"Millot P., Ambanja",1820,2016,70.0,Austria,3.5,Trinitario,Madagascar,Average,11.0
+1904,Zart Pralinen,UNOCACE,1824,2016,70.0,Austria,2.75,Nacional (Arriba),Ecuador,Below Average,11.0
+1905,Zart Pralinen,San Juan Estate,1824,2016,85.0,Austria,2.75,Trinitario,Trinidad,Below Average,11.0
+1906,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,85.0,Austria,3.0,Criollo,Tanzania,Average,11.0
+1907,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,85.0,Austria,3.0,Trinitario,Tanzania,Average,11.0
+1908,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,70.0,Austria,3.5,Criollo,Tanzania,Average,11.0
+1909,Zart Pralinen,"Kakao Kamili, Kilombero Valley",1824,2016,70.0,Austria,3.5,Trinitario,Tanzania,Average,11.0
+1910,Zart Pralinen,"San Juan Estate, Gran Couva",1880,2016,78.0,Austria,3.5,Trinitario,Trinidad,Average,11.0
+1911,Zokoko,Guadalcanal,1716,2016,78.0,Australia,3.75,Missing,Solomon Islands,Above Average,11.0
+1912,Zokoko,Goddess Blend,1780,2016,65.0,Australia,3.25,Missing,Missing,Average,11.0
+1913,Zokoko,Alto Beni,697,2011,68.0,Australia,3.5,Missing,Bolivia,Average,6.0
+1914,Zokoko,Tokiala,701,2011,66.0,Australia,3.5,Trinitario,Papua New Guinea,Average,6.0
+1915,Zokoko,"Tranquilidad, Baures",701,2011,72.0,Australia,3.75,Missing,Bolivia,Above Average,6.0
+1916,Zotter,Raw,1205,2014,80.0,Austria,2.75,Missing,Missing,Below Average,9.0
+1917,Zotter,"Bocas del Toro, Cocabo Co-op",801,2012,72.0,Austria,3.5,Missing,Panama,Average,7.0
+1918,Zotter,Amazonas Frucht,801,2012,65.0,Austria,3.5,Missing,Missing,Average,7.0
+1919,Zotter,"Satipo Pangoa region, 16hr conche",875,2012,70.0,Austria,3.0,Criollo (Amarru),Peru,Average,7.0
+1920,Zotter,"Satipo Pangoa region, 20hr conche",875,2012,70.0,Austria,3.5,Criollo (Amarru),Peru,Average,7.0
+1921,Zotter,"Loma Los Pinos, Yacao region, D.R.",875,2012,62.0,Austria,3.75,Missing,Dominican Republic,Above Average,7.0
+1922,Zotter,El Oro,879,2012,75.0,Austria,3.0,Forastero (Nacional),Ecuador,Average,7.0
+1923,Zotter,Huiwani Coop,879,2012,75.0,Austria,3.0,Criollo,Papua New Guinea,Average,7.0
+1924,Zotter,Huiwani Coop,879,2012,75.0,Austria,3.0,Trinitario,Papua New Guinea,Average,7.0
+1925,Zotter,El Ceibo Coop,879,2012,90.0,Austria,3.25,Missing,Bolivia,Average,7.0
+1926,Zotter,Santo Domingo,879,2012,70.0,Austria,3.75,Missing,Dominican Republic,Above Average,7.0
+1927,Zotter,"Kongo, Highlands",883,2012,68.0,Austria,3.25,Forastero,Congo,Average,7.0
+1928,Zotter,"Indianer, Raw",883,2012,58.0,Austria,3.5,Missing,Missing,Average,7.0
+1929,Zotter,Peru,647,2011,70.0,Austria,3.75,Missing,Peru,Above Average,6.0
+1930,Zotter,Congo,749,2011,65.0,Austria,3.0,Forastero,Congo,Average,6.0
+1931,Zotter,Kerala State,749,2011,65.0,Austria,3.5,Forastero,India,Average,6.0
+1932,Zotter,Kerala State,781,2011,62.0,Austria,3.25,Missing,India,Average,6.0
+1933,Zotter,"Brazil, Mitzi Blue",486,2010,65.0,Austria,3.0,Missing,Brazil,Average,5.0
